@@ -12,7 +12,7 @@ tags:
   - "restorative-yoga"
 ingredients: >-
   
-ingredients: >-
+instructions: >-
   
 ---
 > **_“I know you can do more, but can you do less?”_**

@@ -10,24 +10,24 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-## h2 Heading
+  ## h2 Heading
 
-### h3 Heading
+  ## # h3 Heading
 
-#### h4 Heading
+  ## ## h4 Heading
 
-##### h5 Heading
+  ## ## # h5 Heading
 
-###### h6 Heading
+  ## ## ## h6 Heading
 
-## Horizontal Rules
+  ## Horizontal Rules
 
 ---
-## Emphasis
+  ## Emphasis
 
-**This is bold text**
+  *This is bold text**
 
-**This is bold text**
+  *This is bold text**
 
 _This is italic text_
 
@@ -35,7 +35,7 @@ _This is italic text_
 
 ~~Strikethrough~~
 
-## Blockquotes
+  ## Blockquotes
 
 > Blockquotes can also be nested...
 >
@@ -43,7 +43,7 @@ _This is italic text_
 > >
 > > > ...or with spaces between arrows.
 
-## Lists
+  ## Lists
 
 Unordered
 
@@ -69,7 +69,7 @@ Start numbering with offset:
 57. foo
 1. bar
 
-## Code
+  ## Code
 
 Inline `code`
 
@@ -96,7 +96,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
+  ## Tables
 
 | Option | Description                                                               |
 | ------ | ------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@ console.log(foo(5));
 | engine | engine to be used for processing templates. Handlebars is the default.    |
 | ext    | extension to be used for dest files.                                      |
 
-## Links
+  ## Links
 
 [link text](http://dev.nodeca.com)
 
@@ -112,6 +112,6 @@ console.log(foo(5));
 
 Autoconverted link https://github.com/nodeca/pica
 
-## Images
+  ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)

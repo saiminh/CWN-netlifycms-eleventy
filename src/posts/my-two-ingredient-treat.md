@@ -15,17 +15,17 @@ tags:
   - "treat"
   - "yoghurt"
 ingredients: >-
-  ##My two-ingredient treat
+  ## My two-ingredient treat
 
 
 
     *Serves 1*
 
- 	* 1/2 cup x coconut yoghurt
- 	* 1 TBSP x raw cacao powder
- 	* Optional extras: a touch of your favourite sweetener (honey or stevia, for me), sprinkling of cacao nibs or dried coconut, fresh berries, orange zest, a pinch of spice or dash of flavour (cinnamon, cardamom, vanilla, peppermint essence), some nuts, pinch of sea salt. Or whatever other yummies you can think of
+    * 1/2 cup x coconut yoghurt
+    * 1 TBSP x raw cacao powder
+    * Optional extras: a touch of your favourite sweetener (honey or stevia, for me), sprinkling of cacao nibs or dried coconut, fresh berries, orange zest, a pinch of spice or dash of flavour (cinnamon, cardamom, vanilla, peppermint essence), some nuts, pinch of sea salt. Or whatever other yummies you can think of
 
-ingredients: >-
+instructions: >-
   Spoon the yoghurt into a small bowl. Use a sieve to sprinkle over the cacao powder (otherwise you'll get clumps). Add in another extras, if using, then whip until smooth and serve.
 ---
 A snap-your-fingers-and-it's-done treat that's also good for your gut? This, my friends, is it. Silky like mousse, this combination of coconut yoghurt and raw cacao will satisfy chocolate cravings and feed good gut bacteria in the process. Win-win.

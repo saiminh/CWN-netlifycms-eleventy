@@ -8,7 +8,7 @@ tags:
   - "ibs"
 ingredients: >-
   
-ingredients: >-
+instructions: >-
   
 ---
 This gut-health business is mighty confusing. I’ve been searching for answers for around a decade, and although I feel like I’m _finally_ getting somewhere, the road to healing is still a long one. Quick update: my colonoscopy came back clear so whatever my issue is, it’s a functional one. The next step for me is to undergo a more comprehensive stool analysis to ascertain which bacteria are out of whack. I had a less elaborate test done a while back and it showed some issues, but couldn’t offer a clear enough picture of how to approach treatment.

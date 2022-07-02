@@ -9,7 +9,7 @@ tags:
   - "scd"
 ingredients: >-
   
-ingredients: >-
+instructions: >-
   
 ---
 I’ve just finished two weeks on the [Specific Carbohydrate Diet](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.breakingtheviciouscycle.info%2F&t=ZDdjYTQzMTQ0ZjUxYTE3MWJkYjY1MDA3MDQ5ODJiNTE4NDNiMWE3OCxheFVZYUhhUw%3D%3D&b=t%3AVOYglxJ9sBHW8BFVroDfxQ&p=http%3A%2F%2Fcookingwithnothing.com%2Fpost%2F108730441416%2Fscd-diet-2-weeks-in&m=1) (SCD) and thought I’d share my progress. The first thing you should know is that it’s tough. I’ve been on elimination diets before, but the SCD diet involves making _everything_ from scratch, most of which is very time consuming. It’s a philosophy I’d love to adhere to even if I didn’t need to, but balancing it with a full-time job and daily life is tricky. Doable, but tricky.

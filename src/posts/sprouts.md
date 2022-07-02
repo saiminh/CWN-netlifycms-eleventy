@@ -11,50 +11,50 @@ tags:
   - "vegan"
   - "vegetarian"
 ingredients: >-
-  ##Sprouts
+  ## Sprouts
 
 
 
     *<strong>Soak time </strong>*6 hours*<strong>
-Days to sprout </strong>*5-6 days
+  Days to sprout </strong>*5-6 days
 
- 	* 2 TBSP x alfalfa or red clover, or 1/4 cup radish or mustard
+    * 2 TBSP x alfalfa or red clover, or 1/4 cup radish or mustard
 
-*<strong>Soak time </strong>*8 hours*<strong>
-Days to sprout </strong>*3 days
+  <strong>Soak time </strong>*8 hours*<strong>
+  Days to sprout </strong>*3 days
 
- 	* 1/2 cup x lentils or fenugreek
+    * 1/2 cup x lentils or fenugreek
 
-*<strong>Soak time </strong>*8 hours*<strong>
-Days to sprout </strong>*3-5 days
+  <strong>Soak time </strong>*8 hours*<strong>
+  Days to sprout </strong>*3-5 days
 
- 	* 1/2 cup x mung beans
+    * 1/2 cup x mung beans
 
-*<strong>Soak time </strong>*12 hours*<strong>
-Days to sprout </strong>*3 days
+  <strong>Soak time </strong>*12 hours*<strong>
+  Days to sprout </strong>*3 days
 
- 	* 1 cup x wheat or rye
+    * 1 cup x wheat or rye
 
-*<strong>Soak time </strong>*12 hours*<strong>
-Days to sprout </strong>*3-5 days
+  <strong>Soak time </strong>*12 hours*<strong>
+  Days to sprout </strong>*3-5 days
 
- 	* 1 cup x aduki, chickpeas, soy, or other legumes or grains
+    * 1 cup x aduki, chickpeas, soy, or other legumes or grains
 
-*<strong>Soak time </strong>*12 hours*<strong>
-Days to sprout </strong>*2 days
+  <strong>Soak time </strong>*12 hours*<strong>
+  Days to sprout </strong>*2 days
 
- 	* 2 cups x sunflower seeds
+    * 2 cups x sunflower seeds
 
-ingredients: >-
+instructions: >-
   Use one part seed/grain/legume to at least three parts water. Soak in a wide-mouth jar.
 
-Cover the mouth of the jar with a cheesecloth and secure with a rubber band. After soaking your choice of sproutable, drain well and keep in a warm (at least 18°C) dark place at an angle for drainage. Some people use a dish drainer. I don't have one, so I sit it at an angle in a small bowl instead. The jar can be covered with a cloth or bag for darkness.
+  Cover the mouth of the jar with a cheesecloth and secure with a rubber band. After soaking your choice of sproutable, drain well and keep in a warm (at least 18°C) dark place at an angle for drainage. Some people use a dish drainer. I don't have one, so I sit it at an angle in a small bowl instead. The jar can be covered with a cloth or bag for darkness.
 
-Rinse twice daily, ideally morning and night (the exception is soy, which must be rinsed four times daily to avoid rotting). I leave the cloth on the jar and fill with water, then strain with the cloth still on.
+  Rinse twice daily, ideally morning and night (the exception is soy, which must be rinsed four times daily to avoid rotting). I leave the cloth on the jar and fill with water, then strain with the cloth still on.
 
-After three days, place alfalfa, red clover, radish and mustard sprouts in a cool place with indirect sunlight to induce chlorophyll. Keep rinsing and draining twice daily until you see sprout tails.
+  After three days, place alfalfa, red clover, radish and mustard sprouts in a cool place with indirect sunlight to induce chlorophyll. Keep rinsing and draining twice daily until you see sprout tails.
 
-If using alfalfa or radish seeds, remove any hulls that slide off during the sprouting process as they're prone to moulding. To do so, place the sprouts in a large bowl of water and give them a shake. Gently reach under the sprouts and lift them out of the water carefully without disturbing the sunken hulls, which can then be discarded.
+  If using alfalfa or radish seeds, remove any hulls that slide off during the sprouting process as they're prone to moulding. To do so, place the sprouts in a large bowl of water and give them a shake. Gently reach under the sprouts and lift them out of the water carefully without disturbing the sunken hulls, which can then be discarded.
 ---
 Sprouts are activated and alive. As Paul Pitchford notes in _Healing with Whole Foods_, 'sprouts represent the point of greatest vitality in the life cycle of a plant. One clearly experiences this vitality when eating sprouts consistently.' The sprouting process 'predigests the nutrients . . . making \[them\] easier to assimilate and metabolize'. In a nutshell: they're easier to digest than their pre-sprouted counterparts and, depending on how long you let them sprout for, are also a great way to get some extra greens in your diet during the winter months.
 

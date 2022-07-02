@@ -9,7 +9,7 @@ tags:
   - "sibo"
 ingredients: >-
   
-ingredients: >-
+instructions: >-
   
 ---
 Years ago I wrote a [post](http://cookingwithnothing.com/post/7837941299/an-additional-challenge-eating-with-the-seasons) about why it’s important to eat with the seasons. Little did I know then that there was another, more crucial, reason to do so – particularly for sufferers of digestive disorders.

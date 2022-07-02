@@ -11,7 +11,7 @@ tags:
   - "yoga"
 ingredients: >-
   
-ingredients: >-
+instructions: >-
   
 ---
 My boyfriend and I travel to New Zealand from Amsterdam to escape renovation stresses for a while, only to find ourselves forced into lockdown with my brother, his wife and their two kids. An instant household of six. It might be the premise for a shitty sitcom if my new housemates weren’t so grounded, and focused on _preventing_ rather than _creating_ drama.
