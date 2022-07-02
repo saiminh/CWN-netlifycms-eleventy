@@ -1,4 +1,4 @@
-# Neat Starter
+# Cooking With Nothing based on Neat Starter
 
 Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
 
