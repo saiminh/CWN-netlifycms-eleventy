@@ -18,10 +18,11 @@ layout: blog
             </h2>
             <p class="text-base leading-6 text-gray-500 mb-3">
                 <time>
-                    {{ post.date | readableDate }}
+                  {{ post.date | readableDate }}
+                  {% if author %}
                     by
                     <a>{{ post.data.author }}</a>
-
+                  {% endif %}
                 </time>
             </p>
             {% if post.data.description %}

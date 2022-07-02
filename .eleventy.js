@@ -22,7 +22,8 @@ module.exports = function (eleventyConfig) {
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
-    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
+    const realdate = new Date(dateObj); //in case of quotes in the date
+    return DateTime.fromJSDate(realdate, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
     );
   });
