@@ -2,8 +2,18 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const markdown = require("markdown-it")({
+  html: true
+});
 
 module.exports = function (eleventyConfig) {
+
+  // adding markdown support to njk templates
+  eleventyConfig.addShortcode("markdown", function (content = '') { 
+    content = content.replace(/\n/g, '\n\n' );
+    return `${markdown.render(content)}` 
+  });
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
@@ -53,12 +63,17 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addNunjucksGlobal("fortytwo", function() {
+    return 42;
+  });
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {
     dir: {
       input: "src",
     },
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
   };
 };
