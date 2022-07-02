@@ -9,24 +9,29 @@ tags:
   - "dessert"
   - "gelatin"
   - "sweet"
-ingredients: "<h2 class=\"recipe_component_name\">Chocolate and cardamom gummy squares</h2>
-    <ul>
- 	<li>3 TBSP x grass-fed gelatin</li>
- 	<li>1/3 cup x cold water</li>
- 	<li>1 can x coconut milk</li>
- 	<li>2 TBSP x raw cacao powder</li>
- 	<li>4 x cardamom pods</li>
- 	<li>1/2 TBSP x raw honey or a few drops of liquid stevia (optional)</li>
- 	<li>pinch of sea salt</li>
- 	<li>optional toppings: cacao nibs, coconut flakes, flaky sea salt</li>
-</ul>"
-instructions: "Place the water in a small bowl or cup and slowly pour in the gelatin, whisking as you go to avoid clumps. Let it stand for 5 minutes until it becomes rubbery.
+ingredients: >-
+  ##Chocolate and cardamom gummy squares
+
+
+
+    
+ 	* 3 TBSP x grass-fed gelatin
+ 	* 1/3 cup x cold water
+ 	* 1 can x coconut milk
+ 	* 2 TBSP x raw cacao powder
+ 	* 4 x cardamom pods
+ 	* 1/2 TBSP x raw honey or a few drops of liquid stevia (optional)
+ 	* pinch of sea salt
+ 	* optional toppings: cacao nibs, coconut flakes, flaky sea salt
+
+ingredients: >-
+  Place the water in a small bowl or cup and slowly pour in the gelatin, whisking as you go to avoid clumps. Let it stand for 5 minutes until it becomes rubbery.
 
 Bash the cardamom pods in a mortar and pestle until they open. Throw them in a small pan with the coconut milk, cacao powder, salt and the sweetener (if using). Heat, while stirring, until almost boiling, then strain the liquid to remove the pods.
 
 Break up the gelatin into smaller bits, then add to the coconut milk liquid. Stir until all the gelatin has dissolved, then finish by pureeing with a stick blender to make it silky smooth.
 
-Pour the mixture into a glass dish (I use one that's 15 x 15 cm). Leave to cool before refrigerating. If you're adding toppings, sprinkle them over after around 30 minutes, when the mixture has stiffened slightly. It should be completely stiff in around an hour. Slice into small squares and serve."
+Pour the mixture into a glass dish (I use one that's 15 x 15 cm). Leave to cool before refrigerating. If you're adding toppings, sprinkle them over after around 30 minutes, when the mixture has stiffened slightly. It should be completely stiff in around an hour. Slice into small squares and serve.
 ---
 I first learned about the relationship between gut health and grass-fed gelatin while on the [SCD diet](http://www.breakingtheviciouscycle.info/). Not really for the vegetarians among us (although I know many who seem happy to munch on bags of store-bought gummy sweets), gelatin is a protein-rich substance made from bones, hides and connective tissues of animals. That's not to say store-bought gummies will heal your gut. No, sir. _Grass-fed_ is the key here.
 

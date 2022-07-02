@@ -8,8 +8,10 @@ tags:
   - "fmt"
   - "gut-health"
   - "yoga"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 Well, I’ve always said healing gut health is a journey. And recently I took another step on the long and winding road by starting to work with an Ayurvedic doctor. For those who don’t know what Ayurveda is, it’s a holistic healing system rooted in India. In ancient Sanskrit ‘Ayur’ means life and ‘Veda’ means knowledge – as such, it’s a practice that goes far beyond just what we eat. It’s based on the principles that health and wellbeing are the result of a balanced mind, body and spirit.
 

@@ -13,19 +13,24 @@ tags:
   - "scd"
   - "snack"
   - "vegetarian"
-ingredients: "<h2 class=\"recipe_component_name\">Probiotic yoghurt</h2>
-    <ul>
- 	<li>500 ml x full-fat milk (raw, if you can find it)</li>
- 	<li>1 TBSP x pre-made yoghurt (or leftovers from your last batch. See notes in intro)</li>
- 	<li>1 x 500-ml jar with lid</li>
-</ul>"
-instructions: "Heat the milk in a saucepan over a medium heat until it reaches around 90°C, just below boiling point, stirring gently as it warms up so the milk doesn't scold at the bottom or boil over the pan. This is for sterilization, as well as for apparently changing the protein structure of milk so it sets solid instead of curdling.
+ingredients: >-
+  ##Probiotic yoghurt
+
+
+
+    
+ 	* 500 ml x full-fat milk (raw, if you can find it)
+ 	* 1 TBSP x pre-made yoghurt (or leftovers from your last batch. See notes in intro)
+ 	* 1 x 500-ml jar with lid
+
+ingredients: >-
+  Heat the milk in a saucepan over a medium heat until it reaches around 90°C, just below boiling point, stirring gently as it warms up so the milk doesn't scold at the bottom or boil over the pan. This is for sterilization, as well as for apparently changing the protein structure of milk so it sets solid instead of curdling.
 
 Cool the milk to around 45°C. You can stir it from time to time to stop a milk skin forming on top, though I don't bother; you can stir it back in afterwards. If you're in a hurry, you can place the saucepan in a cold-water bath to speed up the process.
 
 Once the milk has cooled down, whisk in the pre-made yoghurt until well combined. Transfer to a jar and seal with the lid. Pop it in your yoghurt maker and incubate for 10-24 hours. Allow the finished yoghurt to set in the fridge for another 8 hours or so before serving.
 
-&nbsp;"
+&nbsp;
 ---
 During a particularly challenging health period, I was knee-deep in the [SCD diet](https://cookingwithnothing.com/ibs-and-scd/). Part of the protocol involves making your own yoghurt, but there are a _lot_ of rules. It has to be lactose-free, which requires fermenting milk with a specific starter (some strains of bacteria aren’t desirable for SCD-diet followers) for 24 hours at a constant temperature (between 38 and 43°C). Many yoghurt makers – including mine – will nudge above this temperature after a while, so I had to plug it into a dimmer switch and test the ferment throughout the 24-hour period. If you don't have a yoghurt maker, there are other ways . . . A slow cooker, oven with the pilot light on and even a hot-water bottle are all possible. Have a Google and find the best method for you.
 

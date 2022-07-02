@@ -8,39 +8,44 @@ tags:
   - "fermented"
   - "probiotics"
   - "seasonal"
-ingredients: "<h2 class=\"recipe_component_name\">Seasonal water kefir</h2>
-    <em>Equipment needed </em>
-<ul>
- 	<li>1 x large air-tight mason jar (I use one that's around 2.5 litres)</li>
- 	<li>A plastic sieve (or do what I do and line a metal sieve with cheesecloth when straining the grains, which don't deal well with metal)</li>
- 	<li>An air-tight swing-top bottle</li>
-</ul>
-<em>Ingredients for initial fermentation (the basic version)</em>
-<ul>
- 	<li>1/2 cup x water kefir grains</li>
- 	<li>1/2 cup x organic cane sugar</li>
- 	<li>2 x organic, sulphite-free dried figs, torn in half</li>
- 	<li>1 x lemon quarter</li>
-</ul>
+ingredients: >-
+  ##Seasonal water kefir
+
+
+
+    *Equipment needed *
+
+ 	* 1 x large air-tight mason jar (I use one that's around 2.5 litres)
+ 	* A plastic sieve (or do what I do and line a metal sieve with cheesecloth when straining the grains, which don't deal well with metal)
+ 	* An air-tight swing-top bottle
+
+*Ingredients for initial fermentation (the basic version)*
+
+ 	* 1/2 cup x water kefir grains
+ 	* 1/2 cup x organic cane sugar
+ 	* 2 x organic, sulphite-free dried figs, torn in half
+ 	* 1 x lemon quarter
+
 <strong>OR</strong>
 
-<em>Ingredients for initial fermentation (the more nutrient-rich version)</em>
-<ul>
- 	<li>1/2 cup x water kefir grains</li>
- 	<li>1/2 cup x organic cane sugar</li>
- 	<li>1 tsp x organic molasses</li>
- 	<li>1 x organic, sulphite-free dried fig, torn in half</li>
- 	<li>1 x organic, sulphite-free dried date, torn in half</li>
- 	<li>A few slices of fresh ginger</li>
- 	<li>1 x lemon quarter</li>
- 	<li>Plus, every so often, add a piece of boiled eggshell to the brew</li>
-</ul>
-<em>Ingredients for second fermentation </em>
-<ul>
- 	<li>1 1/2 cups x chopped fresh seasonal fruit</li>
- 	<li>Optional extras: fresh ginger, whole spices like cardamom or clove, fresh herbs</li>
-</ul>"
-instructions: "Fill the mason jar up with 2 litres of water and leave, unsealed, overnight. This helps chlorine from tap water to evaporate. If your tap water is chlorine free, you can skip this step. You can also use natural spring water instead to start making the kefir immediately.
+*Ingredients for initial fermentation (the more nutrient-rich version)*
+
+ 	* 1/2 cup x water kefir grains
+ 	* 1/2 cup x organic cane sugar
+ 	* 1 tsp x organic molasses
+ 	* 1 x organic, sulphite-free dried fig, torn in half
+ 	* 1 x organic, sulphite-free dried date, torn in half
+ 	* A few slices of fresh ginger
+ 	* 1 x lemon quarter
+ 	* Plus, every so often, add a piece of boiled eggshell to the brew
+
+*Ingredients for second fermentation *
+
+ 	* 1 1/2 cups x chopped fresh seasonal fruit
+ 	* Optional extras: fresh ginger, whole spices like cardamom or clove, fresh herbs
+
+ingredients: >-
+  Fill the mason jar up with 2 litres of water and leave, unsealed, overnight. This helps chlorine from tap water to evaporate. If your tap water is chlorine free, you can skip this step. You can also use natural spring water instead to start making the kefir immediately.
 
 The next day, add 1/2 cup cane sugar to the jar (as well as the molasses, if following the more involved fermentation option) and stir with a wooden spoon (remember: kefir grains don't like metal) until dissolved.
 
@@ -56,7 +61,7 @@ Now back to the second fermentation of your current batch. Give your mason jar a
 
 Add the fruit and any additional extras, then seal. Keep on the kitchen bench for another 24 hours. After that time, the fruit should have risen to the surface and the liquid should have a light fizz.
 
-Re-strain to remove the fruit. You can drink the flavoured kefir as is, or pour it into a swing-top bottle and leave at room temperature for an additional 24 hours or longer to make it fizzy. Just make sure you 'burp' the bottle once or twice a day, as bottles like this have been known to explode."
+Re-strain to remove the fruit. You can drink the flavoured kefir as is, or pour it into a swing-top bottle and leave at room temperature for an additional 24 hours or longer to make it fizzy. Just make sure you 'burp' the bottle once or twice a day, as bottles like this have been known to explode.
 ---
 To keep my gut nourished with good bacteria, I try to consume something fermented each day. Usually I tend towards sauerkraut, kimchi and [pickles](https://cookingwithnothing.com/easy-pickles/), all of which I make at home. I'm still working on a coconut yoghurt that's better than, or at least as good as, the stuff I can get from my local organic shop, but the same place also sells a de-li-ci-ous water kefir, which is basically like a probiotic soda. My boyfriend and I call it 'the most refreshing drink in the world'. Lemon and fig flavour, it's sour, fizzy and oh-so thirst-quenching.
 

@@ -7,8 +7,10 @@ tags:
   - "dysbiosis"
   - "fmt"
   - "gut-health"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 Who gives a shit? Well, my boyfriend for one. Literally. I didn’t mention it in the last faecal transplant-related [post](http://cookingwithnothing.com/im-down-with-fmt/), but my boyfriend was my poop donor. Yep, that’s right. In his words, he could finally help me with ‘something he’s good at’. Turns out as a German raised in the land of sauerkraut, having never had antibiotics – something absolutely unbelievable to anyone raised in the US, UK, New Zealand or Australia, I’d imagine – he was an ideal donor. We did the tests and he had the grades to prove it – a skill to add to his CV, perhaps. But the question was whether his ‘superior shit’ would crack the digestive conundrum I’d become, even to my doctor.
 

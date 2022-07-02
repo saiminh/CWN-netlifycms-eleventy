@@ -16,37 +16,45 @@ tags:
   - "vegan"
   - "vegetarian"
   - "winter"
-ingredients: "<h2 class=\"recipe_component_name\">Soup</h2>
-    <em>Serves 4</em>
-<ul>
- 	<li>2 tsp x coriander seeds</li>
- 	<li>2 TBSP x coconut oil</li>
- 	<li>1 x onion, sliced</li>
- 	<li>4 x garlic cloves, sliced</li>
- 	<li>1 TBSP x grated ginger</li>
- 	<li>1 tsp x cumin seeds</li>
- 	<li>1 tsp x nigella seeds</li>
- 	<li>400 g x potatoes, roughly chopped</li>
- 	<li>½ x cauliflower (the other half is for the ‘crouton’ recipe below), chopped up a bit larger than the potatoes</li>
- 	<li>1 400-g jar x chopped tomatoes</li>
- 	<li>Dried chillies, crushed, or chilli powder to taste (start with ½ tsp if you’re not sure; you can add more later if you like)</li>
- 	<li>1 tsp x turmeric powder</li>
- 	<li>750 ml x vegetable stock (make sure it's gluten-free if need be)</li>
- 	<li>1 TBSP x methi (dried fenugreek leaves)</li>
- 	<li>2 tsp x garam masala</li>
- 	<li>2 x limes</li>
- 	<li>Coriander leaves to garnish</li>
- 	<li>Salt, to season</li>
-</ul>
-<h2 class=\"recipe_component_name\">Cauliflower ‘croutons’</h2>
-<ul>
- 	<li>½ x cauliflower</li>
- 	<li>1 TBSP x coconut oil</li>
- 	<li>1 tsp x cumin seeds</li>
- 	<li>1 tsp x nigella seeds</li>
- 	<li>Sprinkling of salt</li>
-</ul>"
-instructions: "Preheat the oven to 220°C (200°C fan-forced).
+ingredients: >-
+  ##Soup
+
+
+
+    *Serves 4*
+
+ 	* 2 tsp x coriander seeds
+ 	* 2 TBSP x coconut oil
+ 	* 1 x onion, sliced
+ 	* 4 x garlic cloves, sliced
+ 	* 1 TBSP x grated ginger
+ 	* 1 tsp x cumin seeds
+ 	* 1 tsp x nigella seeds
+ 	* 400 g x potatoes, roughly chopped
+ 	* ½ x cauliflower (the other half is for the ‘crouton’ recipe below), chopped up a bit larger than the potatoes
+ 	* 1 400-g jar x chopped tomatoes
+ 	* Dried chillies, crushed, or chilli powder to taste (start with ½ tsp if you’re not sure; you can add more later if you like)
+ 	* 1 tsp x turmeric powder
+ 	* 750 ml x vegetable stock (make sure it's gluten-free if need be)
+ 	* 1 TBSP x methi (dried fenugreek leaves)
+ 	* 2 tsp x garam masala
+ 	* 2 x limes
+ 	* Coriander leaves to garnish
+ 	* Salt, to season
+
+##Cauliflower ‘croutons’
+
+
+
+
+ 	* ½ x cauliflower
+ 	* 1 TBSP x coconut oil
+ 	* 1 tsp x cumin seeds
+ 	* 1 tsp x nigella seeds
+ 	* Sprinkling of salt
+
+ingredients: >-
+  Preheat the oven to 220°C (200°C fan-forced).
 
 Start by toasting the coriander seeds on a medium heat in your dry soup pot. Once they’ve browned a bit and smell nice and toasty, remove and crush with a mortar and pestle. Set the ground seeds aside.
 
@@ -64,6 +72,6 @@ Cook for 5 minutes before removing from the oven to toss the pan, making sure th
 
 Once the soup vegetables are tender, take the pot off the heat. Blend with a stick blender until smooth, before stirring through the methi and garam masala. Let the mixture sit for around 5 minutes to infuse the extra spices.
 
-Taste, adding more salt or chilli if necessary, before pouring into soup bowls. Squeeze over ½ lime per serving, and top with a handful of the cauliflower croutons and some fresh coriander leaves."
+Taste, adding more salt or chilli if necessary, before pouring into soup bowls. Squeeze over ½ lime per serving, and top with a handful of the cauliflower croutons and some fresh coriander leaves.
 ---
 I love aloo gobi (an Indian potato-and-cauliflower dish) but always find it a bit fiddly to make. Cooking all the vegetables separately: fry, remove, repeat. I’m more of a one-pot-wonder kinda girl. What if, I thought, I could translate that tasty Indian concoction into a bowl of soup? Well, I think this comes pretty damn close. The methi (dried fenugreek leaves) and nigella seeds are really important for an authentic flavour. I found both at an Asian supermarket.

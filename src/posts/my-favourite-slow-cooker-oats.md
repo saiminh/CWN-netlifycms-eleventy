@@ -15,28 +15,36 @@ tags:
   - "vegan"
   - "vegetarian"
   - "winter"
-ingredients: "<h2 class=\"recipe_component_name\">My favourite slow-cooker oats</h2>
-    <em>Serves one </em>
-<ul>
- 	<li>1/4 cup x oat groats, rinsed and drained</li>
- 	<li>1/2 cup x almond milk plus 1/2 cup x water (or use 1 cup x water)</li>
- 	<li>1/2 TBSP x ghee (or coconut oil to make it vegan)</li>
- 	<li>A small handful of raisins</li>
- 	<li>Pinch of salt</li>
- 	<li>1 x medium apple</li>
-</ul>
-<h2 class=\"recipe_component_name\">Toppings</h2>s:209:\"<ul>
- 	<li>1 tsp x <a href=\"https://cookingwithnothing.com/winter-citrus-spice-blend/\">winter citrus spice blend</a></li>
- 	<li>1 TBSP x almond butter</li>
- 	<li>Drizzle of maple syrup, optional</li>
-</ul>"
-instructions: "<strong>Note: This preparation is for a single serving, using a medium-sized slow cooker with an additional oven-proof dish insert (capacity 600 ml) that leaves a few centimetres of space between both dishes. See note in introduction for explanation, and for other serving sizes and dish dimensions. </strong>
+ingredients: >-
+  ##My favourite slow-cooker oats
+
+
+
+    *Serves one *
+
+ 	* 1/4 cup x oat groats, rinsed and drained
+ 	* 1/2 cup x almond milk plus 1/2 cup x water (or use 1 cup x water)
+ 	* 1/2 TBSP x ghee (or coconut oil to make it vegan)
+ 	* A small handful of raisins
+ 	* Pinch of salt
+ 	* 1 x medium apple
+
+##Toppings
+
+
+s:209:\"
+ 	* 1 tsp x <a href=\"https://cookingwithnothing.com/winter-citrus-spice-blend/\">winter citrus spice blend</a>
+ 	* 1 TBSP x almond butter
+ 	* Drizzle of maple syrup, optional
+
+ingredients: >-
+  <strong>Note: This preparation is for a single serving, using a medium-sized slow cooker with an additional oven-proof dish insert (capacity 600 ml) that leaves a few centimetres of space between both dishes. See note in introduction for explanation, and for other serving sizes and dish dimensions. </strong>
 
 Combine the oat groats, almond milk, water, ghee, raisins and salt in the smaller oven-proof insert.
 
 Quarter the apple and remove the core. Place the smaller oven-proof dish inside the standard slow-cooker insert. Slip the apple quarters in the gap between the dishes. Set the slow cooker to low and leave overnight.
 
-In the morning, remove the smaller insert and stir the oats, adding more almond milk or water if necessary to reach your desired consistency. Scoop out the apples and spoon them on top. Sprinkle over the spice blend and finish with almond butter and maple syrup, if you like."
+In the morning, remove the smaller insert and stir the oats, adding more almond milk or water if necessary to reach your desired consistency. Scoop out the apples and spoon them on top. Sprinkle over the spice blend and finish with almond butter and maple syrup, if you like.
 ---
 There’s something extremely satisfying about having a warm breakfast ready and waiting for you when you wake up. On days when I have to go into the office, using the slow cooker the night before to make the next day’s breakfast (or lunch, which I pop into a thermos to take along) is also a great way to save a bit of food prep time.
 

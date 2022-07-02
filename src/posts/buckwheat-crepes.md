@@ -12,17 +12,22 @@ tags:
   - "low-fodmap"
   - "lunch"
   - "vegetarian"
-ingredients: "<h2 class=\"recipe_component_name\">Buckwheat crepes</h2><em>Makes 8-10</em>
-<ul>
- 	<li>4 x large free-range organic eggs</li>
- 	<li>1 cup x unsweetened almond milk (or coconut milk, especially if pairing with Indian-style fillings)</li>
- 	<li>Pinch of sea salt</li>
- 	<li>2/3 cup x buckwheat flour</li>
- 	<li>2 TBSP x coconut oil</li>
-</ul>"
-instructions: "Whisk eggs with milk and a pinch of salt in a large mixing bowl. Sift in the flour and whisk until just combined. Cover the bowl and place in the fridge while you prepare your fillings.
+ingredients: >-
+  ##Buckwheat crepes
 
-To cook the crepes, heat a 22-cm pan over a med-high heat. Add a tsp of coconut oil and swirl to coat the pan. Pour about 1/3 cup of batter into the pan and swirl to evenly cover the base. Cook until the edges of the crepe are crisp (about 1 minute) then flip and cook for a further 30 seconds before transferring to a plate. Keep the crepes warm in the oven while you make the rest."
+
+*Makes 8-10*
+
+ 	* 4 x large free-range organic eggs
+ 	* 1 cup x unsweetened almond milk (or coconut milk, especially if pairing with Indian-style fillings)
+ 	* Pinch of sea salt
+ 	* 2/3 cup x buckwheat flour
+ 	* 2 TBSP x coconut oil
+
+ingredients: >-
+  Whisk eggs with milk and a pinch of salt in a large mixing bowl. Sift in the flour and whisk until just combined. Cover the bowl and place in the fridge while you prepare your fillings.
+
+To cook the crepes, heat a 22-cm pan over a med-high heat. Add a tsp of coconut oil and swirl to coat the pan. Pour about 1/3 cup of batter into the pan and swirl to evenly cover the base. Cook until the edges of the crepe are crisp (about 1 minute) then flip and cook for a further 30 seconds before transferring to a plate. Keep the crepes warm in the oven while you make the rest.
 ---
 This recipe is one of those ones that afterwards you ask yourself: _why have I not made this before?!_ I’ve cooked buckwheat pancakes plenty of times, but crepes that you can stuff with savoury fillings? Nope.
 

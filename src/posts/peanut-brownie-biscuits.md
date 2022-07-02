@@ -12,24 +12,29 @@ tags:
   - "gut-health"
   - "refined-sugar-free"
   - "sweet"
-ingredients: "<h2 class=\"recipe_component_name\">Peanut brownie biscuits</h2>
-    <em>Makes 18 small biscuits </em>
-<ul>
- 	<li>2 TBSP x grass-fed gelatin</li>
- 	<li>¼ cup x cold water</li>
- 	<li>2 cups x almond meal</li>
- 	<li>2 TBSP x raw cacao</li>
- 	<li>1 TBSP x coconut flour</li>
- 	<li>1 tsp x baking soda</li>
- 	<li>Pinch of salt</li>
- 	<li>100ml x coconut milk</li>
- 	<li>1 tsp x pure vanilla extract</li>
- 	<li>50g x coconut oil</li>
- 	<li>4 TBSP x maple syrup</li>
- 	<li>1 cup x roasted unsalted peanuts, shelled (or the equivalent of roughly chopped almonds if you prefer)</li>
- 	<li>60g x 85% dark chocolate, roughly chopped</li>
-</ul>"
-instructions: "Pour the cold water into a small bowl and sprinkle over the gelatin. Stir to combine, making sure to remove any lumps as you go, and let sit for around 5 minutes until it sets.
+ingredients: >-
+  ##Peanut brownie biscuits
+
+
+
+    *Makes 18 small biscuits *
+
+ 	* 2 TBSP x grass-fed gelatin
+ 	* ¼ cup x cold water
+ 	* 2 cups x almond meal
+ 	* 2 TBSP x raw cacao
+ 	* 1 TBSP x coconut flour
+ 	* 1 tsp x baking soda
+ 	* Pinch of salt
+ 	* 100ml x coconut milk
+ 	* 1 tsp x pure vanilla extract
+ 	* 50g x coconut oil
+ 	* 4 TBSP x maple syrup
+ 	* 1 cup x roasted unsalted peanuts, shelled (or the equivalent of roughly chopped almonds if you prefer)
+ 	* 60g x 85% dark chocolate, roughly chopped
+
+ingredients: >-
+  Pour the cold water into a small bowl and sprinkle over the gelatin. Stir to combine, making sure to remove any lumps as you go, and let sit for around 5 minutes until it sets.
 
 Sift the almond meal, raw cacao, coconut flour, baking soda and salt into a large bowl. Stir to combine.
 
@@ -43,7 +48,7 @@ Take heaped tablespoons of the batter and roll into balls. Flatten slightly with
 
 Bake for 15 minutes or until golden. Allow to cool completely before serving.
 
-These are best fresh, but can also be stored in the fridge in an airtight container for up to a week."
+These are best fresh, but can also be stored in the fridge in an airtight container for up to a week.
 ---
 Maybe it’s the winter creeping in, but I’ve been craving home baking these past few weeks – specifically the super-Kiwi stuff my mum used to whip up from the good old _Edmonds Cookery Book_. I have a copy, and the baking is (unsurprisingly) packed with sugar, so I’m on a mission to tweak a few classics to make them more gut friendly. Here’s the first: peanut brownie biscuits, which could easily become almond brownie biscuits if you prefer.
 

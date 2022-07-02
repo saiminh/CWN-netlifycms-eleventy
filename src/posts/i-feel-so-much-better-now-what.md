@@ -7,8 +7,10 @@ tags:
   - "dysbiosis"
   - "gut-health"
   - "ibs"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 I’m almost too nervous to say it: I feel a _lot_ better. This feeling, though, has been many years in the making, and even seemed unreachable at times. At others, I caught a glimpse of life on the ‘other side’ before something – such as the two stomach bugs I wrote about in a [previous post](http://cookingwithnothing.com/why-healing-can-be-harder-than-being-sick/) – snatched it away again. But since then, my symptoms have stabilized month upon month, and I’m now at a point where I have to wonder: _what is my new normal?_
 

@@ -10,8 +10,10 @@ tags:
   - "relaxation"
   - "rest"
   - "restorative-yoga"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 > **_“I know you can do more, but can you do less?”_**
 

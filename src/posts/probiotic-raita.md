@@ -15,17 +15,22 @@ tags:
   - "summer"
   - "vegetarian"
   - "yoghurt"
-ingredients: "<h2 class=\"recipe_component_name\">Probiotic raita</h2>
-    <ul>
- 	<li>1/2 cup x full-fat probiotic yoghurt (see notes in intro)</li>
- 	<li>1/4 x telegraph cucumber, grated</li>
- 	<li>Zest of 1 x lemon</li>
- 	<li>Juice of 1/2 x lemon</li>
- 	<li>2 x fresh mint sprigs, finely chopped</li>
- 	<li>1 x garlic clove (preferably <a href=\"https://cookingwithnothing.com/fermented-garlic/\">fermented</a>), crushed</li>
- 	<li>Salt and pepper, to taste</li>
-</ul>"
-instructions: "Combine all ingredients in a bowl and serve."
+ingredients: >-
+  ##Probiotic raita
+
+
+
+    
+ 	* 1/2 cup x full-fat probiotic yoghurt (see notes in intro)
+ 	* 1/4 x telegraph cucumber, grated
+ 	* Zest of 1 x lemon
+ 	* Juice of 1/2 x lemon
+ 	* 2 x fresh mint sprigs, finely chopped
+ 	* 1 x garlic clove (preferably <a href=\"https://cookingwithnothing.com/fermented-garlic/\">fermented</a>), crushed
+ 	* Salt and pepper, to taste
+
+ingredients: >-
+  Combine all ingredients in a bowl and serve.
 ---
 Raita is perfect for dolloping over a curry or Middle Eastern dish, or using as a dip with your favourite veggie sticks.
 

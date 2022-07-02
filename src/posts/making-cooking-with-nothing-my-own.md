@@ -3,8 +3,10 @@ title: "Making Cooking with Nothing my own"
 date: "2018-10-01"
 categories: 
   - "news"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 I’ve been busy, even though it may not look like it to those who’ve been following Cooking with Nothing lately. It’s been a long time in the making, but I’ve finally ditched the Tumblr blog and launched a new original site. I wanted to make Cooking with Nothing my own, and with the help of the talented [Mr Simon Flöter](https://floter.design/) – design extraordinaire, and not to mention the [poop donor](https://cookingwithnothing.com/who-gives-a-shit/) who gave me my health back – it’s now something I’m proud to share with the world.
 

@@ -8,8 +8,10 @@ tags:
   - "hormones"
   - "oestrogen-dominance"
   - "seeds"
-ingredients: ""
-instructions: ""
+ingredients: >-
+  
+ingredients: >-
+  
 ---
 My menstrual cycle has always been a bit, well, challenging. As a teen I was hospitalized for unexplained pains. They could have been due to my ongoing battle with [gut dysbiosis](https://cookingwithnothing.com/a-note-to-the-low-fodmap-folk/), or perhaps the excruciating pinching feeling was down to ovulation pain – something I still experience to a lesser degree. I also have a short cycle and debilitating period pain.
 
