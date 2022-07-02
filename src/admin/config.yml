@@ -17,9 +17,10 @@ collections:
     folder: "src/posts"
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Feature Image", name: "featuredImage", widget: "image" }
       - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what whows up on a google result", required: false }
       - { label: "Author", name: "author", widget: "string", required: false  }
       - { label: "Publish Date", name: "date", widget: "datetime" }
