@@ -20,7 +20,9 @@ ingredients: >-
   ## No-grain nutty apple porridge
 
 
+
   <i>Serves 1</i>
+
 
     * 1 TSBP each x raw cashews, almonds and pecans (soaked in water with a pinch of salt overnight)
     * 4 TBSP x unsweetened apple puree
@@ -34,9 +36,12 @@ ingredients: >-
 instructions: >-
   Drain the pre-soaked nuts in a sieve and rinse until the water runs clear.
 
+
   Add the nuts to a food processor or blender with the remaining ingredients. Blend until smooth.
 
+
   Transfer to a pot and cook over a medium heat for 5-10 minutes, until the mixture thickens to your liking.
+
 
   Serve immediately with dairy-free yoghurt, extra nuts and a sprinkling of cinnamon if desired.
 ---

@@ -23,11 +23,13 @@ ingredients: >-
 
 
 
+
     
     * Peels from 2 x medium oranges or 3 x mandarins*
     * 2 tsp x ground cinnamon
     * 1 tsp x ground cloves
     * 1 tsp x dried rosemary
+
 
   I dry them on the windowsill for a day or two until crunchy, then crush in a spice grinder. If you want to speed things up, you can cook the peels for an hour or two at 100°c until curling at the edges, then dry completely before grinding.
 instructions: >-

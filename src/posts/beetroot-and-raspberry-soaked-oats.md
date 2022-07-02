@@ -16,7 +16,9 @@ ingredients: >-
 
 
 
+
     *Serves one*
+
 
     * 1/3 cup x oats, soaked in water or milk of choice overnight (use just enough liquid to cover the oats in a bowl)
     * 1 x small cooked beetroot or 1/2 a large one
@@ -28,6 +30,7 @@ ingredients: >-
 
 instructions: >-
   Add your pre-soaked oats to a blender (or use a staff mixer) with the beetroot, cinnamon, vanilla and ground linseeds. Blend until smooth.
+
 
   Pour the mixture into a bowl and top with the raspberries, coconut and cacao nibs before serving.
 ---

@@ -15,12 +15,14 @@ ingredients: >-
 
 
 
+
     
     * ½ cup x unsweetened 100% buckwheat flakes
     * 1 TBSP x dried coconut
     * 1 TBSP x nuts*, chopped
     * 1 TBSP x seeds (pumpkin seeds/sunflower seeds**/freshly ground linseeds)
     * ½ tsp x cinnamon powder
+
 
    low-FODMAP followers can choose walnuts, macadamias, pecans, brazil nuts, or a max of 10 x almonds
   * if using sunflower seeds, limit the amount to 2 x teaspoons instead for low-FODMAP

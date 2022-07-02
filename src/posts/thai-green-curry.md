@@ -18,6 +18,7 @@ ingredients: >-
 
 
 
+
     
     * 2 x lemongrass stalks
     * 1-3 x green chillies
@@ -33,7 +34,9 @@ ingredients: >-
     * 1 TBSP x pure organic maple syrup
     * ¼ cup x coconut milk
 
+
   ## Curry
+
 
 
 
@@ -48,23 +51,33 @@ ingredients: >-
 instructions: >-
   *Serves 3-4*
 
+
   Remove the tough outer leaves from the lemongrass stalks and cut from the bulb. Thinly slice the lower half of the stalk (the upper half can be discarded or cut into long segments and added to the curry pot for extra flavour). Mince with a knife or mortar and pestle.
+
 
   Blitz the prepared lemongrass with the remaining paste ingredients in a food processor until well-blended.
 
+
   Warm coconut oil in a lidded wok or large frying pan over a medium-high heat. Add the garlic and cook until golden, then discard the garlic pieces. I find it easiest to pour the oil into a jar through a mini sieve and then return the oil to the pan.
+
 
   Add the curry paste to the oil and stir-fry to release the aroma (about 1 minute). Pour in the 1 ¾ cup of coconut milk and stir to combine.
 
+
   Add the kaffir lime leaves (if using) and the leftover stalks of lemongrass to the pan.
+
 
   If using eggplant, add this to the pan now, as it takes longer than the other vegetables. Stir and bring to a boil. Reduce the heat to medium-low, cover, and gently simmer for 10-15 minutes (or until the eggplant has significantly softened, if using), stirring occasionally. Add the other vegetables and cook for a further 10 minutes or until they're tender.
 
+
   If eggplant isn't your thing or you're not using it this time, add your vegetables to the pan after the lime leaves and lemongrass stalks. They'll take less time in total, 10 minutes or so. Cook until they're tender.
+
 
   Add the pieces of fish and put the lid on the pan (if you don't have a lid, try a large plate or even a cooking tray). Cook for a few minutes until the fish is white the whole way through.
 
+
   Taste-test the curry and add more lime juice, chilli or maple syrup to taste. Try a pinch of sea salt if it’s not quite salty enough.
+
 
   Sprinkle over fresh coriander and basil and add wedges of lime if desired. Serve with rice or noodles.
 ---

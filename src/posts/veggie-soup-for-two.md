@@ -23,7 +23,9 @@ ingredients: >-
 
 
 
+
     *Serves two*
+
 
     * 1 TBSP x ghee (or olive oil, to make it vegan)
     * ½ x leek, sliced
@@ -44,7 +46,9 @@ ingredients: >-
 instructions: >-
   Heat the ghee in a heavy-bottomed pot over a medium heat. Add the leek, celery, carrot and parsnip/sweet potato and cook until the veggies start to soften (about 5 minutes). Add the herbs and cook for a further minute.
 
+
   Add the apple cider vinegar and stir to combine, then pour over the stock and add the prune. Reduce the heat to med-low and simmer for around 45 minutes, until the veggies are tender and the barley or oat groats are soft.
+
 
   Once everything is cooked, remove the prune if it’s still whole and mash with a fork before returning to the pot. Remove the bay leaf as well, before ladling into two bowls and sprinkling some parsley over each serving if using. Finish with a squeeze of lemon juice if desired, and season with salt and pepper to taste.
 ---

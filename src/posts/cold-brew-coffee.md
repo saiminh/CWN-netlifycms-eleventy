@@ -12,15 +12,19 @@ ingredients: >-
 
 
 
+
     * 250 g x coarse freshly ground organic coffee
     * 4 cups x water
 
 instructions: >-
   <i>Makes around 500 ml of concentrated coffee.</i>
 
+
   Mix the coffee and water in a large sealable glass container (I used a 1.5-litre mason jar) and store in a cool, dark place for around 16 hours. Filter the coffee into a smaller resealable jar using standard coffee filters or cheesecloth.
 
+
   The mixture is concentrated and can be used to make hot or cold coffee. Mix 2-3 tablespoons with either hot/boiling or cold water (with ice, if desired). Try it with your favourite non-dairy milk, frothed if you have the means, to make a cold-brew latte. You can also add some to a smoothie for an extra boost, or to other recipes (like chilli or baked goods) that would normally need coffee.
+
 
   Store the mixture in the fridge. It will keep for around 2 weeks.
 ---

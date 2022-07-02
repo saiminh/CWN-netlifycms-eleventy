@@ -18,7 +18,9 @@ ingredients: >-
 
 
 
+
     *Makes enough to fit in a 1L  jar, but feel free to increase the amounts for larger vessels*
+
 
     * 1/2 x large red cabbage*, about 500g (see notes in intro for a green variation)
     * 3 x small or 2 x large purple beetroots, washed
@@ -29,17 +31,24 @@ ingredients: >-
 instructions: >-
   Peel off one or two leaves from the cabbage. Rinse and set aside.
 
+
   Remove the tough core from the cabbage. Give it a rinse and cut into segments, small enough to fit into the chute of your food processor when using the grater option. Cut the beetroots and apple to fit, too, then feed everything into the food processor. If you don't have a food processor, grate the lot by hand.
+
 
   Transfer the grated veggies to a large bowl and weigh to ensure the salt-to-produce ratio is correct.
 
+
   Sprinkle the salt and seeds over the grated veggies. Mix together by hand, giving the veggies a bit of a massage as you go. A rubber glove can come in handy here, especially when using red beetroot.
+
 
   Cover the bowl with a tea towel and let it sit for an hour.
 
+
   Give the mixture another massage before spooning into a large jar. Use the spoon (or your fist, if your hand fits in the jar's opening) to push the mixture down as you go to release the juices. Keep pressing down until the juices rise above the cabbage mixture.
 
+
   Make sure there's around 3 cm of space at the top of the jar. Cut the reserved cabbage leaves to fit the jar, then place on top of the cabbage mixture. Press the mixture down once more, then place something on top to make sure the liquid line stays above the cabbage before securing the jar with its lid. I use a smaller jar or cup as a weight, but see whatever works best for you. Apparently a (clean) rock or a plastic bag filled with water will also do the trick.
+
 
   Leave the jar on the kitchen bench for around a week, although in warmer weather you could start taste-testing from around five days as fermentation will happen faster. You're looking for the sour flavours to start outweighing the saltiness. When you find that balance, remove the cabbage leaves from the top and shift the jar to the fridge until you're ready to eat it. It will keep for several months.
 ---

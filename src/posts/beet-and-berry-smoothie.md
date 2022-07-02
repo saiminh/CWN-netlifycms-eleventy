@@ -18,7 +18,9 @@ tags:
 ingredients: >-
   ## Beet and berry smoothie
 
+
   *Makes one large portion*
+
 
   * 1 x small-medium cooked beetroot
   

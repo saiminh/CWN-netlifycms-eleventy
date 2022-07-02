@@ -17,7 +17,9 @@ ingredients: >-
 
 
 
+
   *Serves 4-6*
+
 
   * 1 x medium cauliflower
   * 2 tsp x cumin seeds
@@ -37,7 +39,9 @@ ingredients: >-
   * A few handfuls of fresh coriander
   * A few handfuls of fresh parsley
 
+
   ## Optional garnishes
+
 
 
 

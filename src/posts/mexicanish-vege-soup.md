@@ -24,7 +24,9 @@ ingredients: >-
 
 
 
+
     *Serves 4*
+
 
     * 1 TBSP x flavourless coconut oil
     * 1 x red onion, diced
@@ -43,7 +45,9 @@ ingredients: >-
     * 20 g x dark chocolate (80% cocoa or above)
     * Salt and pepper, to taste
 
+
   To serve*
+
 
     * A dollop of full-fat yoghurt (vegans or dairy-free folk could use guacamole instead)
     * Fresh coriander leaves
@@ -52,11 +56,15 @@ ingredients: >-
 instructions: >-
   In a large pot, melt the coconut oil over a medium heat. Add the onion and cook for a few minutes until it starts to soften.
 
+
   Add the spices, jalapenos and garlic, and cook, stirring for a further few minutes until fragrant. Add the zucchini to the pot and cook, stirring to cover in the spices.
+
 
   Pour in the red wine and stir, making sure it collects any spices from the bottom of the pot. Add the stock and tomatoes and stir to combine. Turn the heat to low, cover and cook for around 20 minutes, or until the zucchini is cooked to your liking.
 
+
   Add the sweetcorn, black beans and chocolate, stir, and cook for a further 5 minutes to warm through.
+
 
   Season with salt and pepper, then serve the soup with a dollop of yoghurt or guacamole on top, a sprinkling of fresh coriander leaves and a good squeeze of fresh lime juice.
 ---

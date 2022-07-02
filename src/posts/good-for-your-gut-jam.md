@@ -18,6 +18,7 @@ ingredients: >-
 
 
 
+
     
     * 1 cup x strawberries, stalks removed (or another berry of choice)
     * A good splash of water or lemon juice
@@ -27,7 +28,9 @@ ingredients: >-
 instructions: >-
   If you have a small enough saucepan (I use the tall narrow one that comes with my milk frother), you can add the ingredients straight into the pan and blend using a stick blender. A bigger saucepan won't offer enough depth for blending, though. If that's all you have, pre-blend the ingredients before popping them in a saucepan over a medium heat.
 
+
   Cook the mixture until it starts to bubble up, then lower the heat and whisk until it thickens. This may happen straight away, or it could take a few minutes.
+
 
   Remove from the heat and leave to cool before serving. Store in the fridge for up to a week.
 ---

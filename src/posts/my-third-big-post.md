@@ -10,22 +10,30 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
+
   ## h2 Heading
+
 
   ## # h3 Heading
 
+
   ## ## h4 Heading
+
 
   ## ## # h5 Heading
 
+
   ## ## ## h6 Heading
+
 
   ## Horizontal Rules
 
 ---
   ## Emphasis
 
+
   *This is bold text**
+
 
   *This is bold text**
 
@@ -35,6 +43,7 @@ _This is italic text_
 
 ~~Strikethrough~~
 
+
   ## Blockquotes
 
 > Blockquotes can also be nested...
@@ -42,6 +51,7 @@ _This is italic text_
 > > ...by using additional greater-than signs right next to each other...
 > >
 > > > ...or with spaces between arrows.
+
 
   ## Lists
 
@@ -69,11 +79,13 @@ Start numbering with offset:
 57. foo
 1. bar
 
+
   ## Code
 
 Inline `code`
 
 Indented code
+
 
     // Some comments
     line 1 of code
@@ -96,6 +108,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
+
   ## Tables
 
 | Option | Description                                                               |
@@ -104,6 +117,7 @@ console.log(foo(5));
 | engine | engine to be used for processing templates. Handlebars is the default.    |
 | ext    | extension to be used for dest files.                                      |
 
+
   ## Links
 
 [link text](http://dev.nodeca.com)
@@ -111,6 +125,7 @@ console.log(foo(5));
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica
+
 
   ## Images
 

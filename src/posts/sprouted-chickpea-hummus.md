@@ -18,6 +18,7 @@ ingredients: >-
 
 
 
+
     
     * 1 1/2 cups x sprouted chickpeas (sprout around 1/2 cups x dried chickpeas to get this amount)
     * 1/4 cup x tahini (I prefer white for this recipe)
@@ -31,9 +32,12 @@ ingredients: >-
 instructions: >-
   Rinse the sprouts and pat dry (or cook, drain and cool, if not eating raw).
 
+
   Add all ingredients except the olive oil and dukkah or za'atar to a food processor and pulse to combine. Use a spatula to scrape the mixture back down from the sides.
 
+
   Blitz again, drizzling in olive oil while you blend until you arrive at your preferred texture. Note that if using raw sprouts, the texture might not be as creamy as traditional hummus.
+
 
   Sprinkle with dukkah or za'atar and drizzle with a little extra olive oil if you like. Serve with vegetable sticks (lightly steamed if you want to give your digestive system an extra helping hand), or on some good quality sourdough bread (if you're not gluten-free) or rice cakes.
 ---

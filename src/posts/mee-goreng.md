@@ -17,7 +17,9 @@ ingredients: >-
 
 
 
+
     *Serves two*
+
 
 
     * 2 TBSP x coconut oil
@@ -38,7 +40,9 @@ ingredients: >-
 
 instructions: >-
 
+
   Place a wok over a high heat and add 1 x TBSP of the coconut oil. Once melted, add the eggs and cook until just set. I use a small frying pan and cook them into a thin omelette. Place to one side. Add the remaining oil and cook the haricot vert for a few minutes.
+
 
 
 
@@ -46,7 +50,9 @@ instructions: >-
 
 
 
+
   Now add the spices, chilli, tamari, bean sprouts and a tablespoon of cold water, and toss carefully. Cook for about a minute.
+
 
 
 
@@ -54,7 +60,9 @@ instructions: >-
 
 
 
+
   When ready to serve, transfer the noodles into bowls and top with shredded lettuce, spring onions and fresh coriander. Squeeze some lemon juice over the top and serve.
+
 
 
   *Note: Tofu is called for in the original recipe and is allowed on the standard low-FODMAP diet. I chose to use eggs instead as I tend to avoid non-fermented sources of soy. Read more about it <a href=\"https://www.bewell.com/blog/the-soy-situation/\">here</a>.*

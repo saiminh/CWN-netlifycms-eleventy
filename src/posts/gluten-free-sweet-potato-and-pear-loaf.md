@@ -21,6 +21,7 @@ ingredients: >-
 
 
 
+
     
     * 1/2 cup x coconut oil, softened
     * 1 TBSP x raw unpasteurized honey
@@ -41,11 +42,15 @@ ingredients: >-
 instructions: >-
   Preheat oven to 220°C (200°C fan bake) and lightly grease and line a 12-x-26-cm loaf tin.
 
+
   Beat the coconut oil, honey, vanilla and one egg together in a large bowl (I use my stick blender with the egg-beater fitting). Add the second egg and beat again until combined.
+
 
   Add the grated pumpkin and pear and mix with a wooden spoon. Next, stir in the almond meal, buckwheat flour, baking soda, sea salt, spices and chia seeds. Mix until well combined. You'll end up with a semi-dry batter.
 
+
   Spoon the mixture into the prepared loaf tin and smooth down the top slightly. Sprinkle over the pumpkin seeds and lightly press into the batter.
+
 
   Cook for 45 minutes, or until a skewer pricked into the centre of the loaf comes out clean. Allow to cool completely in the loaf tin before slicing. Serve as is, or warmed and buttered. Instead of slicing you can also spoon it into bowls and serve with a dollop of yoghurt over the top.
 ---

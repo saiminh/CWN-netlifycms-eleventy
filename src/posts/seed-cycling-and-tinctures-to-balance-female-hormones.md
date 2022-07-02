@@ -25,6 +25,7 @@ If you think you might be suffering from a hormone imbalance, I strongly recomme
 
 That said, there are some things you can safely and immediately add into your daily regime.
 
+
   *Seed Cycling** First, there’s seed cycling. Specific seeds are said to support the optimal production of hormones during the first (follicular) and second (luteal) half of the menstrual cycle. If you don’t believe simple seeds can help, there’s no harm in trying. You’ll at least get a healthy dose of protein and fats.
 
 The follicular phase, aka Day 1, is the first day of your menstrual cycle, when bleeding begins. The luteal phase – from ovulation through to the first day of bleeding – typically begins around halfway through your cycle. If you have a 28-day cycle, for instance, you’ll typically ovulate around day 14/15. Since I have a shorter cycle, mine is around day 12.
@@ -40,6 +41,7 @@ _Grinding_ Make sure you grind the seeds well; I use an electric spice grinder. 
 _Serving_ I try to eat my serving of seeds at breakfast – otherwise I’d probably forget to do so. Most often I’ll sprinkle them over porridge or soaked oats, or mix them into a smoothie. The beauty is they can also be used to garnish savoury dishes, such as salads, soups or stir-fries.
 
 After around six months at this quantity, I switched to 1 TBSP of one seed type on alternating days: Day 1: 1 TBSP x flax seed; Day 2: 1 TBSP x pumpkin seeds and so on.
+
 
   *Bitters and tea** Supporting the liver is an important part of balancing hormones. On alternate days, I either take a serving of Swedish bitters with meals (twice a day) or drink a cup of my doctor’s GI Alternative tea, which is 0.5 part yellow dock, 2 parts burdock, 1 part dandelion and 0.5 part milk thistle.
 

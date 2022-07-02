@@ -17,6 +17,7 @@ ingredients: >-
 
 
 
+
     
     * 3 cups x rolled oats (gluten-free if necessary), buckwheat or quinoa
     * 1 cup x macadamias, walnuts, pecans or peanuts
@@ -32,11 +33,15 @@ ingredients: >-
 instructions: >-
   Preheat the oven to 200°C and line a baking tray with baking paper.
 
+
   In a large bowl, combine rolled oats, buckwheat or quinoa, nuts, pumpkin seeds, coconut, vanilla (if using dry ground), spices and salt. In a separate bowl add coconut oil, honey, vanilla (if using extract) and pumpkin puree. Mash until completely smooth (or use a blender).
+
 
   Add the pumpkin mixture to the dry mixture and combine well, using your hands, for about a minute, so all is well-coated and clumpy. Turn out and spread the granola in an even layer on the baking tray.
 
+
   Place in the middle of the oven and bake for 20 to 30 minutes or until the granola browns and crisps up, checking every 10 minutes and turning the granola over with a wooden spoon.
+
 
   Allow to cool completely before serving, and store the rest in an airtight container. Serve with full-fat yoghurt or your favourite non-dairy alternative.
 ---

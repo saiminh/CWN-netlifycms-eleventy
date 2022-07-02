@@ -12,6 +12,7 @@ ingredients: >-
 
 
 
+
     
     * 2 x whole heads of garlic
     * 1 tsp x salt
@@ -20,9 +21,12 @@ ingredients: >-
 instructions: >-
   To peel the garlic cloves, crush the whole head gently with the palm of your hand. Try not to damage the cloves inside and don't cut off the root end*. Break apart bulb into separate cloves (still in their skins) and place in a metal bowl. Place another metal bowl on top. The same size is easier but not necessary. Shake vigorously for 20 seconds. The skins should come off much easier.
 
+
   Place the garlic cloves and salt in a jar. You'll need around 3 cm at the top once you fill it with water, but the cloves need to stay submerged. I use a smaller jar inside the larger one to hold them down. Other options? A (clean!) rock; plastic bag filled with water or something heavy, like marbles; a leaf of cabbage cut to size. Whatever works for you.
 
+
   Seal the jar and leave on your kitchen counter for 5-10 days, or until the bubbling stops. Fermentation likes a moderate, steady temperature. Things may take a little longer in the winter and less time during summer. Taste them if you like along the way, and leave longer if you desire. Store in the fridge and serve as needed.
+
 
   *A little tip I picked up from Sarah Wilson's *Simplicious. ‘*Cuts will cause it to ferment unevelenly and make the clove turn blue . . . nothing to be worried about; it’s merely an amino acid reacting with the acid . . . Just not pretty.’
 ---

@@ -19,7 +19,9 @@ ingredients: >-
 
 
 
+
     *Serves two*
+
 
     * 4 x small beetroots
     * Olive oil
@@ -33,7 +35,9 @@ ingredients: >-
     * 75-150 g x feta, to taste
     * Small bunch of parsley
 
+
   ## Dressing
+
 
 
 
@@ -43,7 +47,9 @@ ingredients: >-
     * 3 TBSP x olive oil
     * 1 TBSP water
 
+
   ## Optional garnishes
+
 
 
 
@@ -55,15 +61,21 @@ ingredients: >-
 instructions: >-
   Preheat the oven to 200C/180C fan. Leave the beetroots unpeeled. Wrap them in tinfoil, drizzling with olive oil and sprinkling with herbs before sealing the package, and place on a baking sheet in the oven. Roast for 60-90 minutes in total, or until easily pierced through with a fork.
 
+
   When the beetroots have around 40 minutes left to go, place the cauliflower florets on a separate baking sheet. Drizzle with olive oil and sprinkle over the ground cumin. Season with salt and pepper, and cook in the oven for 40 minutes or until golden.
+
 
   Meanwhile, make the dressing by whisking together the tahini, lemon juice, olive oil and water.
 
+
   Once the roast vegetables are almost ready, combine the remaining salad ingredients in a large bowl, reserving some feta to garnish if desired.
+
 
   Remove the cooked vegetables from the oven and open the beetroot parcel. If you want to remove the skins, wait until the beetroots are cool enough to handle. The skins will slide right off. Either way, cut them into bite-sized wedges.
 
+
   Add the cooked vegetables to the bowl of other salad ingredients and pour over the dressing.
+
 
   Serve with any garnishes that take your fancy – pictured is a combo of raita, a sprinkling of sumac and some pomegranate seeds. Finish with an extra drizzling of olive oil, and salt and pepper to taste.
 ---

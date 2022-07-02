@@ -21,7 +21,9 @@ ingredients: >-
 
 
 
+
     *Serves 6-8*
+
 
     * 1 kg x crown pumpkin, skinned and sliced into 1-cm thick slices (note: butternut pumpkin is only allowed in minimal amounts, so choose crown instead. You could also substitute the pumpkin for eggplant)
     * ¼ cup x olive oil
@@ -40,7 +42,9 @@ ingredients: >-
 
 instructions: >-
 
+
   Pre-heat the oven to 200°C.
+
 
 
 
@@ -48,7 +52,9 @@ instructions: >-
 
 
 
+
   Roast the pumpkin in the hot oven for 15 minutes until soft and golden.
+
 
 
 
@@ -56,7 +62,9 @@ instructions: >-
 
 
 
+
   When you are ready to assemble the lasagne cook the pasta sheets in batches in plenty or rapidly boiling water until al-dente (tender) but not overcooked. Crumble the feta into the yoghurt and combine.
+
 
 
 
@@ -64,11 +72,14 @@ instructions: >-
 
 
 
+
   In a deep pie or lasagne dish spoon in a layer of the feta/yoghurt mix, top with a layer of baby spinach/silverbeet and then a layer of the roasted pumpkin. Top with cooked lasagne sheets.
 
 
 
+
   Top with a couple of spoonfuls of the pureed tomatoes, more feta/yoghurt, baby spinach/silverbeet and pumpkin. Top with another layer of cooked pasta and repeat. Finish by sprinkling the walnuts and parmesan on top, and place in the oven to cook for 35-40 minutes until bubbling and golden on top.
+
 
 
 

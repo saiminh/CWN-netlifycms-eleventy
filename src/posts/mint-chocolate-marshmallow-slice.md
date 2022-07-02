@@ -18,6 +18,7 @@ ingredients: >-
 
 
 
+
     
     * 1 cup x raw cashews
     * 1 cup x puffed buckwheat flakes (like cornflakes, but made from 100% buckwheat)
@@ -26,7 +27,9 @@ ingredients: >-
     * 2 TBSP x melted coconut oil (or coconut cream)
     * Pinch of sea salt
 
+
   ## Marshmallow layer
+
 
 
 
@@ -38,7 +41,9 @@ ingredients: >-
     * Few drops of stevia
     * Pinch of sea salt
 
+
   ## Chocolate coating
+
 
 
 
@@ -48,11 +53,15 @@ ingredients: >-
 instructions: >-
   Line a 25 x 11 cm loaf tin with baking paper.
 
+
   For the base, blend the cashews and buckwheat flakes in a food processor until fine. Add the remaining ingredients and pulse until just combined. Spoon the mixture into the prepared loaf tin and press down with your hands into an even layer. Transfer to the freezer while you work on the filling and coating.
+
 
   Prepare the gelatine by sprinkling it over the water in a small bowl, and stirring until it dissolves. Leave for 5 minutes until it becomes rubbery. Combine the coconut milk, peppermint, stevia and sea salt in a saucepan and bring to a gentle boil, then remove from the heat. Break up the gelatine and add it to the coconut milk. Stir to dissolve, then blend with a stick blender.
 
+
   Remove the base from the freezer and pour the coconut gelatine over the top. Place in the fridge for at least 1 hour.
+
 
   Break the chocolate into small pieces and place in a microwave-safe bowl. Using a low setting on the microwave, warm gently until melted. Another option is to temper the chocolate in a heatproof bowl over a pot of simmering water, making sure the bowl doesn’t come into contact with the water. Pour the melted chocolate over the marshmallow layer and return the tin to the fridge for an hour. Warm a knife under running water before cutting so the chocolate doesn’t crack too much.
 ---

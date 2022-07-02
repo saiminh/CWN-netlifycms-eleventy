@@ -22,7 +22,9 @@ ingredients: >-
 
 
 
+
     *Makes approx 10 fritters *
+
 
     * 250g mix of zucchini and broccoli, grated*
     * 2 tsp x ground cumin
@@ -36,15 +38,20 @@ ingredients: >-
     * 150-175ml x water
     * Coconut oil, for frying
 
+
   * I used 150g broccoli and 100g zucchini here
 
+
   *omit chilli to make it hypoallergenic
+
 
   **use baking soda to make it hypoallergenic
 instructions: >-
   Combine everything but the flour and baking powder in a large bowl and mix together, then add the flour and baking powder and mix again until combined.
 
+
   Pour in the water, starting with 150ml and adding as much as 175ml if needed, mixing as you go. You’re looking for a thick, sturdy consistency. Not watery, but it shouldn’t be dry either – think of thick Greek yoghurt or something similar.
+
 
   Heat a little coconut oil in a frying pan over a medium heat. Add heaped tablespoons of the batter to the pan (starting with just one if you’re not sure of the consistency, and adding more water or more flour to adjust if necessary). Press the batter down to spread it out a bit. You want the fritters quite thin so the flour cooks through. Cook for 3-4 minutes on each side, until brown and cooked through.
 ---

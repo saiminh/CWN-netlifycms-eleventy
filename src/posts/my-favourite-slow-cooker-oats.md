@@ -20,7 +20,9 @@ ingredients: >-
 
 
 
+
     *Serves one *
+
 
     * 1/4 cup x oat groats, rinsed and drained
     * 1/2 cup x almond milk plus 1/2 cup x water (or use 1 cup x water)
@@ -29,7 +31,9 @@ ingredients: >-
     * Pinch of salt
     * 1 x medium apple
 
+
   ## Toppings
+
 
 
     * 1 tsp x <a href=\"https://cookingwithnothing.com/winter-citrus-spice-blend/\">winter citrus spice blend</a>
@@ -39,9 +43,12 @@ ingredients: >-
 instructions: >-
   <strong>Note: This preparation is for a single serving, using a medium-sized slow cooker with an additional oven-proof dish insert (capacity 600 ml) that leaves a few centimetres of space between both dishes. See note in introduction for explanation, and for other serving sizes and dish dimensions. </strong>
 
+
   Combine the oat groats, almond milk, water, ghee, raisins and salt in the smaller oven-proof insert.
 
+
   Quarter the apple and remove the core. Place the smaller oven-proof dish inside the standard slow-cooker insert. Slip the apple quarters in the gap between the dishes. Set the slow cooker to low and leave overnight.
+
 
   In the morning, remove the smaller insert and stir the oats, adding more almond milk or water if necessary to reach your desired consistency. Scoop out the apples and spoon them on top. Sprinkle over the spice blend and finish with almond butter and maple syrup, if you like.
 ---

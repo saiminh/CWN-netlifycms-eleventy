@@ -22,6 +22,7 @@ All this left me with a desire to do much, much less. I started the new year by 
 
 I also decided to dedicate one entire Sunday to self-care, and the thing I was craving the most? Being offline. What did I need to plan in advance, what did I do on the day and what did I discover about myself in the process?
 
+
   *Beforehand**
 
 - _Schedule it in_
@@ -39,6 +40,7 @@ I made sure to have all the food and self-care supplies I needed beforehand, so 
 - _Turn your phone to aeroplane mode the night before_
 
 I specifically wanted an offline day, and my circumstances allow me the luxury to do so. If you can’t go a full day without a phone for whatever reason, try and schedule in at least some time that day where you can disconnect.
+
 
   *On the day**
 
@@ -75,6 +77,7 @@ In line with this being a day of being rather than doing, don’t think about ac
 - _Journal_
 
 If the mood takes you, write whatever thoughts come up during the day. But just like reading, don’t force yourself to write if you don’t feel like it.
+
 
   *Upon reflection**
 

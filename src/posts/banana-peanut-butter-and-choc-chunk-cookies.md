@@ -9,7 +9,9 @@ ingredients: |-
 
 
 
+
     *Makes 12-14 cookies*
+
 
     * 1 TBSP x freshly ground linseeds (or chia seeds, no need to grind these)
     * 2 TBSP x dairy-free milk of choice
@@ -26,19 +28,25 @@ instructions: >-
   Preheat oven to 180C/160C fan. Grease a baking tray with a little coconut oil.
 
 
+
   Combine the ground linseeds and milk in a small bowl or cup and let sit for 15 minutes.
+
 
 
   Mash the bananas in a large bowl then add the linseed mixture, nut butter and vanilla. Beat with electric beaters until combined and smooth.
 
 
+
   Add in the almond flour, baking powder, cinnamon and salt and beat again until combined.
+
 
 
   Use a spoon to gently fold in the chocolate and coconut. The mixture will be sticky, but if it seems too loose to hold together in mounds, add a shake or two more coconut.
 
 
+
   Place tablespoons of the dough onto the prepared baking tray and press down gently with your finger or a fork.
+
 
 
   Bake for 15-20 minutes, or until the bases of the cookies are golden brown. Some of the chocolate may have run, but don’t worry. Feel free to scrape it up and eat it once it’s cooled down. Let the cookies rest on a wire rack before eating – they’ll firm up as they cool.

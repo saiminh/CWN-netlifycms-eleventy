@@ -18,6 +18,7 @@ ingredients: >-
 
 
 
+
     
     * 500 ml x full-fat milk (raw, if you can find it)
     * 1 TBSP x pre-made yoghurt (or leftovers from your last batch. See notes in intro)
@@ -26,7 +27,9 @@ ingredients: >-
 instructions: >-
   Heat the milk in a saucepan over a medium heat until it reaches around 90°C, just below boiling point, stirring gently as it warms up so the milk doesn't scold at the bottom or boil over the pan. This is for sterilization, as well as for apparently changing the protein structure of milk so it sets solid instead of curdling.
 
+
   Cool the milk to around 45°C. You can stir it from time to time to stop a milk skin forming on top, though I don't bother; you can stir it back in afterwards. If you're in a hurry, you can place the saucepan in a cold-water bath to speed up the process.
+
 
   Once the milk has cooled down, whisk in the pre-made yoghurt until well combined. Transfer to a jar and seal with the lid. Pop it in your yoghurt maker and incubate for 10-24 hours. Allow the finished yoghurt to set in the fridge for another 8 hours or so before serving.
 

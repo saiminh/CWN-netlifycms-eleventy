@@ -17,7 +17,9 @@ ingredients: >-
 
 
 
+
     *Makes 18 small biscuits *
+
 
     * 2 TBSP x grass-fed gelatin
     * ¼ cup x cold water
@@ -36,17 +38,24 @@ ingredients: >-
 instructions: >-
   Pour the cold water into a small bowl and sprinkle over the gelatin. Stir to combine, making sure to remove any lumps as you go, and let sit for around 5 minutes until it sets.
 
+
   Sift the almond meal, raw cacao, coconut flour, baking soda and salt into a large bowl. Stir to combine.
+
 
   Heat the coconut milk, vanilla and coconut oil in a small saucepan over a medium heat until the oil dissolves. Remove from the heat and stir in the gelatin until it dissolves, then add the honey and mix to combine.
 
+
   Pour the coconut-milk/gelatin mixture into the bowl of dry ingredients and gently mix until smooth.
+
 
   Add the peanuts and dark chocolate and stir through, being careful not to over-mix. Allow the batter to sit for around 10 minutes until it thickens up.
 
+
   Take heaped tablespoons of the batter and roll into balls. Flatten slightly with a fork and place on a lightly greased baking tray, or a tray with a sheet of baking paper.
 
+
   Bake for 15 minutes or until golden. Allow to cool completely before serving.
+
 
   These are best fresh, but can also be stored in the fridge in an airtight container for up to a week.
 ---

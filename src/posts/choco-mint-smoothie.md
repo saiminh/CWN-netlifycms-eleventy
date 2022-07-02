@@ -17,6 +17,7 @@ ingredients: >-
   ## Choco mint smoothie
 
 
+
     * 1 cup x milk substitute of choice*
     * 1/8 x avocado**
     * 1 x frozen banana
@@ -29,7 +30,9 @@ ingredients: >-
 instructions: >-
   Combine all ingredients except the cacao nibs in a blender and pulse until smooth. Stir the cacao nibs through (and garnish with a few extra if you like).
 
+
   * those on a low-FODMAP diet are safe with lactose-free, hemp, macadamia, rice, quinoa or almond milk (be sure to check for high-FODMAP additives such as inulin). I usually alternate between almond milk and coconut milk.
+
 
   ** if not on a low-FODMAP diet, feel free to increase this amount. You’ll get a creamier result.
 ---
