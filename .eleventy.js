@@ -2,15 +2,17 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
-const markdown = require("markdown-it")({
-  html: true
-});
+const markdown = require("markdown-it")({ html: true });
+const addShortcodes = require("./src/_includes/_components/shortcodes.js");
+
+
 
 module.exports = function (eleventyConfig) {
 
+  addShortcodes(eleventyConfig);
+
   // adding markdown support to njk templates
   eleventyConfig.addShortcode("markdown", function (content = '') { 
-    // content = content.replace(/\n/g, '\n\n' );
     return `${markdown.render(content)}` 
   });
 
@@ -48,6 +50,14 @@ module.exports = function (eleventyConfig) {
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
+  
+  // Copy favicon to route of /_site
+  eleventyConfig.addPassthroughCopy("./src/static/css/style.css");
+  // Copy favicon to route of /_site
+  eleventyConfig.addPassthroughCopy("./src/static/css/style-desktop.css");
+  eleventyConfig.addPassthroughCopy("./src/static/css/style-CMS.css");
+  // Copy favicon to route of /_site
+  eleventyConfig.addPassthroughCopy("./src/static/js/main.js");
 
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
@@ -64,8 +74,9 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addNunjucksGlobal("fortytwo", function() {
-    return 42;
+  // Get only content that matches a tag
+  eleventyConfig.addCollection("allArticles", function(collectionApi) {
+    return collectionApi.getFilteredByTags("post");
   });
 
   // Let Eleventy transform HTML files as nunjucks

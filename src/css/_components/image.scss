@@ -1,0 +1,9 @@
+.post-img {
+  display: block;
+  overflow: auto;
+  picture img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}

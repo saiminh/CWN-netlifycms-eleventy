@@ -1,0 +1,11 @@
+@use 'globals.scss';
+@use '_components/tags.scss';
+@use 'post.scss';
+
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  padding: var(--space-outer);
+}

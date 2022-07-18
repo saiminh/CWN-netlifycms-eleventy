@@ -1,0 +1,71 @@
+@use '../_utils/mixins.scss' as mixins;
+
+.post-preview {
+  padding: 0 var(--space-outer) var(--space-outer) var(--space-outer);
+}
+.post-preview-img {
+  display: block;
+  overflow: auto;
+  & img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+.post-preview-text-meta {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+  line-height: 1;
+}
+.post-preview-text-meta-category {
+  text-decoration: none;
+  font-weight: 300;
+}
+.post-preview-text-content-title {
+  font-size: var(--fontsize-h1);
+  letter-spacing: -.03em;
+  line-height: 1.1;
+  margin-top: -0.3rem;
+  margin-bottom: 0.5rem;
+  & a {
+    text-decoration: none;
+  }
+}
+.post-preview-text-content-excerpt {
+  margin: 0.7rem 0;
+}
+.more-posts-header,
+.archive-header {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: var(--fontsize-h3);
+  padding: var(--space-outer);
+  margin: 0;
+}
+.archive-header-amount {
+  font-size: .66em;
+  color: var(--color-cwnmain);
+  opacity: .5;
+}
+// second and third post
+.post-preview:nth-child(n+2) .post-preview-text-content-title {
+  font-size: var(--fontsize-h2);
+}
+.post-preview:nth-child(n+2) .post-preview-text-content-excerpt {
+  display: none;
+}
+.post-preview:nth-child(n+5) {
+  padding: 0 ;
+  margin: var(--space-outer);
+  border-top: 1px solid var(--color-cwnmain);
+}
+.post-preview:nth-child(n+5) .post-preview-text-content-excerpt,
+.post-preview:nth-child(n+5) .post-preview-img {
+  display: none;
+}
+.post-preview:nth-child(n+5) .post-preview-text-content-title {
+  font-size: var(--fontsize-h3);
+}

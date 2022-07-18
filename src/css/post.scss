@@ -1,0 +1,23 @@
+.post {
+  padding: var(--space-outer);
+}
+.post-head-excerpt {
+  font-size: var(--fontsize-h3);
+}
+.post-head-image {
+  margin: 0 calc(-1 * var(--space-outer));
+  & img {
+    width: 100%;
+    height: auto;
+  }
+}
+.post-head-text-meta-category {
+  text-decoration: none;
+}
+.post ul {
+  padding: 0;
+  list-style: square;
+  & > li {
+    margin: 0 0 10px 1em;
+  }
+}

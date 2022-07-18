@@ -1,0 +1,63 @@
+---
+type: post
+layout: _layouts/blog
+prism: true
+permalink: "{{ title | slugify }}/"
+description: "{{ description }}"
+---
+
+<article class="post post--{{categories}}">
+  <div class="post-head-text">
+    <a href="/category/{{categories}}" class="post-head-text-meta-category">
+      {% if categories == 'news' %}
+        Blog
+      {% else %}
+        Recipe
+      {% endif %}
+    </a>
+    <h1 class="post-head-title">{{title}}</h1>
+    <p class="post-head-excerpt">
+      {{ description }}
+    </p>
+    {% if tags %}
+    <span class="tags-label">Tagged as:</span>
+    <div class="tags hide-on-mobile">
+        {% for tag in tags %}
+          {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+          <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
+          {% endif %}
+        {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  <div class="post-head-image">
+    {% if featuredImage %}
+      {% image featuredImage, title, "(max-width: 300px) 100vw, 100w" %}
+    {% endif %}
+  </div>
+  <div class="post-body-intro">  
+    {{ content | safe }}
+  </div>
+  </article>
+<div class="post post--{{categories}}">
+  {% if ingredients %}
+  <div class="post-body-ingredients">
+    {% markdown ingredients %}
+  </div>
+  {% endif %}
+  {% if instructions %}
+  <div class="post-body-instructions">
+    <h2 class="text-2xl">Instructions</h2>
+    {% markdown instructions %}
+  </div>
+  {% endif %}
+  <div class="tags hide-on-wide">
+    {% if tags %}
+      {% for tag in tags %}
+        {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+        <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>

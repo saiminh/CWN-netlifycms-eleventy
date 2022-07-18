@@ -1,0 +1,24 @@
+---
+pagination:
+  data: collections.cooking
+  size: 12
+  reverse: true
+layout: _layouts/default
+---
+<h1 class="more-posts-header">All Recipes:</h1>
+
+<section class="feed feed--cooking">
+  
+  {% for post in pagination.items %}
+  
+    {% if loop.index === 4 %}
+      <h2 class="more-posts-header">More posts</h2>
+    {% endif %}
+  
+    {% postCard post %}
+  
+  {% endfor %}
+
+</section>
+
+{% include "src/_includes/_components/partials/pagination.njk" %}

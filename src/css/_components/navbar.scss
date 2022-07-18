@@ -1,0 +1,70 @@
+@use '../_utils/mixins.scss' as mixins;
+
+.navigation {
+  width: 100%;
+}
+.navigation--fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+}
+.navigation nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: var(--space-outer);
+}
+.navigation .navigation-toggle {
+  margin-left: auto;
+  display: block;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  color: var(--color-cwnmain);
+  background-color: transparent;
+  &:focus {
+    outline: none;
+  }
+}
+.navigation-toggle-hamburger {
+  & path {
+    fill: var(--color-cwnmain);
+  }
+}
+.navigation-menu {
+  // w-full flex-grow lg:flex lg:items-center lg:w-auto text-center 
+  width: 100%;
+  flex-grow: 1;
+  &.--open {
+    // 'block shadow-3xl'
+    display: block;
+  }
+  &.--hidden {
+    display: none;
+  }
+}
+
+.navigation-menu-list {
+  padding: 1rem 0 0 0;
+  justify-self: flex-end;
+  align-items: center;
+  flex: 1 1 0%;
+  list-style: none;
+}
+
+.navigation-menu-list-item-link {
+  // text-ml inline-block no-underline hover:text-sky-500 py-2 px-4
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  font-family: var(--font-body);
+  font-size: 2rem;
+  padding: 1em 0;
+  color: var(--color-cwnmain);
+}

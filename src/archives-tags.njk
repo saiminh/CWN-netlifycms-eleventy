@@ -1,0 +1,26 @@
+---
+layout: _layouts/default
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /tags/{{ tag }}/
+---
+{% set taglist = collections[ tag ] %}
+
+<h1 class="archive-header">All things “{{ tag }}” <span class="archive-header-amount">({{ taglist.length }} posts)</span></h1>
+
+<section class="feed feed--tag">
+{% for post in taglist | reverse %}
+
+  {% if loop.index === 4 %}
+    <h2 class="more-posts-header">More posts</h2>
+  {% endif %}
+
+  {% postCard post %}
+
+{% endfor %}
+
+</section>
+
+  
