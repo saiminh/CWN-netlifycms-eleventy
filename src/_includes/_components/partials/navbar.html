@@ -1,7 +1,7 @@
 <div class="navigation {{ 'navigation--fixed' if path == 'home' }}">
     <nav x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
-        <div class="navigation-logo">
+        <div data-tooltip="NOTHING!" class="navigation-logo">
             <a href="/" class="navigation-logo-link">
               {% include 'src/static/img/cwn-logo.svg' %}
             </a>

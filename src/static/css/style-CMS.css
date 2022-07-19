@@ -1,6 +1,7 @@
 :root {
-  --color-cwnbg: #FAF1EA;
+  --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
+  --color-cwnmain-muted: #efc2bc;
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: 4.3vw;
@@ -28,7 +29,7 @@ body {
 }
 
 body {
-  background: linear-gradient(to right, #e0edff, var(--color-cwnbg));
+  background: linear-gradient(to right, #ffead7, #ffe0e0);
 }
 
 h1, h2, h3 {
@@ -61,7 +62,6 @@ p {
 
 p a {
   position: relative;
-  display: inline-block;
   font-style: oblique 0deg;
   font-weight: 600;
   transition: all 0.2s ease-in-out;
@@ -72,12 +72,11 @@ p a:hover {
 }
 
 strong {
-  font-family: var(--font-headline);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .font-bold {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .flex picture > * {
@@ -109,6 +108,9 @@ body pre[class*=language-] {
 }
 
 .tags-label {
+  border-top: 1px solid var(--color-cwnmain);
+  padding-top: 1em;
+  display: block;
   font-size: calc(var(--fontsize-body) * 0.8);
 }
 
@@ -124,7 +126,7 @@ body pre[class*=language-] {
 
 .tags-tag {
   flex: 0 0 auto;
-  font-size: calc(var(--fontsize-body) * 0.6);
+  font-size: calc(var(--fontsize-body) * 0.8);
   display: inline-block;
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.6);
@@ -162,6 +164,17 @@ body pre[class*=language-] {
 
 .post-head-text-meta-category {
   text-decoration: none;
+}
+
+.post-body-intro > p:first-child:first-letter, .post-body-intro blockquote:first-child + p:first-letter {
+  float: left;
+  font-family: var(--font-headline);
+  font-size: calc(5 * var(--fontsize-body));
+  font-style: normal;
+  line-height: 1;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
 
 .post ul {

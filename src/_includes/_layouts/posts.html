@@ -6,58 +6,71 @@ permalink: "{{ title | slugify }}/"
 description: "{{ description }}"
 ---
 
-<article class="post post--{{categories}}">
-  <div class="post-head-text">
-    <a href="/category/{{categories}}" class="post-head-text-meta-category">
-      {% if categories == 'news' %}
-        Blog
-      {% else %}
-        Recipe
+<article class="post post--{{categories}}" x-data="{ cookmode: false }" :class="cookmode ? 'cookmode' : ''">
+  <div x-data="{ tab: 'instructions' }" class="cookmode-mobile-tabs hide-on-wide">
+    <a href="#instructions" @click="tab = 'instructions'" :class="tab=='instructions' ? 'active' : ''">Instructions</a>
+    <a href="#ingredients" @click="tab = 'ingredients'" :class="tab=='ingredients' ? 'active' : ''">Ingredients</a>
+  </div>
+  {% if categories == 'cooking' and instructions %}
+  <button class="toggle-cookmode" @click="cookmode = ! cookmode" x-text="cookmode ? '← Back' : 'Cookmode'" data-tooltip="Hide everything except the recipe!"></button>
+  {% endif %}
+  <section class="post-section post-section-head">
+    <div class="post-head-text">
+      <a href="/category/{{categories}}" class="post-head-text-meta-category">
+        {% if categories == 'news' %}
+          Blog
+        {% else %}
+          Recipe
+        {% endif %}
+      </a>
+      <h1 class="post-head-title" @click="cookmode = ! cookmode">{{title}}</h1>
+      <p class="post-head-excerpt">
+        {{ description }}
+      </p>
+      {% if tags %}
+      <span class="tags-label hide-on-mobile">Tagged as:</span>
+      <div class="tags hide-on-mobile">
+          {% for tag in tags %}
+            {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+            <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
+            {% endif %}
+          {% endfor %}
+      </div>
       {% endif %}
-    </a>
-    <h1 class="post-head-title">{{title}}</h1>
-    <p class="post-head-excerpt">
-      {{ description }}
-    </p>
-    {% if tags %}
-    <span class="tags-label">Tagged as:</span>
-    <div class="tags hide-on-mobile">
+    </div>
+    <div class="post-head-image">
+      {% if featuredImage %}
+        {% image featuredImage, title, "(max-width: 300px) 100vw, 100w" %}
+      {% endif %}
+    </div>
+    <div class="post-body-intro">  
+      {{ content | safe }}
+    </div>
+  </section>
+  {% if categories == 'cooking' %}
+  <section class="post-section post-section-recipe">
+    {% if ingredients %}
+    <div class="post-body-ingredients" id="ingredients">
+      {% markdown ingredients %}
+    </div>
+    {% endif %}
+    {% if instructions %}
+    <div class="post-body-instructions" id="instructions">
+      <h2 class="text-2xl">Instructions</h2>
+      {% markdown instructions %}
+    </div>
+    {% endif %}
+  </section>
+  {% endif %}
+    <span class="tags-label hide-on-wide">Tagged as:</span>
+    <div class="tags hide-on-wide">
+      {% if tags %}
         {% for tag in tags %}
           {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
           <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
           {% endif %}
         {% endfor %}
+      {% endif %}
     </div>
-    {% endif %}
-  </div>
-  <div class="post-head-image">
-    {% if featuredImage %}
-      {% image featuredImage, title, "(max-width: 300px) 100vw, 100w" %}
-    {% endif %}
-  </div>
-  <div class="post-body-intro">  
-    {{ content | safe }}
-  </div>
-  </article>
-<div class="post post--{{categories}}">
-  {% if ingredients %}
-  <div class="post-body-ingredients">
-    {% markdown ingredients %}
-  </div>
-  {% endif %}
-  {% if instructions %}
-  <div class="post-body-instructions">
-    <h2 class="text-2xl">Instructions</h2>
-    {% markdown instructions %}
-  </div>
-  {% endif %}
-  <div class="tags hide-on-wide">
-    {% if tags %}
-      {% for tag in tags %}
-        {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
-        <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
+
+</article>

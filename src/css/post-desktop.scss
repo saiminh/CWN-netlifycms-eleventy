@@ -1,4 +1,4 @@
-.post {
+.post-section {
   // padding: var(--space-outer);
   // margin: 0 auto;
   // max-width: 50rem;
@@ -52,7 +52,9 @@
   grid-row-start: 3;
   grid-column-start: 1;
   margin-left: var(--space-outer);
-  border: 1px solid var(--color-cwnmain);
+  margin-right: 2px;
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
   & :first-child {
     margin-top: 0;
   }
@@ -63,11 +65,12 @@
 .post-body-ingredients {
   grid-row-start: 3;
   grid-column-start: 2;
-  border: 1px solid var(--color-cwnmain);
-  border-left: none;
-  background: linear-gradient(to right, #e0edff -120%, var(--color-cwnbg));
+  // border: 1px solid var(--color-cwnmain);
+  // border-left: none;
   position: relative;
   z-index: 2;
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
   margin-right: var(--space-outer);
   & :first-child {
     margin-top: 0;

@@ -12,6 +12,30 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
+  - name: "meta"
+    label: "Meta"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "tags"
+        label: "Tags"
+        file: "src/_data/tags.yaml"
+        description: "List of tags"
+        fields:
+          - name: tags
+            label: Tags
+            label_singular: "Tag"
+            widget: list
+            fields:
+              - label: "Slug"
+                name: "slug"
+                widget: "string"
+                hint: "The part of a URL identifies the tag"
+              - label: "Display Name"
+                name: "name"
+                widget: "string"
+                hint: "Tag name for displaying on the site"
   - label: "Blog"
     name: "blog"
     folder: "src/_content/posts"
@@ -25,12 +49,22 @@ collections:
       - { label: "Author", name: "author", widget: "string", required: false  }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
+      - label: Tags
+        label_singular: "Tag"
         name: "tags"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        widget: list
+        summary: "{{fields.tag}}"
+        field:
+          label: Tag
+          name: tag
+          widget: relation
+          collection: "meta"
+          file: "tags"
+          searchFields:
+            - "tags.*.name"
+          displayFields:
+            - "tags.*.name"
+          valueField: "tags.*.slug"
   - label: "Recipes"
     name: "recipes"
     folder: "src/_content/recipes"
@@ -49,6 +83,7 @@ collections:
       - widget: select
         label: "tags"
         name: "tags"
+        file: "src/_data/tabs.yaml"
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]

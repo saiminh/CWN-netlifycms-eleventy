@@ -1,0 +1,153 @@
+.cookmode-mobile-tabs {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  display: none;
+  z-index: 99;
+  overflow: auto;
+  
+  &:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: var(--color-cwnmain);
+    z-index: 97;
+  }
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background-color: var(--color-cwnbg);
+    z-index: 95;
+  }
+  .cookmode & {
+    display: block;
+  }
+  & a {
+    border: 1px solid var(--color-cwnmain);
+    border-bottom-color: var(--color-cwnbg);
+    border-radius: 3px 3px 0 0;
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    z-index: 96;
+    &:first-child {
+      margin-left: 20px;
+    }
+  }
+  & a.active {
+    font-weight: 600;
+    z-index: 98;
+  }
+}
+.toggle-cookmode {
+  border: none;
+  border-radius: 12px;
+  background-color: var(--color-cwnmain);
+  color: var(--color-cwnbg);
+  padding: .5em .75em;
+  float: right;
+  font-family: var(--font-headline);
+  position: sticky;
+  top: var(--space-outer);
+  z-index: 100;
+  box-shadow: 0 0px 0px rgba(200, 50, 0, 0);
+  transform: scale(1);
+  transition: all .2s ease-out;
+  &:hover {
+    transform: scale(1.02);
+    box-shadow: 0 2px 8px rgba(200, 50, 0, 0.3);
+  }
+}
+article.cookmode {
+  & .post-section-head {
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+  }
+  & .post-section-recipe {
+    position: fixed;
+    top: 2px;
+    right: 2px;
+    bottom: 2px;
+    left: 2px;
+    z-index: 4;
+    overflow: hidden;
+
+    & .post-body-ingredients,
+    & .post-body-instructions {
+      margin: 0;
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      overflow-y: scroll;
+      background-color: var(--color-cwnbg);
+      padding: calc(55px + var(--space-outer)) var(--space-outer) var(--space-outer) var(--space-outer);
+      z-index: 1;
+      &:target {
+        z-index: 2;
+      }
+    }
+  }
+  & .tags {
+    display: none;
+  }
+  & .toggle-cookmode {
+    position: fixed;
+    right: var(--space-outer);
+  }
+  & .post-body-instructions p,
+  & .post-body-ingredients li {
+    list-style: none;
+    padding: .5em 0 .5em 1em;
+    margin: 0;
+    position: relative;
+    cursor: pointer;
+
+    & > p {
+      margin: 0;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0.85em;
+      left: 0;
+      width: .5em;
+      height: .5em;
+      background-color: #FFF;
+      border: 2px solid var(--color-cwnmain);
+      border-radius: 3px;
+    }
+    &:hover:before {
+      box-shadow: inset 0px 2px 4px rgba(200, 100, 50, 0.3);
+    }
+    &.done:before {
+      display: none;
+    }
+    &.done:after {
+      content: '✓';
+      position: absolute;
+      top: 0.45em;
+      left: 0em;
+      font-size: 1em;
+      color: var(--color-cwnmain);
+    }
+    &.done {
+      opacity: 0.5;
+      text-decoration: line-through;
+    }
+  }
+}

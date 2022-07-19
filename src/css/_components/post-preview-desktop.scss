@@ -4,7 +4,7 @@
   padding: 0 var(--space-outer);
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  gap: 20px;
+  gap: 2px;
 }
 @mixin horiz {
   display: flex;
@@ -36,18 +36,18 @@
   }
 }
 .post-preview {
+  position: relative;
   padding: 0;
-  border: 1px solid var(--color-cwnmain);
   transform: scale(1);
   transition: all 0.15s ease-out;
   box-shadow: 0 0 0 rgba(0,0,0,0);
-  // background-color: rgba(255, 255, 255, 0.8);
-  // box-shadow: 0 2px 12px rgba(0,0,0,0.1);
-  // mix-blend-mode: darken;
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
 }
 .post-preview:hover {
   transform: scale(1.01);
   box-shadow: 0 2px 8px rgba(250,0,0,0.2);
+  z-index: 4;
 }
 .post-preview-img {
   display: none;
@@ -108,9 +108,10 @@
 .archive-header {
   font-family: var(--font-body);
   font-weight: 300;
-  font-size: var(--fontsize-h3);
-  padding: var(--space-outer);
+  font-size: calc(var(--fontsize-body) * .8);
+  padding: 0 var(--space-outer) calc(var(--space-outer) /2) var(--space-outer);
   margin: 0;
+  letter-spacing: 0;
 }
 .archive-header-amount {
   font-size: .66em;

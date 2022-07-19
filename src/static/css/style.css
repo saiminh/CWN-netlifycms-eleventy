@@ -1,6 +1,8 @@
+@charset "UTF-8";
 :root {
-  --color-cwnbg: #FAF1EA;
+  --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
+  --color-cwnmain-muted: #efc2bc;
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: 4.3vw;
@@ -28,7 +30,7 @@ body {
 }
 
 body {
-  background: linear-gradient(to right, #e0edff, var(--color-cwnbg));
+  background: linear-gradient(to right, #ffead7, #ffe0e0);
 }
 
 h1, h2, h3 {
@@ -61,7 +63,6 @@ p {
 
 p a {
   position: relative;
-  display: inline-block;
   font-style: oblique 0deg;
   font-weight: 600;
   transition: all 0.2s ease-in-out;
@@ -72,12 +73,11 @@ p a:hover {
 }
 
 strong {
-  font-family: var(--font-headline);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .font-bold {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .flex picture > * {
@@ -269,6 +269,9 @@ body pre[class*=language-] {
 }
 
 .tags-label {
+  border-top: 1px solid var(--color-cwnmain);
+  padding-top: 1em;
+  display: block;
   font-size: calc(var(--fontsize-body) * 0.8);
 }
 
@@ -284,7 +287,7 @@ body pre[class*=language-] {
 
 .tags-tag {
   flex: 0 0 auto;
-  font-size: calc(var(--fontsize-body) * 0.6);
+  font-size: calc(var(--fontsize-body) * 0.8);
   display: inline-block;
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.6);
@@ -302,6 +305,185 @@ body pre[class*=language-] {
   opacity: 0.8;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
   transform: scale(1.05);
+}
+
+.cookmode-mobile-tabs {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  display: none;
+  z-index: 99;
+  overflow: auto;
+}
+.cookmode-mobile-tabs:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: var(--color-cwnmain);
+  z-index: 97;
+}
+.cookmode-mobile-tabs:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: var(--color-cwnbg);
+  z-index: 95;
+}
+.cookmode .cookmode-mobile-tabs {
+  display: block;
+}
+.cookmode-mobile-tabs a {
+  border: 1px solid var(--color-cwnmain);
+  border-bottom-color: var(--color-cwnbg);
+  border-radius: 3px 3px 0 0;
+  margin-top: 20px;
+  padding: 10px;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  z-index: 96;
+}
+.cookmode-mobile-tabs a:first-child {
+  margin-left: 20px;
+}
+.cookmode-mobile-tabs a.active {
+  font-weight: 600;
+  z-index: 98;
+}
+
+.toggle-cookmode {
+  border: none;
+  border-radius: 12px;
+  background-color: var(--color-cwnmain);
+  color: var(--color-cwnbg);
+  padding: 0.5em 0.75em;
+  float: right;
+  font-family: var(--font-headline);
+  position: sticky;
+  top: var(--space-outer);
+  z-index: 100;
+  box-shadow: 0 0px 0px rgba(200, 50, 0, 0);
+  transform: scale(1);
+  transition: all 0.2s ease-out;
+}
+.toggle-cookmode:hover {
+  transform: scale(1.02);
+  box-shadow: 0 2px 8px rgba(200, 50, 0, 0.3);
+}
+
+article.cookmode .post-section-head {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+article.cookmode .post-section-recipe {
+  position: fixed;
+  top: 2px;
+  right: 2px;
+  bottom: 2px;
+  left: 2px;
+  z-index: 4;
+  overflow: hidden;
+}
+article.cookmode .post-section-recipe .post-body-ingredients, article.cookmode .post-section-recipe .post-body-instructions {
+  margin: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  background-color: var(--color-cwnbg);
+  padding: calc(55px + var(--space-outer)) var(--space-outer) var(--space-outer) var(--space-outer);
+  z-index: 1;
+}
+article.cookmode .post-section-recipe .post-body-ingredients:target, article.cookmode .post-section-recipe .post-body-instructions:target {
+  z-index: 2;
+}
+article.cookmode .tags {
+  display: none;
+}
+article.cookmode .toggle-cookmode {
+  position: fixed;
+  right: var(--space-outer);
+}
+article.cookmode .post-body-instructions p, article.cookmode .post-body-ingredients li {
+  list-style: none;
+  padding: 0.5em 0 0.5em 1em;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+}
+article.cookmode .post-body-instructions p > p, article.cookmode .post-body-ingredients li > p {
+  margin: 0;
+}
+article.cookmode .post-body-instructions p:before, article.cookmode .post-body-ingredients li:before {
+  content: "";
+  position: absolute;
+  top: 0.85em;
+  left: 0;
+  width: 0.5em;
+  height: 0.5em;
+  background-color: #FFF;
+  border: 2px solid var(--color-cwnmain);
+  border-radius: 3px;
+}
+article.cookmode .post-body-instructions p:hover:before, article.cookmode .post-body-ingredients li:hover:before {
+  box-shadow: inset 0px 2px 4px rgba(200, 100, 50, 0.3);
+}
+article.cookmode .post-body-instructions p.done:before, article.cookmode .post-body-ingredients li.done:before {
+  display: none;
+}
+article.cookmode .post-body-instructions p.done:after, article.cookmode .post-body-ingredients li.done:after {
+  content: "✓";
+  position: absolute;
+  top: 0.45em;
+  left: 0em;
+  font-size: 1em;
+  color: var(--color-cwnmain);
+}
+article.cookmode .post-body-instructions p.done, article.cookmode .post-body-ingredients li.done {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+
+.site-footer {
+  padding: var(--space-outer);
+  text-align: center;
+  font-size: calc(var(--fontsize-body) * 0.8);
+}
+
+.pagination {
+  padding: var(--space-outer);
+}
+.pagination ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.pagination ol li {
+  color: var(--color-cwnmain-muted);
+  text-align: center;
+  border-radius: 3px;
+}
+.pagination ol a {
+  background-color: var(--color-cwnmain-muted);
+  display: inline-block;
+  padding: 2px 4px;
+  min-width: 20px;
+  min-height: 20px;
+  color: var(--color-cwnmain);
+  text-decoration: none;
 }
 
 .post {
@@ -324,6 +506,17 @@ body pre[class*=language-] {
   text-decoration: none;
 }
 
+.post-body-intro > p:first-child:first-letter, .post-body-intro blockquote:first-child + p:first-letter {
+  float: left;
+  font-family: var(--font-headline);
+  font-size: calc(5 * var(--fontsize-body));
+  font-style: normal;
+  line-height: 1;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
 .post ul {
   padding: 0;
   list-style: square;
@@ -331,3 +524,5 @@ body pre[class*=language-] {
 .post ul > li {
   margin: 0 0 10px 1em;
 }
+
+/*# sourceMappingURL=style.css.map */

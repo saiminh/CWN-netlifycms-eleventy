@@ -1,6 +1,8 @@
+@charset "UTF-8";
 :root {
-  --color-cwnbg: #FAF1EA;
+  --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
+  --color-cwnmain-muted: #efc2bc;
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: 4.3vw;
@@ -28,7 +30,7 @@ body {
 }
 
 body {
-  background: linear-gradient(to right, #e0edff, var(--color-cwnbg));
+  background: linear-gradient(to right, #ffead7, #ffe0e0);
 }
 
 h1, h2, h3 {
@@ -61,7 +63,6 @@ p {
 
 p a {
   position: relative;
-  display: inline-block;
   font-style: oblique 0deg;
   font-weight: 600;
   transition: all 0.2s ease-in-out;
@@ -72,12 +73,11 @@ p a:hover {
 }
 
 strong {
-  font-family: var(--font-headline);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .font-bold {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .flex picture > * {
@@ -190,20 +190,23 @@ body pre[class*=language-] {
   padding: 0 var(--space-outer);
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  gap: 20px;
+  gap: 2px;
 }
 
 .post-preview {
+  position: relative;
   padding: 0;
-  border: 1px solid var(--color-cwnmain);
   transform: scale(1);
   transition: all 0.15s ease-out;
   box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
 }
 
 .post-preview:hover {
   transform: scale(1.01);
   box-shadow: 0 2px 8px rgba(250, 0, 0, 0.2);
+  z-index: 4;
 }
 
 .post-preview-img {
@@ -273,9 +276,10 @@ body pre[class*=language-] {
 .archive-header {
   font-family: var(--font-body);
   font-weight: 300;
-  font-size: var(--fontsize-h3);
-  padding: var(--space-outer);
+  font-size: calc(var(--fontsize-body) * 0.8);
+  padding: 0 var(--space-outer) calc(var(--space-outer) / 2) var(--space-outer);
   margin: 0;
+  letter-spacing: 0;
 }
 
 .archive-header-amount {
@@ -371,6 +375,7 @@ body pre[class*=language-] {
 }
 
 .tags-label {
+  display: block;
   font-size: calc(var(--fontsize-body) * 0.8);
 }
 
@@ -406,7 +411,149 @@ body pre[class*=language-] {
   transform: scale(1.05);
 }
 
-.post {
+.toggle-cookmode {
+  border: none;
+  border-radius: 12px;
+  background-color: var(--color-cwnmain);
+  color: var(--color-cwnbg);
+  padding: 0.5em 0.75em;
+  cursor: pointer;
+  position: fixed;
+  font-family: var(--font-headline);
+  top: 10px;
+  right: 10px;
+  z-index: 100;
+  box-shadow: 0 0px 0px rgba(200, 50, 0, 0);
+  transform: scale(1);
+  transition: all 0.2s ease-out;
+}
+.toggle-cookmode:hover {
+  transform: scale(1.02);
+  box-shadow: 0 2px 8px rgba(200, 50, 0, 0.3);
+}
+
+article.cookmode .post-section-head {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
+}
+article.cookmode .post-section-recipe {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  z-index: 4;
+  overflow: hidden;
+}
+article.cookmode .post-section-recipe .post-body-ingredients, article.cookmode .post-section-recipe .post-body-instructions {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 60%;
+  height: 100%;
+  overflow-y: scroll;
+  background-color: #FFF;
+  mix-blend-mode: normal;
+}
+article.cookmode .post-section-recipe .post-body-ingredients {
+  left: 2px;
+  width: 100%;
+}
+article.cookmode .post-section-recipe .post-body-instructions p, article.cookmode .post-section-recipe .post-body-ingredients li {
+  list-style: none;
+  padding: 0.5em 0 0.5em 1em;
+  margin: 0;
+  position: relative;
+  cursor: pointer;
+}
+article.cookmode .post-section-recipe .post-body-instructions p:before, article.cookmode .post-section-recipe .post-body-ingredients li:before {
+  content: "";
+  position: absolute;
+  top: 0.85em;
+  left: 0;
+  width: 0.5em;
+  height: 0.5em;
+  background-color: #FFF;
+  border: 2px solid var(--color-cwnmain);
+  border-radius: 3px;
+}
+article.cookmode .post-section-recipe .post-body-instructions p:hover:before, article.cookmode .post-section-recipe .post-body-ingredients li:hover:before {
+  box-shadow: inset 0px 2px 4px rgba(200, 100, 50, 0.3);
+}
+article.cookmode .post-section-recipe .post-body-instructions p.done:before, article.cookmode .post-section-recipe .post-body-ingredients li.done:before {
+  display: none;
+}
+article.cookmode .post-section-recipe .post-body-instructions p.done:after, article.cookmode .post-section-recipe .post-body-ingredients li.done:after {
+  content: "✓";
+  position: absolute;
+  top: 0.45em;
+  left: 0em;
+  font-size: 1em;
+  color: var(--color-cwnmain);
+}
+article.cookmode .post-section-recipe .post-body-instructions p.done, article.cookmode .post-section-recipe .post-body-ingredients li.done {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+.site-footer {
+  padding: var(--space-outer);
+}
+
+.tooltip {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: var(--color-cwnbg);
+  color: var(--color-cwnmain);
+  border-radius: 0 6px 6px 6px;
+  box-shadow: 0 2px 8px rgba(200, 100, 50, 0.3);
+  transition: all 0.2s ease-out;
+  font-size: calc(var(--fontsize-body) * 0.5);
+  padding: 1em;
+  opacity: 0;
+  visibility: hidden;
+  max-width: 400px;
+}
+
+.tooltip.tooltip--left {
+  border-radius: 6px 0 6px 6px;
+}
+
+.tooltip.tooltip--visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.pagination {
+  padding: var(--space-outer);
+}
+.pagination ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.pagination ol li {
+  color: var(--color-cwnmain-muted);
+  text-align: center;
+  border-radius: 3px;
+}
+.pagination ol a {
+  background-color: var(--color-cwnmain-muted);
+  display: inline-block;
+  padding: 2px 4px;
+  min-width: 20px;
+  min-height: 20px;
+  color: var(--color-cwnmain);
+  text-decoration: none;
+}
+
+.post-section {
   box-sizing: border-box;
   display: grid;
   grid-template-columns: 60% 40%;
@@ -462,7 +609,9 @@ body pre[class*=language-] {
   grid-row-start: 3;
   grid-column-start: 1;
   margin-left: var(--space-outer);
-  border: 1px solid var(--color-cwnmain);
+  margin-right: 2px;
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
 }
 .post-body-instructions :first-child {
   margin-top: 0;
@@ -474,11 +623,10 @@ body pre[class*=language-] {
 .post-body-ingredients {
   grid-row-start: 3;
   grid-column-start: 2;
-  border: 1px solid var(--color-cwnmain);
-  border-left: none;
-  background: linear-gradient(to right, #e0edff -120%, var(--color-cwnbg));
   position: relative;
   z-index: 2;
+  background-color: rgba(255, 50, 0, 0.1);
+  mix-blend-mode: multiply;
   margin-right: var(--space-outer);
 }
 .post-body-ingredients :first-child {
@@ -495,3 +643,5 @@ body pre[class*=language-] {
 .post ul > li {
   margin: 0 0 10px 1em;
 }
+
+/*# sourceMappingURL=style-desktop.css.map */

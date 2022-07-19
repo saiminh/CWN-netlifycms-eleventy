@@ -14,6 +14,19 @@
 .post-head-text-meta-category {
   text-decoration: none;
 }
+.post-body-intro {
+  & > p:first-child:first-letter,
+  & blockquote:first-child + p:first-letter {
+    float: left;
+    font-family: var(--font-headline);
+    font-size: calc(5 * var(--fontsize-body));
+    font-style: normal;
+    line-height: 1;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-left: 3px;
+  }
+}
 .post ul {
   padding: 0;
   list-style: square;
