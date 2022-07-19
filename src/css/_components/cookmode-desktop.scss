@@ -1,0 +1,94 @@
+.toggle-cookmode {
+  border: none;
+  border-radius: 12px;
+  background-color: var(--color-cwnmain);
+  color: var(--color-cwnbg);
+  padding: .5em .75em;
+  cursor: pointer;
+  position: fixed;
+  font-family: var(--font-headline);
+  top: 10px;
+  right: 10px;
+  z-index: 100;
+  box-shadow: 0 0px 0px rgba(200, 50, 0, 0);
+  transform: scale(1);
+  transition: all .2s ease-out;
+  &:hover {
+    transform: scale(1.02);
+    box-shadow: 0 2px 8px rgba(200, 50, 0, 0.3);
+  }
+}
+article.cookmode {
+  & .post-section-head {
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+  }
+  & .post-section-recipe {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    bottom: 20px;
+    left: 20px;
+    z-index: 4;
+    overflow: hidden;
+
+    & .post-body-ingredients,
+    & .post-body-instructions {
+      margin: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 60%;
+      height: 100%;
+      overflow-y: scroll;
+      background-color: #FFF;
+      mix-blend-mode: normal;
+    }
+    & .post-body-ingredients {
+      left: 2px;
+      width: 100%;
+    }
+    & .post-body-instructions p,
+    & .post-body-ingredients li {
+      list-style: none;
+      padding: .5em 0 .5em 1em;
+      margin: 0;
+      position: relative;
+      cursor: pointer;
+      &:before {
+        content: "";
+        position: absolute;
+        top: 0.85em;
+        left: 0;
+        width: .5em;
+        height: .5em;
+        background-color: #FFF;
+        border: 2px solid var(--color-cwnmain);
+        border-radius: 3px;
+      }
+      &:hover:before {
+        box-shadow: inset 0px 2px 4px rgba(200, 100, 50, 0.3);
+      }
+      &.done:before {
+        display: none;
+      }
+      &.done:after {
+        content: '✓';
+        position: absolute;
+        top: 0.45em;
+        left: 0em;
+        font-size: 1em;
+        color: var(--color-cwnmain);
+      }
+      &.done {
+        opacity: 0.5;
+        text-decoration: line-through;
+        &:before {
+          // background-color: var(--color-cwnmain);
+        }
+      }
+    }
+  }
+}
