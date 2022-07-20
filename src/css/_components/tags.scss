@@ -3,14 +3,14 @@
   padding-top: 1em;
   display: block;
   font-size: calc(var(--fontsize-body) * 0.8);
+  margin: var(--space-outer);
 }
 .tags {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   align-items: flex-start;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem var(--space-outer);
   gap:5px;
 }
 .tags-tag {

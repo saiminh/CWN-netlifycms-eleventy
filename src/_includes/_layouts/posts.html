@@ -5,14 +5,18 @@ prism: true
 permalink: "{{ title | slugify }}/"
 description: "{{ description }}"
 ---
-
 <article class="post post--{{categories}}" x-data="{ cookmode: false }" :class="cookmode ? 'cookmode' : ''">
   <div x-data="{ tab: 'instructions' }" class="cookmode-mobile-tabs hide-on-wide">
     <a href="#instructions" @click="tab = 'instructions'" :class="tab=='instructions' ? 'active' : ''">Instructions</a>
     <a href="#ingredients" @click="tab = 'ingredients'" :class="tab=='ingredients' ? 'active' : ''">Ingredients</a>
   </div>
   {% if categories == 'cooking' and instructions %}
-  <button class="toggle-cookmode" @click="cookmode = ! cookmode" x-text="cookmode ? '← Back' : 'Cookmode'" data-tooltip="Hide everything except the recipe!"></button>
+  <button 
+    class="toggle-cookmode" 
+    @click="cookmode = !cookmode" 
+    x-text="cookmode ? '← Back' : 'Cookmode'" 
+    data-tooltip="Hide/Show everything but the recipe">
+  </button>
   {% endif %}
   <section class="post-section post-section-head">
     <div class="post-head-text">
@@ -62,15 +66,57 @@ description: "{{ description }}"
     {% endif %}
   </section>
   {% endif %}
-    <span class="tags-label hide-on-wide">Tagged as:</span>
-    <div class="tags hide-on-wide">
-      {% if tags %}
-        {% for tag in tags %}
-          {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
-          <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
-    </div>
-
 </article>
+<span class="tags-label hide-on-wide">Tagged as:</span>
+<div class="tags hide-on-wide">
+  {% if tags %}
+    {% for tag in tags %}
+      {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+      <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+</div>
+
+{% if categories == 'news' %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{title}}",
+    "image": "{{featuredImage}}",  
+    "author": {
+      "@type": "Person",
+      "name": "Tracey Ingram"
+    },  
+    "publisher": {
+      "@type": "Person",
+      "name": "Tracey Ingram",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "src/static/img/cwn-logo.svg"
+      }
+    },
+    "datePublished": "{{date}}"
+  }
+  </script>
+
+{% else %}
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/", 
+    "@type": "Recipe", 
+    "name": "{{title}}",
+    "image": "{{featuredImage}}",
+    "description": "{{description}}",
+    "keywords": "",
+    "author": {
+      "@type": "Person",
+      "name": "Tracey Ingram"
+    }
+  }
+  </script>
+
+{% endif %}

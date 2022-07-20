@@ -6,7 +6,7 @@
     "build:eleventy": "eleventy",
     "postbuild": "postcss src/static/css/*.css -u autoprefixer cssnano -r",
     "start": "npm-run-all build:sass --parallel watch:*",
-    "build": "npm-run-all build:sass build:eleventy",
+    "build": "npm-run-all build:sass postbuild build:eleventy",
     "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
   },
   "devDependencies": {

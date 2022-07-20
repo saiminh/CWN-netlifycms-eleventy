@@ -26,7 +26,7 @@ document.body.addEventListener('mousemove', function(e) {
   let tooltipW = tooltip.offsetWidth;
   let tooltipH = tooltip.offsetHeight;
   let xPos = e.clientX;
-  let yPos = e.clientY + 10;
+  let yPos = e.clientY + 20;
   if (xPos >= window.innerWidth - tooltipW) {
     tooltip.style.transform = 'translate(' + (xPos - tooltipW) + 'px, ' + yPos + 'px)';
     tooltip.classList.add('tooltip--left');

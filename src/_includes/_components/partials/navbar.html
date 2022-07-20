@@ -1,7 +1,7 @@
 <div class="navigation {{ 'navigation--fixed' if path == 'home' }}">
     <nav x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
-        <div data-tooltip="NOTHING!" class="navigation-logo">
+        <div data-tooltip="Home" class="navigation-logo">
             <a href="/" class="navigation-logo-link">
               {% include 'src/static/img/cwn-logo.svg' %}
             </a>
@@ -22,7 +22,7 @@
                 <ul class="navigation-menu-list">
                     {% for item in navigation.items %}
                         <li class="navigation-menu-list-item">
-                            <a @click="isOpen = false" class="navigation-menu-list-item-link" href="{{ item.url }}">{{ item.text }}</a>
+                            <a data-tooltip="{{ item.tooltip }}" @click="isOpen = false" class="navigation-menu-list-item-link" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
                 </ul>

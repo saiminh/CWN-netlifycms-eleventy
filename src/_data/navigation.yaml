@@ -1,6 +1,7 @@
----
 items:
   - text: Blog
-    url: "/category/news"
+    url: /category/news
+    tooltip: Show only blogposts
   - text: Recipes
-    url: "/category/cooking"
+    url: /category/cooking
+    tooltip: Show only recipes

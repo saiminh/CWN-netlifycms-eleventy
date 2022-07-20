@@ -20,7 +20,7 @@ collections:
     files:
       - name: "tags"
         label: "Tags"
-        file: "src/_data/tags.yaml"
+        file: "src/_data/mytags.yaml"
         description: "List of tags"
         fields:
           - name: tags
@@ -80,13 +80,22 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Ingredients", name: "ingredients", widget: "markdown", required: false }
       - { label: "Instructions", name: "instructions", widget: "markdown", required: false }
-      - widget: select
-        label: "tags"
+      - label: Tags
+        label_singular: "Tag"
         name: "tags"
-        file: "src/_data/tabs.yaml"
-        multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        widget: list
+        summary: "{{fields.tag}}"
+        field:
+          label: Tag
+          name: tag
+          widget: relation
+          collection: "meta"
+          file: "tags"
+          searchFields:
+            - "tags.*.name"
+          displayFields:
+            - "tags.*.name"
+          valueField: "tags.*.slug"
   - label: "Settings"
     name: "settings"
     editor:
@@ -104,6 +113,7 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
+              - { label: Tooltip, name: tooltip, widget: string }
       - label: "Quick Links"
         name: "links"
         file: "src/_data/quicklinks.yaml"

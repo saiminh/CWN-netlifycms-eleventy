@@ -1,7 +1,7 @@
 ---
 pagination:
   data: collections.article
-  size: 12
+  size: 15
   reverse: true
 layout: _layouts/blog
 ---
@@ -19,3 +19,18 @@ layout: _layouts/blog
 </section>
 
 {% include "src/_includes/_components/partials/pagination.njk" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Blog", 
+  "name": "Cooking with Nothing",
+  "alternateName": "A journey towards gut health",
+  "image": "src/static/img/cwn-logo.svg",
+  "description": "Tracey Ingram loves food but grew up with a tonne of tummy problems. This blog is about cooking with nothing that doesn\’t serve me.",
+  "keywords": "cooking, health, gut health, tummy problems, food, ajurveda",
+  "author": {
+    "@type": "Person",
+    "name": "Tracey Ingram"
+  }
+}
+</script>

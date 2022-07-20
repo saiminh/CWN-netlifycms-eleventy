@@ -6,29 +6,22 @@
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-end;
-    gap: .5em;
+    justify-content: space-between;
 
     & li {
       color: var(--color-cwnmain-muted);
       text-align: center;
+      border-radius: 3px;
     }
     
     & a {
-      border-radius: 3px;
-      background-color: transparent;
+      background-color: var(--color-cwnmain-muted);
       display: inline-block;
       padding: 2px 4px;
       min-width: 20px;
       min-height: 20px;
       color: var(--color-cwnmain);
       text-decoration :none;
-    }
-    & a:hover {
-      background-color: var(--color-cwnmain-muted);
-    }
-    & a[aria-current="page"] {
-      background-color: var(--color-cwnmain-muted);
     }
   }
 }
