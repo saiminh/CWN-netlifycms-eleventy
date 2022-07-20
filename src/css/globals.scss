@@ -10,12 +10,12 @@
   --fontsize-h1: calc(var(--fontsize-body) * 1.95);
   --fontsize-h2: calc(var(--fontsize-body) * 1.49);
   --fontsize-h3: calc(var(--fontsize-body) * 1.25);
-  --space-outer: 20px;
+  --space-outer: 5vw;
 }
 @include mixins.bp-wide {
   :root {
     --fontsize-body: 1.7vw;
-    --space-outer: 40px;
+    --space-outer: 2.5vw;
   }
 }
 body {
