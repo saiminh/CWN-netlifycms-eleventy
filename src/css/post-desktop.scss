@@ -42,13 +42,21 @@
   & > p:first-child:first-letter,
   & blockquote:first-child + p:first-letter {
     float: left;
+    display: block;
     font-family: var(--font-headline);
-    font-size: calc(5 * var(--fontsize-body));
+    font-size: calc(4.95 * var(--fontsize-body));
     font-style: normal;
     line-height: 1;
-    padding-top: 10px;
-    padding-right: 8px;
-    padding-left: 3px;
+    box-sizing: border-box;
+    margin: -0.07em .1em -.1em 0;
+
+    @-moz-document url-prefix() {
+      margin: 0.085em .1em 0 0;
+      padding: 0;
+    }
+    // padding-right: 8px;
+    // padding-left: 0;
+    // margin: -6px 0 -10px 0;
   }
 }
 .post-body-instructions {

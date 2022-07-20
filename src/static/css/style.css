@@ -528,12 +528,20 @@ article.cookmode .post-body-instructions p.done, article.cookmode .post-body-ing
 .post-body-intro > p:first-child:first-letter, .post-body-intro blockquote:first-child + p:first-letter {
   float: left;
   font-family: var(--font-headline);
-  font-size: calc(5 * var(--fontsize-body));
+  font-size: calc(4.8 * var(--fontsize-body));
   font-style: normal;
   line-height: 1;
-  padding-top: 8px;
+  padding-top: 0;
   padding-right: 8px;
-  padding-left: 3px;
+  padding-left: 0;
+  margin: -4px 0 -8px 0;
+}
+@-moz-document url-prefix() {
+  .post-body-intro > p:first-child:first-letter, .post-body-intro blockquote:first-child + p:first-letter {
+    font-size: calc(4.9 * var(--fontsize-body));
+    margin: 0.085em 0.1em 0 0;
+    padding: 0;
+  }
 }
 
 .post ul {
