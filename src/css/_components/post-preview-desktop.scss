@@ -4,7 +4,7 @@
   padding: 0 var(--space-outer);
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  gap: 2px;
+  gap: clamp(2px, .125em, 10px);
 }
 @mixin horiz {
   display: flex;
@@ -60,7 +60,7 @@
   }
 }
 .post-preview-text {
-  padding: 0 20px 20px 20px;
+  padding: 0 1em 1em 1em;
   & :last-child,
   & > :last-child > :last-child {
     margin-bottom: 0.25em;
@@ -71,7 +71,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin: 1rem 0;
+  margin: 1em 0;
   line-height: 1;
 }
 .post-preview-text-meta-category {
@@ -83,6 +83,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  & a {
+    text-decoration: none;
+  }
 }
 .post-preview-text-content-title {
   font-size: var(--fontsize-h1);
@@ -109,7 +112,7 @@
   font-family: var(--font-body);
   font-weight: 300;
   font-size: calc(var(--fontsize-body) * .8);
-  padding: 0 var(--space-outer) calc(var(--space-outer) /2) var(--space-outer);
+  padding: 0 0 .5em var(--space-outer);
   margin: 0;
   letter-spacing: 0;
 }
@@ -137,7 +140,7 @@
   @include excerpt();
   @include image();
   & .post-preview-text {
-    padding-left: 25px;
+    padding-left: 1em;
   }
   & .post-preview-text-meta {
     font-size: calc(var(--fontsize-body) * 0.66);

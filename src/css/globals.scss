@@ -6,7 +6,7 @@
   --color-cwnmain-muted: #efc2bc;
   --font-headline: 'Space Grotesk', sans-serif;
   --font-body: 'Inter', sans-serif;
-  --fontsize-body: 4.3vw;
+  --fontsize-body: clamp(16px, 4.3vw, 40px);
   --fontsize-h1: calc(var(--fontsize-body) * 1.95);
   --fontsize-h2: calc(var(--fontsize-body) * 1.49);
   --fontsize-h3: calc(var(--fontsize-body) * 1.25);
@@ -14,7 +14,7 @@
 }
 @include mixins.bp-wide {
   :root {
-    --fontsize-body: 1.7vw;
+    --fontsize-body: clamp(18px, 1.7vw, 40px);
     --space-outer: 2.5vw;
   }
 }
@@ -26,7 +26,8 @@ body {
   font-style: normal;
   font-size: var(--fontsize-body);
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  max-width: 2800px;
 }
 body {
   // background: linear-gradient(to right, #d4e7ff, #fac9ba);

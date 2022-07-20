@@ -26,6 +26,9 @@
     height: 100%;
     object-fit: cover;
   }
+  @media (min-width: 2800px) {
+    margin-left: var(--space-outer);
+  }
 }
 .post-head-text-meta-category {
   text-decoration: none;

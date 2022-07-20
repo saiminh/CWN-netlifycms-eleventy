@@ -17,6 +17,9 @@
     transform: scale(1.02);
     box-shadow: 0 2px 8px rgba(200, 50, 0, 0.3);
   }
+  @media (min-width: 2800px) {
+    right: calc( (100% - 2800px) * 0.5 + var(--space-outer) + 10px );
+  }
 }
 article.cookmode {
   & .post-section-head {
@@ -85,9 +88,6 @@ article.cookmode {
       &.done {
         opacity: 0.5;
         text-decoration: line-through;
-        &:before {
-          // background-color: var(--color-cwnmain);
-        }
       }
     }
   }
