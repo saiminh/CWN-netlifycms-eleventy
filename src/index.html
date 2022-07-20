@@ -9,11 +9,18 @@ layout: _layouts/blog
 <section class="feed feed--home">
   
 {% for post in pagination.items %}
-  
+{% if loop.index === 1 %}
+  {% set sizes = "(min-width: 768px) 45vw, 100vw" %}
+{% elif loop.index === 5 %}
+  {% set sizes = "(min-width: 768px) 28vw, 100vw" %}
+{% else %}
+  {% set sizes = "(min-width: 768px) 23vw, 100vw" %}
+{% endif %}
+
 {% if loop.index === 4 %}
   <h2 class="more-posts-header">More posts</h2>
 {% endif %}
-  {% postCard post %}
+  {% postCard post, sizes %}
 {% endfor %}
 
 </section>
