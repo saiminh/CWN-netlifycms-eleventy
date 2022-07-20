@@ -24,6 +24,15 @@
   text-decoration: none;
   font-weight: 300;
 }
+.post-preview-text-content a {
+  text-decoration: none;
+  &.post-preview-text-content-read-more {
+    font-family: var(--font-headline);
+    text-decoration: underline;
+    margin: .25em 0;
+    display: inline-block;
+  }
+}
 .post-preview-text-content-title {
   font-size: var(--fontsize-h1);
   letter-spacing: -.03em;

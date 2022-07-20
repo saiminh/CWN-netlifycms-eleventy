@@ -2,7 +2,7 @@
 :root {
   --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
-  --color-cwnmain-muted: #efc2bc;
+  --color-cwnmain-muted: #ffd0ca;
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: clamp(16px, 4.3vw, 40px);
@@ -215,6 +215,16 @@ body pre[class*=language-] {
 .post-preview-text-meta-category {
   text-decoration: none;
   font-weight: 300;
+}
+
+.post-preview-text-content a {
+  text-decoration: none;
+}
+.post-preview-text-content a.post-preview-text-content-read-more {
+  font-family: var(--font-headline);
+  text-decoration: underline;
+  margin: 0.25em 0;
+  display: inline-block;
 }
 
 .post-preview-text-content-title {

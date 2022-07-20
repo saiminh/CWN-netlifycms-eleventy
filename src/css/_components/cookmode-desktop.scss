@@ -7,6 +7,7 @@
   cursor: pointer;
   position: fixed;
   font-family: var(--font-headline);
+  font-size: calc( var(--fontsize-body) * .66 );
   top: 10px;
   right: 10px;
   z-index: 100;
@@ -90,5 +91,9 @@ article.cookmode {
         text-decoration: line-through;
       }
     }
+  }
+  & .post-section-recipe {
+    max-width: calc(2800px - 2 * var(--space-outer));
+    margin: 0 auto;
   }
 }

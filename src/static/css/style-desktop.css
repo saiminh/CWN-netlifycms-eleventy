@@ -2,7 +2,7 @@
 :root {
   --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
-  --color-cwnmain-muted: #efc2bc;
+  --color-cwnmain-muted: #ffd0ca;
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: clamp(16px, 4.3vw, 40px);
@@ -424,6 +424,7 @@ body pre[class*=language-] {
   cursor: pointer;
   position: fixed;
   font-family: var(--font-headline);
+  font-size: calc(var(--fontsize-body) * 0.66);
   top: 10px;
   right: 10px;
   z-index: 100;
@@ -506,6 +507,10 @@ article.cookmode .post-section-recipe .post-body-instructions p.done:after, arti
 article.cookmode .post-section-recipe .post-body-instructions p.done, article.cookmode .post-section-recipe .post-body-ingredients li.done {
   opacity: 0.5;
   text-decoration: line-through;
+}
+article.cookmode .post-section-recipe {
+  max-width: calc(2800px - 2 * var(--space-outer));
+  margin: 0 auto;
 }
 
 .site-footer {
