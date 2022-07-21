@@ -29,7 +29,7 @@ ingredients: "## Easy dill cucumber pickles
 
   *   1 TBSP x sea salt"
 instructions: ""
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0039-1-e1508666166856.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0039-1-e1508666166856.jpg"
 ---
 
 To get my gut bacteria on track, I’ve been trying to include at least a tablespoon of good fermented foods (alongside my prescribed probiotics) into my daily diet. Kimchi, coconut yoghurt, sauerkraut and pickles are my go-tos. The easiest to make are most definitely the pickles (I based mine on Paul Pitchford’s recipe from _Healing with Whole Foods_), and you can use the same approach for tonnes of different veges: carrots, cauliflower, beetroot, green beans, radishes . . . Experiment and see what you like. While you can adapt them to suit the flavour of the vegetables, the spices are key here in fighting of fungi during the fermentation process.

@@ -27,7 +27,7 @@ ingredients: "## Quick gluten-free muesli
 
   * low-FODMAP followers can choose walnuts, macadamias, pecans, brazil nuts, or a max of 10 x almonds ** if using sunflower seeds, limit the amount to 2 x teaspoons instead for low-FODMAP"
 instructions: "Combine all the ingredients and mix well. Serve as desired."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0233-2_sml.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0233-2_sml.jpg"
 ---
 
 I practise yoga almost every morning, meaning I'm pretty ravenous when I get home for breakfast. I'll often soak some oats the night before for bircher, but when I need to change things up – or if I’ve forgotten to prepare things in advance – I sometimes throw together this quick muesli. To do so, I make sure I always have the dry ingredients in my pantry and some kind of milk or yoghurt (low-FODMAP if necessary) on hand. A serving of fruit is great, too (cooked is easier to digest). The muesli also makes a great topping for any of my smoothie bowl recipes.

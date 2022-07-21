@@ -36,7 +36,7 @@ ingredients: "## Banana and parsnip smoothie
 
   *   Toppings (optional): toasted coconut, cacao nibs, crushed peanuts"
 instructions: "Add smoothie ingredients to a blender (or use a stick blender). Blend until smooth, adding extra milk or water if necessary to achieve desired consistency."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0211-3_2.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0211-3_2.jpg"
 ---
 
 I've mentioned my smoothie move before: starting off with a veggie instead of packing it full of fruit. The parsnip-banana combo is a wee trick I learned from reading [Sarah Wilson](http://www.sarahwilson.com/)'s [_Simplicious_](http://store.iquitsugar.com/simplicious-print/?utm_source=sw-website&utm_medium=content-text&utm_content=SWsite-books-simplicious&utm_campaign=SW) (she drastically reduces the sugar content of banana bread by bulking her recipe up with parsnips), and it's a doozy. It turns out parsnips were often used to replace bananas in baked goods during World War Two, when the tropical yellow fruit was scarce. And when I read that titbit, I actually wondered why I hadn't thought of it before. There _is_ something slightly bananaey about the humble parsnip, and when you combine it with banana-friendly flavours as I do here (think cinnamon, peanut butter, coconut, cacao nibs), then I promise you won’t know there’s a veggie in there at all.

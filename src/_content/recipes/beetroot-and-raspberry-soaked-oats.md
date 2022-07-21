@@ -35,7 +35,7 @@ instructions: "Add your pre-soaked oats to a blender (or use a staff mixer) with
 
 
   Pour the mixture into a bowl and top with the raspberries, coconut and cacao nibs before serving."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0257-3.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0257-3.jpg"
 ---
 
 It's getting wintry. There's more mood lighting in my food photography and more of a reason to eat vibrant feel-good food. I’ve mentioned before that I like to always include a vegetable in my breakfast. This recipe sneaks one into soaked oats, and the beetroot-raspberry combo is a winner.

@@ -42,7 +42,7 @@ instructions: "Combine all ingredients except the cacao nibs in a blender and pu
 
 
   ** if not on a low-FODMAP diet, feel free to increase this amount. You’ll get a creamier result."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0223-5.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0223-5.jpg"
 ---
 
 I’ve probably talked about my love of peppermint choc chip ice cream on this blog before, but obviously making a diet-friendly version takes time. This little gem, however, is a breeze to blend up. It’s not quite the same as the real deal, but it’s still damn good.

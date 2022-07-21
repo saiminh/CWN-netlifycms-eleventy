@@ -10,7 +10,7 @@ tags:
   - gut-health
 ingredients: ""
 instructions: ""
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/tunnel.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/tunnel.jpg"
 ---
 
 This has been a hard post for me to write – for many reasons – which is why it’s taken me so long to do so. Back in January, I wrote a [post](http://cookingwithnothing.com/post/137013195686/a-note-to-the-low-fodmap-folk) that exclaimed ‘hurrah!’ at the fact that my symptoms had started to settle down. That was true – they had. But then a trip to the motherland – and the long-haul flight from Amsterdam to New Zealand that accompanied it – flicked the switch back to shit from the start of February. Perhaps it was the drastic change of seasons – from the bitter cold of winter to a tropical summer – or perhaps it would have happened without the change of scenery. Who knows? But once things were down, they stayed down.

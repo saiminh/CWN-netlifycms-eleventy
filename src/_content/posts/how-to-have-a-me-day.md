@@ -12,7 +12,7 @@ tags:
   - yoga
 ingredients: ""
 instructions: ""
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0339.jpeg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0339.jpeg"
 ---
 
 After a challenging year, I headed towards the end of 2021 feeling like I needed a break. I took a few weeks off work but, with the travel situation so up in the air, I (ironically) couldn’t get up in the air to go anywhere. And maybe I didn’t really want to, either. Travel can be exhausting, especially for a vata-dominant person like me, so the idea of a staycation sounded incredibly appealing.

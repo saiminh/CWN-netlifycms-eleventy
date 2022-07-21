@@ -61,7 +61,7 @@ instructions: "Combine everything but the flour and baking powder in a large bow
 
 
   Heat a little coconut oil in a frying pan over a medium heat. Add heaped tablespoons of the batter to the pan (starting with just one if you’re not sure of the consistency, and adding more water or more flour to adjust if necessary). Press the batter down to spread it out a bit. You want the fritters quite thin so the flour cooks through. Cook for 3-4 minutes on each side, until brown and cooked through."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0283-1-sml.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0283-1-sml.jpg"
 ---
 
 I first encountered teff flour when I first encountered all the deliciousness that is Ethiopian cuisine. It’s used to make _injera_, a fermented flatbread that forms the base – and the plate-to-mouth delivery device – for a range of curry concoctions. Teff is naturally gluten-free, although I’ve heard some of the Ethiopian joints in Amsterdam, where I live, bulk up their _injera_ with cheaper wheat flour. (Side note: go to [Fenan Klein Afrika](https://www.facebook.com/FenanKleinAfrika/) for the best Ethiopian in Amsterdam.)

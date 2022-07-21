@@ -31,7 +31,7 @@ instructions: "If you have a small enough saucepan (I use the tall narrow one th
 
 
   Remove from the heat and leave to cool before serving. Store in the fridge for up to a week."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0274-1.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0274-1.jpg"
 ---
 
 No, I’m not American, but this morning I had a craving for a peanut butter and jelly sandwich. Sugary jam isn’t exactly good for your gut, though. In fact, it’s not great for much except an imminent sugar crash.

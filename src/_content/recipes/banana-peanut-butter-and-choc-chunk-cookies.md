@@ -63,7 +63,7 @@ instructions: "Preheat oven to 180C/160C fan. Grease a baking tray with a little
 
 
   Bake for 15-20 minutes, or until the bases of the cookies are golden brown. Some of the chocolate may have run, but don’t worry. Feel free to scrape it up and eat it once it’s cooled down. Let the cookies rest on a wire rack before eating – they’ll firm up as they cool."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0279-1-sml.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0279-1-sml.jpg"
 ---
 
 Sweet treats without the sugar rush, these gluten- and dairy-free cookies get their small amount of added sugar from the dark chocolate. If you want to drop it altogether, feel free to replace the chocolate chunks with roughly chopped nuts.

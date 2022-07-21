@@ -48,7 +48,7 @@ instructions: "Drain the pre-soaked nuts in a sieve and rinse until the water ru
 
 
   Serve immediately with dairy-free yoghurt, extra nuts and a sprinkling of cinnamon if desired."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/2015-12-23-14.45.52-2-e1508666451222.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/2015-12-23-14.45.52-2-e1508666451222.jpg"
 ---
 
 Here’s a warm and wintry spiced porridge made with nuts rather than oats. It’s filling, nutritious and delicious. This version uses apples, which are rich in prebiotics (these stimulate the growth of healthy microflora that populate your large intestine). You could easily swap them for sweet potato, carrot or pumpkin puree though. Banana is also an option, although I’m steering clear of them for the winter in a bid to [eat with the seasons](http://cookingwithnothing.com/post/133342667601/the-real-reason-im-eating-with-the-seasons).

@@ -12,7 +12,7 @@ tags:
   - treat
 ingredients: ""
 instructions: ""
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/rainbow-buttercream-frosting-3713892-scaled-e1586315366768.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/rainbow-buttercream-frosting-3713892-scaled-e1586315366768.jpg"
 ---
 
 We all need to treat ourselves sometimes, and in times of crisis it feels natural to reach for some sweet comfort. Although there’s a whole raft of people proclaiming this period of COVID-19-induced isolation has left them with too much time on their hands, there’s clearly another group facing the opposite scenario. Those are the ones you won’t hear from as often: who has time for social media when your kids are unexpectedly at home 24/7? I may not be a parent myself, but I’m currently in lockdown with my brother, his wife and their two kids. So this one’s for the people out there who haven’t decided to take up making pastry from scratch in these unprecedented times, those who just want something short and sweet that hits the spot. Here are some of my go-tos (and yes, I’m a chocolate fiend):

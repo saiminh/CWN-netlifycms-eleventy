@@ -61,7 +61,7 @@ instructions: "Use one part seed/grain/legume to at least three parts water. Soa
 
 
   If using alfalfa or radish seeds, remove any hulls that slide off during the sprouting process as they're prone to moulding. To do so, place the sprouts in a large bowl of water and give them a shake. Gently reach under the sprouts and lift them out of the water carefully without disturbing the sunken hulls, which can then be discarded."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0252-3.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0252-3.jpg"
 ---
 
 Sprouts are activated and alive. As Paul Pitchford notes in _Healing with Whole Foods_, 'sprouts represent the point of greatest vitality in the life cycle of a plant. One clearly experiences this vitality when eating sprouts consistently.' The sprouting process 'predigests the nutrients . . . making \[them\] easier to assimilate and metabolize'. In a nutshell: they're easier to digest than their pre-sprouted counterparts and, depending on how long you let them sprout for, are also a great way to get some extra greens in your diet during the winter months.

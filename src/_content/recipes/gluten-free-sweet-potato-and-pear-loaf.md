@@ -62,7 +62,7 @@ instructions: "Preheat oven to 220°C (200°C fan bake) and lightly grease and l
 
 
   Cook for 45 minutes, or until a skewer pricked into the centre of the loaf comes out clean. Allow to cool completely in the loaf tin before slicing. Serve as is, or warmed and buttered. Instead of slicing you can also spoon it into bowls and serve with a dollop of yoghurt over the top."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0250-3.jpg"
+sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0250-3.jpg"
 ---
 
 Things are swiftly turning autumnal in Amsterdam. As the seasons change, so too do my breakfasts. Smoothies and soaked oats shift to hearty porridges and dishes laced with warming spices: cinnamon, nutmeg, ginger and the like.
