@@ -11,11 +11,24 @@ layout: _layouts/default
   
   {% for post in pagination.items %}
   
-    {% if loop.index === 4 %}
-      <h2 class="more-posts-header">More posts</h2>
-    {% endif %}
-  
-    {% postCard post %}
+  {% if loop.index === 1 %}
+    {% set sizes = "(min-width: 768px) 45vw, 100vw" %}
+    {% set loading = "eager" %}
+  {% elif loop.index === 2 %}
+    {% set sizes = "(min-width: 768px) 23vw, 100vw" %}
+    {% set loading = "eager" %}
+  {% elif loop.index === 5 %}
+    {% set sizes = "(min-width: 768px) 28vw, 100vw" %}
+    {% set loading = "lazy" %}
+  {% else %}
+    {% set sizes = "(min-width: 768px) 23vw, 100vw" %}
+    {% set loading = "lazy" %}
+  {% endif %}
+
+  {% if loop.index === 4 %}
+    <h2 class="more-posts-header">More recipes</h2>
+  {% endif %}
+  {% postCard post, sizes, loading %}
   
   {% endfor %}
 
