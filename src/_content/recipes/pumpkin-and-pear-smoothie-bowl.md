@@ -65,7 +65,7 @@ ingredients: "## Pumpkin and pear smoothie bowl
 
   Combine spices in a sealable jar. Close the lid and shake to mix. Use what you need and store the rest. You can also increase the amounts to make a bigger batch in one go."
 instructions: "Add smoothie ingredients to a blender (or use a stick blender). Blend until smooth but thick, adding a small amount of water to achieve desired consistency. Sprinkle over any toppings and serve."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0148-2-e1508666106795.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0148-2-e1508666106795.jpg"
 ---
 
 My smoothies always start with a vegetable – but they never taste like that’s the case. That’s why I’m creating a recipe series called [#Sneaky Veggie Smoothies](https://cookingwithnothing.com/tag/sneaky-veggie-smoothie/). This way I make sure my breakfast (or snack) always contains a vegetable, and that I don’t OD on fruit sugars in one fell swoop. I also use cooked vegetables in mine (they’re easier on a weak digestive system), particularly during the colder winter months. My insides immediately freeze when I see someone toting around a green smoothie – which is often filled with summery raw ingredients – in colder periods. As my doc says, ‘there is such a thing as trying to be _too_ healthy.’

@@ -58,7 +58,7 @@ ingredients: "## Beetroot and parsnip soup
 
   *   1 TBSP sesame seeds"
 instructions: ""
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/2016-01-06-15.15.51-1_edit-copy-e1508666339140.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/2016-01-06-15.15.51-1_edit-copy-e1508666339140.jpg"
 ---
 
 Beetroot have made a regular appearance in my seasonal vege bag over the past few weeks. Here’s an earthy, warming soup that pairs them with another seasonal star: parsnip.

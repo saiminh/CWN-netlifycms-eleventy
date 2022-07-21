@@ -75,7 +75,7 @@ instructions: "Pre-heat the oven to 200°C.
 
 
   Remove from the oven and allow to cool for a few minutes before cutting into wedges. Serve accompanied with a crisp salad or a side of low-FODMAP vegetables if you prefer."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0268-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0268-3.jpg"
 ---
 
 Back in 2012, I featured a recipe for low-FODMAP vegetarian lasagne, adapted from [this](http://veggienumnum.com/2011/07/15/pumpkin-spinach-lasagna/) recipe from one of my [favourite food blogs](http://veggienumnum.com/). When I transitioned from a Tumblr blog to this new redesign I couldn't automatically bring all the content with me (reminder: it can still be found [here](http://cookingwithnothing.tumblr.com/), though).

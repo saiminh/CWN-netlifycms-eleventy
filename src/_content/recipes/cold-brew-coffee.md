@@ -24,7 +24,7 @@ instructions: "_Makes around 500 ml of concentrated coffee._
 
 
   Store the mixture in the fridge. It will keep for around 2 weeks."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0214-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0214-3.jpg"
 ---
 
 I’ve just returned from a trip to the West Coast of the States. Initially I was pretty nervous about travelling with my stomach issues and food intolerances. After discussing things with my doctor, he said as long as I steered clear of sugar and dairy while on the road then I shouldn’t hinder my gut-healing protocol. Yes, I might feel a little more worse for wear if I eat yeast (to which I’ve tested intolerant), but I should just do what I can without stressing about it. His words were true indeed, but I was lucky enough to be travelling to a number of cities that made things extremely easy. Healthy, allergy-friendly options awaited on every corner in Seattle, Portland and San Francisco. As did cold brew coffee; it was available almost everywhere I went.

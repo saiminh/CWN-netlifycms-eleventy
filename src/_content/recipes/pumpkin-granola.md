@@ -48,7 +48,7 @@ instructions: "Preheat the oven to 200°C and line a baking tray with baking pap
 
 
   Allow to cool completely before serving, and store the rest in an airtight container. Serve with full-fat yoghurt or your favourite non-dairy alternative."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0159-2.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0159-2.jpg"
 ---
 
 It's no secret that most store-bought granolas are packed with ridonkulous amounts of sugar. As I always love to sneak a vege into my brekkie, I’ve used pumpkin as a base here – with a bit of honey for sweetness. While you’ll have to adjust your expectations away from a super crunchy crispy granola – the excess sugar helps to create that – you will get clusters of nutty nutritious goodness.

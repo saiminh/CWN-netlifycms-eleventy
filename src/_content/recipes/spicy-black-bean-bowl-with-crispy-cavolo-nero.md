@@ -108,7 +108,7 @@ instructions: "Heat oven to 180C (fan-forced) or 200C (conventional).
 
 
   Divide the rice and black beans between four bowls. Add a serving of the cooked sweet potato and cavolo nero to each, then top with a spoonful of smashed avocado. Sprinkle some sliced red onion over the top, as well as any garnishes of choice. Finish with an extra drizzle of olive oil, a good squeeze of lemon or lime juice and a touch of salt and pepper."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0263-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0263-3.jpg"
 ---
 
 Yes, I’ve been quiet for the last month. I blame (thank?) the holidays. But after managing to avoid all of the green-and-red food-posting madness, my first recipe of the year somehow still centres on those two Christmassy colours.

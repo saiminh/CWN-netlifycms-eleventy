@@ -1,5 +1,6 @@
 ---
 title: "My favourite slow-cooker oats"
+featuredImage: https://cwn-static.netlify.app/static/img/wp-images/dsc_0466.jpeg
 date: "2022-02-19"
 description: "A warm, wintry, one-pot porridge that’s waiting for you when you wake up in the morning."
 categories: 
@@ -36,9 +37,6 @@ ingredients: "## My favourite slow-cooker oats
 
 
   ## Toppings
-
-
-  s:209:\"
 
 
   *   1 tsp x [winter citrus spice blend](https://cookingwithnothing.com/winter-citrus-spice-blend/)

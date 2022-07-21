@@ -89,7 +89,7 @@ instructions: "_Serves 3-4_
 
 
   Sprinkle over fresh coriander and basil and add wedges of lime if desired. Serve with rice or noodles."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0244-2.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0244-2.jpg"
 ---
 
 Most of the prep-work for this curry is in the paste: taking a trip to your local Asian supermarket to find all the ingredients and getting everything ready to throw into a blender. But once that’s done, the rest of this recipe is a cinch. And pretty damn tasty.

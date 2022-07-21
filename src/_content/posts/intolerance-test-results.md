@@ -9,7 +9,7 @@ tags:
   - intolerances
 ingredients: ""
 instructions: ""
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/red-light.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/red-light.jpg"
 ---
 
 Many of you know I’ve dedicated 2015 to getting to the root of my digestive issues. A [low-FODMAP die](http://t.umblr.com/redirect?z=http%3A%2F%2Fshepherdworks.com.au%2Fdisease-information%2Flow-fodmap-diet&t=Y2I3NzE5Mzg5MmEzODUwNDVjODEwMGFlMTM1MzVkM2Y4MmI5ZDhmNCxENUptV2g1Nw%3D%3D&b=t%3AVOYglxJ9sBHW8BFVroDfxQ&p=http%3A%2F%2Fcookingwithnothing.com%2Fpost%2F121426407731%2Fintolerance-test-results&m=1)t wasn’t quite cutting it for me, so I set out to figure out if there was a way to overcome my issues rather than simply manage them (rather poorly sometimes, I might add).

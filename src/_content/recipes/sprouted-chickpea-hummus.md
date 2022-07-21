@@ -42,7 +42,7 @@ instructions: "Rinse the sprouts and pat dry (or cook, drain and cool, if not ea
 
 
   Sprinkle with dukkah or za'atar and drizzle with a little extra olive oil if you like. Serve with vegetable sticks (lightly steamed if you want to give your digestive system an extra helping hand), or on some good quality sourdough bread (if you're not gluten-free) or rice cakes."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0253-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0253-3.jpg"
 ---
 
 Once you've [sprouted some chickpeas](https://cookingwithnothing.com/sprouts/), you can quickly whip up this easier-to-digest hummus. As mentioned in that post, the sprouting process ‘increases the cooling attributes . . . which can weaken digestion in those with low “digestive fire”. If someone tends toward loose stools, sprouts must be eaten sparingly, or cooked before consuming. Sound like you? Then simply steam the sprouted chickpeas until tender and allow to cool before use.

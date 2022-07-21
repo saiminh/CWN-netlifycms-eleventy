@@ -11,7 +11,7 @@ tags:
   - scd
 ingredients: ""
 instructions: ""
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/sunset2.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/sunset2.jpg"
 ---
 
 I’ve now been following the SCD diet for two months, and happy to report it’s (now) going well. In _Breaking the Vicious Cycle,_ Elaine warns about the two- to three-month flare, meaning that your symptoms can come back with a vengeance for now specific reason during that time. Mine came along at five or so weeks (and lasted two weeks), and I’m finally out the other side. It was pretty horrible, and made me doubt the whole diet. It was a weird phase. Even though you know it’s ‘normal’, it’s hard to see the end game. That’s when many people give up, and don’t stick with it long enough to see it through. I’m glad I did, because now things are much more settled.

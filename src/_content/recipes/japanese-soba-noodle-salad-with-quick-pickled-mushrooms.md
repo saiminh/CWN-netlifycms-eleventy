@@ -81,7 +81,7 @@ instructions: "_Serves 2_
 
 
   Pour over 1/4 cup of the reserved mushroom liquid to start with, keeping the rest at the table if you want to add more later. If not, it'll keep in the fridge for a few days and can be used as a dressing for other Asian-style salads."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0226-2-web.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0226-2-web.jpg"
 ---
 
 I still salivate when I think of the food I ate during a trip to Japan five years ago. It opened my eyes to a world beyond sushi and _teppan-yaki._ Somewhere in a small corner of Kyoto, I had the most delicately prepared, fresh and flavourful soba noodle salad. I won't even pretend that this rendition does that dish justice, but it _is_ a delicious summery meal that's super easy to prepare and naturally gluten-free.

@@ -29,7 +29,7 @@ instructions: "Heat the milk in a saucepan over a medium heat until it reaches a
 
 
   Once the milk has cooled down, whisk in the pre-made yoghurt until well combined. Transfer to a jar and seal with the lid. Pop it in your yoghurt maker and incubate for 10-24 hours. Allow the finished yoghurt to set in the fridge for another 8 hours or so before serving."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0248-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0248-3.jpg"
 ---
 
 During a particularly challenging health period, I was knee-deep in the [SCD diet](https://cookingwithnothing.com/ibs-and-scd/). Part of the protocol involves making your own yoghurt, but there are a _lot_ of rules. It has to be lactose-free, which requires fermenting milk with a specific starter (some strains of bacteria aren’t desirable for SCD-diet followers) for 24 hours at a constant temperature (between 38 and 43°C). Many yoghurt makers – including mine – will nudge above this temperature after a while, so I had to plug it into a dimmer switch and test the ferment throughout the 24-hour period. If you don't have a yoghurt maker, there are other ways . . . A slow cooker, oven with the pilot light on and even a hot-water bottle are all possible. Have a Google and find the best method for you.

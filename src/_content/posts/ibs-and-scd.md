@@ -10,7 +10,7 @@ tags:
   - scd
 ingredients: ""
 instructions: ""
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/pumpkin.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/pumpkin.jpg"
 ---
 
 After spending a few months working with a nutritional therapist and trying some different methods – including the introduction of supplements, digestive enzymes, vegetable juices and anti-inflammatory foods – we decided we needed a new approach. My gut wasn’t yet equipped to deal with this method; trying to introduce probiotics and raw juices seemed to making things worse, not better.

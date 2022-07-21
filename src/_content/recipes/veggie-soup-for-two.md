@@ -60,7 +60,7 @@ instructions: "Heat the ghee in a heavy-bottomed pot over a medium heat. Add the
 
 
   Once everything is cooked, remove the prune if it’s still whole and mash with a fork before returning to the pot. Remove the bay leaf as well, before ladling into two bowls and sprinkling some parsley over each serving if using. Finish with a squeeze of lemon juice if desired, and season with salt and pepper to taste."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0462.jpeg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0462.jpeg"
 ---
 
 One thing I’ve had to get used to with my new Ayurvedic-oriented lifestyle is avoiding eating leftovers. (The reason for this is simply that fresh is best.) Where I once cooked a big vat of soup that would last a few days, I now make only what I need for one meal. It was hit and miss at the start, but after a while I became better attuned to cooking for my natural portion size.

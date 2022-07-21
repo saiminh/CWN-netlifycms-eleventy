@@ -13,7 +13,7 @@ tags:
   - restorative-yoga
 ingredients: ""
 instructions: ""
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0186-2.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0186-2.jpg"
 ---
 
 > **_“I know you can do more, but can you do less?”_**

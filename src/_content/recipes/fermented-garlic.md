@@ -26,7 +26,7 @@ instructions: "To peel the garlic cloves, crush the whole head gently with the p
 
 
   *A little tip I picked up from Sarah Wilson's _Simplicious. ‘_Cuts will cause it to ferment unevelenly and make the clove turn blue . . . nothing to be worried about; it’s merely an amino acid reacting with the acid . . . Just not pretty.’"
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0247-2-3.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0247-2-3.jpg"
 ---
 
 I know quite a few folk who love the taste of garlic but get a nasty guts ache after eating it – particularly when raw. Once again, it’s fermentation to the rescue. The process makes it _much_ easier to digest, while sprinkling in a smatter of probiotics for good measure. I tend to use this mainly in recipes calling for raw garlic, such as pesto, hummus and raita. Since the cloves are peeled pre-fermentation, it’s just a matter of popping one in the crusher when needed. Feel free to double the recipe to have a bigger supply on hand.

@@ -66,7 +66,7 @@ instructions: "Pour the cold water into a small bowl and sprinkle over the gelat
 
 
   These are best fresh, but can also be stored in the fridge in an airtight container for up to a week."
-sfeaturedImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0375-1-sml.jpg"
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0375-1-sml.jpg"
 ---
 
 Maybe it’s the winter creeping in, but I’ve been craving home baking these past few weeks – specifically the super-Kiwi stuff my mum used to whip up from the good old _Edmonds Cookery Book_. I have a copy, and the baking is (unsurprisingly) packed with sugar, so I’m on a mission to tweak a few classics to make them more gut friendly. Here’s the first: peanut brownie biscuits, which could easily become almond brownie biscuits if you prefer.
