@@ -88,6 +88,7 @@ instructions: "Fill the mason jar up with 2 litres of water and leave, unsealed,
 
 
   Re-strain to remove the fruit. You can drink the flavoured kefir as is, or pour it into a swing-top bottle and leave at room temperature for an additional 24 hours or longer to make it fizzy. Just make sure you 'burp' the bottle once or twice a day, as bottles like this have been known to explode."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0230.jpg"
 ---
 
 To keep my gut nourished with good bacteria, I try to consume something fermented each day. Usually I tend towards sauerkraut, kimchi and [pickles](https://cookingwithnothing.com/easy-pickles/), all of which I make at home. I'm still working on a coconut yoghurt that's better than, or at least as good as, the stuff I can get from my local organic shop, but the same place also sells a de-li-ci-ous water kefir, which is basically like a probiotic soda. My boyfriend and I call it 'the most refreshing drink in the world'. Lemon and fig flavour, it's sour, fizzy and oh-so thirst-quenching.

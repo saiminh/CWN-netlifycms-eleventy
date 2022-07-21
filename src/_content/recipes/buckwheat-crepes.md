@@ -32,6 +32,7 @@ instructions: "Whisk eggs with milk and a pinch of salt in a large mixing bowl. 
 
 
   To cook the crepes, heat a 22-cm pan over a med-high heat. Add a tsp of coconut oil and swirl to coat the pan. Pour about 1/3 cup of batter into the pan and swirl to evenly cover the base. Cook until the edges of the crepe are crisp (about 1 minute) then flip and cook for a further 30 seconds before transferring to a plate. Keep the crepes warm in the oven while you make the rest."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0222-3.jpg"
 ---
 
 This recipe is one of those ones that afterwards you ask yourself: _why have I not made this before?!_ I’ve cooked buckwheat pancakes plenty of times, but crepes that you can stuff with savoury fillings? Nope.

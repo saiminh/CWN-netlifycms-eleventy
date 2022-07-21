@@ -10,6 +10,7 @@ tags:
   - gut-health
 ingredients: ""
 instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/road.jpg"
 ---
 
 You know that saying, ‘things get worse before they get better’? Well, I’ve heard it a lot over the years. Part of me thinks it’s true, while the pessimistic side – which, not so coincidentally, is more likely to creep in when I’m faced with a mega obstacle – thinks it’s just something people say when things aren’t going as well as you’d hoped. But in any case, the road to healing from a chronic condition can be long and arduous: mine was (and still is) much rockier than I’d anticipated.

@@ -100,6 +100,7 @@ instructions: "Preheat the oven to 220°C (200°C fan-forced).
 
 
   Taste, adding more salt or chilli if necessary, before pouring into soup bowls. Squeeze over ½ lime per serving, and top with a handful of the cauliflower croutons and some fresh coriander leaves."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0255-3.jpg"
 ---
 
 I love aloo gobi (an Indian potato-and-cauliflower dish) but always find it a bit fiddly to make. Cooking all the vegetables separately: fry, remove, repeat. I’m more of a one-pot-wonder kinda girl. What if, I thought, I could translate that tasty Indian concoction into a bowl of soup? Well, I think this comes pretty damn close. The methi (dried fenugreek leaves) and nigella seeds are really important for an authentic flavour. I found both at an Asian supermarket.

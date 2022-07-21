@@ -90,6 +90,7 @@ instructions: "Remove the leaves and the thickest part of the stalk from the cau
 
 
   Spoon the kedgeree into bowls, topping each with two egg halves and a sprinkling of the reserved cumin and coriander seeds, as well as any garnishes of choice and some extra salt and pepper, if you like."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0270-2-1.jpg"
 ---
 
 My first encounter with kedgeree was at [Nikau café](http://nikaucafe.co.nz/) in Wellington, New Zealand. A breakfast dish with smoked fish, rice and curry spices? It sounded intriguing, but I didn’t anticipate just how delicious it would be. In my house it’s not relegated to breakfast or brunch; I often knock it together as a quick dinner too. If you’re after a hypoallergenic version, check out [this page](http://cookingwithnothing.tumblr.com/post/4831955913/kedgeree-a-personal-fave) on my former blog. Recently I switched out the basmati rice for cauliflower rice to add more vegetables into the mix. The result is rather tasty, if I do say so myself.

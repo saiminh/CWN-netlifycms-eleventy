@@ -67,6 +67,7 @@ instructions: "Place a wok over a high heat and add 1 x TBSP of the coconut oil.
 
 
   *Don't throw away the white spring onion stalks! Sit them in some water on the window sill. The greens will grow back."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0273-2.jpg"
 ---
 
 As a New Zealander now living in Europe, I miss Malaysian food for both its flavour and price. Granted this was many years ago, but we used to down bowlfuls of Mee Goreng (Malaysian stir-fried noodles) for just over a fiver – no more than a few euro. But knowing what I now know about food, I can admit that those weren’t the healthiest days of my life. And even a healthier version of Mee Goreng still contains FODMAPs such as onions, which can trigger IBS symptoms for some.

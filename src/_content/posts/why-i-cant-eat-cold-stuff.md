@@ -13,6 +13,7 @@ tags:
   - womens-health
 ingredients: ""
 instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/close-up-cold-colors-1294943-1-sml.jpg"
 ---
 
 When I first moved to the Netherlands over a decade ago, I was learning Dutch via a textbook. One passage in particular, about food, stuck out. A Dutchy was telling an expat about local cuisine: ‘For lunch we eat a sandwich and for dinner we eat something warm.’ Over the years I’ve heard some rather hilarious anecdotes about this whole idea of ‘eating warm’. My boyfriend was once accosted in the office lunchroom while removing his reheated leftovers from the microwave. ‘You eat warm for lunch?’ he was asked. ‘Surely that means you don’t eat warm for dinner, too? Eating warm twice a day is very unhealthy.’

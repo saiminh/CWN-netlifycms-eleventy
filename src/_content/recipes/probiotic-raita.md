@@ -33,6 +33,7 @@ ingredients: "## Probiotic raita
 
   *   Salt and pepper, to taste"
 instructions: "Combine all ingredients in a bowl and serve."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0371-1-1-sml.jpg"
 ---
 
 Raita is perfect for dolloping over a curry or Middle Eastern dish, or using as a dip with your favourite veggie sticks.

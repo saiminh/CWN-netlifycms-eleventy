@@ -38,6 +38,7 @@ instructions: "Place the water in a small bowl or cup and slowly pour in the gel
 
 
   Pour the mixture into a glass dish (I use one that's 15 x 15 cm). Leave to cool before refrigerating. If you're adding toppings, sprinkle them over after around 30 minutes, when the mixture has stiffened slightly. It should be completely stiff in around an hour. Slice into small squares and serve."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0232.jpg"
 ---
 
 I first learned about the relationship between gut health and grass-fed gelatin while on the [SCD diet](http://www.breakingtheviciouscycle.info/). Not really for the vegetarians among us (although I know many who seem happy to munch on bags of store-bought gummy sweets), gelatin is a protein-rich substance made from bones, hides and connective tissues of animals. That's not to say store-bought gummies will heal your gut. No, sir. _Grass-fed_ is the key here.

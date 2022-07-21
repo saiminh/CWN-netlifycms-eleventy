@@ -1,19 +1,17 @@
 ---
-ingredients: ""
-instructions: ""
-title: Why I'm turning to Ayurveda
-featuredImage: https://i0.wp.com/cookingwithnothing.com/wp-content/uploads/2021/02/pexels-karolina-grabowska-4199098-1-scaled.jpeg?w=2560&ssl=1
-date: 2021-02-02
-tags:
+title: "Why I'm turning to Ayurveda"
+date: "2021-02-02"
+description: "Well, I’ve always said healing gut health is a journey. And recently I took another step on the long and winding road by starting to work with an Ayurvedic doctor."
+categories: 
+  - news
+tags: 
   - ayurveda
   - fmt
   - gut-health
   - yoga
-categories:
-  - news
-description: Well, I’ve always said healing gut health is a journey. And
-  recently I took another step on the long and winding road by starting to work
-  with an Ayurvedic doctor.
+ingredients: ""
+instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/pexels-karolina-grabowska-4199098-1-scaled.jpeg"
 ---
 
 Well, I’ve always said healing gut health is a journey. And recently I took another step on the long and winding road by starting to work with an Ayurvedic doctor. For those who don’t know what Ayurveda is, it’s a holistic healing system rooted in India. In ancient Sanskrit ‘Ayur’ means life and ‘Veda’ means knowledge – as such, it’s a practice that goes far beyond just what we eat. It’s based on the principles that health and wellbeing are the result of a balanced mind, body and spirit.

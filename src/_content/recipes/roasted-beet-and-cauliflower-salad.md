@@ -83,6 +83,7 @@ instructions: "Preheat the oven to 200C/180C fan. Leave the beetroots unpeeled. 
 
 
   Serve with any garnishes that take your fancy – pictured is a combo of raita, a sprinkling of sumac and some pomegranate seeds. Finish with an extra drizzling of olive oil, and salt and pepper to taste."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0373-2-sml.jpg"
 ---
 
 This salad is best served fresh from the oven, but will keep for a day or two as well. Feel free to rotate the roast veggies with whatever is in season. The wide feta range in the ingredient list is a response to my cheese-loving boyfriend’s remark after I used the lower end of the scale: ‘It’s great, but it could use more feta.’

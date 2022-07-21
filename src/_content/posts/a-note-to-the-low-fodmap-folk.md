@@ -11,6 +11,7 @@ tags:
   - ibs
 ingredients: ""
 instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/Note2.jpg"
 ---
 
 Warning: long post alert! This is something I’ve been wanting to write for a while but waited until my symptoms settled down enough to show me I’m on the right track. Hurrah, they have! So here’s my story . . .

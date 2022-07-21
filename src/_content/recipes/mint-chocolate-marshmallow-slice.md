@@ -66,6 +66,7 @@ instructions: "Line a 25 x 11 cm loaf tin with baking paper.
 
 
   Break the chocolate into small pieces and place in a microwave-safe bowl. Using a low setting on the microwave, warm gently until melted. Another option is to temper the chocolate in a heatproof bowl over a pot of simmering water, making sure the bowl doesn’t come into contact with the water. Pour the melted chocolate over the marshmallow layer and return the tin to the fridge for an hour. Warm a knife under running water before cutting so the chocolate doesn’t crack too much."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0150-2-e1508665935544.jpg"
 ---
 
 I’m an absolute sucker for mint chocolate. Those from down under, remember Roses? I siphoned off the green-wrapped ones as quickly as I could if a box was being passed around. My eating habits may have changed since then, but my fondness for the flavour combo has not. So why not make an option that’s a lot better for my gut? Challenge accepted.

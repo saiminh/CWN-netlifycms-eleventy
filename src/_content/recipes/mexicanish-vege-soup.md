@@ -80,6 +80,7 @@ instructions: "In a large pot, melt the coconut oil over a medium heat. Add the 
 
 
   Season with salt and pepper, then serve the soup with a dollop of yoghurt or guacamole on top, a sprinkling of fresh coriander leaves and a good squeeze of fresh lime juice."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0157_sml.jpg"
 ---
 
 I've never been to Mexico – it didn’t really sound like a good place for someone with a dodgy gut – but man do I love the flavours in Mexican food. I know what you find in Europe is more Tex-Mex, less authentic but my boyfriend, who _has_ travelled to the country in question, said this soup reminded him of what he ate there. Perhaps he’ll say otherwise once we visit together – now that my dodgy gut is becoming a thing of the past. But for now, I’ll take it as a compliment.

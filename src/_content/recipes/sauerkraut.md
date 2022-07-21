@@ -51,6 +51,7 @@ instructions: "Peel off one or two leaves from the cabbage. Rinse and set aside.
 
 
   Leave the jar on the kitchen bench for around a week, although in warmer weather you could start taste-testing from around five days as fermentation will happen faster. You're looking for the sour flavours to start outweighing the saltiness. When you find that balance, remove the cabbage leaves from the top and shift the jar to the fridge until you're ready to eat it. It will keep for several months."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0271-1.jpg"
 ---
 
 I like to joke that the reason [my boyfriend was the perfect faecal-transplant donor](https://cookingwithnothing.com/who-gives-a-shit/) was because he was born in Germany, the land of sauerkraut. I grew up in New Zealand, where the ’80s and ’90s diet, at least as far as I experienced, was basically devoid of naturally fermented foods. Add in a healthcare system that hands out antibiotics as if they were vitamin pills, and you’ve got a recipe for gut disaster.

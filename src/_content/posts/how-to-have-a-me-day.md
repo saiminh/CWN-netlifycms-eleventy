@@ -1,20 +1,18 @@
 ---
-ingredients: ""
-instructions: ""
-title: How to have a me day
-featuredImage: https://cookingwithnothing.com/wp-content/uploads/2022/01/DSC_0339.jpeg
-date: 2022-01-23
-tags:
+title: "How to have a me day"
+date: "2022-01-23"
+description: "I recently dedicated an entire Sunday to self-care. What did I need to plan in advance, what did I do on the day and what did I discover about myself in the process?"
+categories: 
+  - news
+tags: 
   - ayurveda
   - meditation
   - restorative-yoga
   - self-care
   - yoga
-categories:
-  - news
-description: I recently dedicated an entire Sunday to self-care. What did I need
-  to plan in advance, what did I do on the day and what did I discover about
-  myself in the process?
+ingredients: ""
+instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0339.jpeg"
 ---
 
 After a challenging year, I headed towards the end of 2021 feeling like I needed a break. I took a few weeks off work but, with the travel situation so up in the air, I (ironically) couldn’t get up in the air to go anywhere. And maybe I didn’t really want to, either. Travel can be exhausting, especially for a vata-dominant person like me, so the idea of a staycation sounded incredibly appealing.

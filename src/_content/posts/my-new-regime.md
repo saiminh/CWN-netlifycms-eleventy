@@ -9,6 +9,7 @@ tags:
   - gut-health
 ingredients: ""
 instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/notebook.jpg"
 ---
 
 'The low-FODMAP diet is NOT a FOREVER diet!' This was the title of a [blog post](http://t.umblr.com/redirect?z=http%3A%2F%2Fblog.katescarlata.com%2F2014%2F09%2F02%2Flow-fodmap-diet-forever-diet%2F%3Futm_source%3Drss%26utm_medium%3Drss%26utm_campaign%3Dlow-fodmap-diet-forever-diet&t=Mjk1ODRjZmQ2YjI0NDZlNTEzNWIwNzk3ZDIxNjA3NzAzNmY5ODRkMSxnTDlRMm9Sag%3D%3D&b=t%3AVOYglxJ9sBHW8BFVroDfxQ&p=http%3A%2F%2Fcookingwithnothing.com%2Fpost%2F101416119026%2Fmy-new-regime&m=1) that turned up in my inbox from [Kate Scarlata](http://t.umblr.com/redirect?z=http%3A%2F%2Fblog.katescarlata.com%2F&t=Mzk1OGM3YTIxZDc5MTJkMGZjNTNiNDUyM2FjZGQyZWRiODE2ODJjNCxnTDlRMm9Sag%3D%3D&b=t%3AVOYglxJ9sBHW8BFVroDfxQ&p=http%3A%2F%2Fcookingwithnothing.com%2Fpost%2F101416119026%2Fmy-new-regime&m=1), an IBS and FODMAP expert. Until that point, I hadn’t really considered how long I’d been on the diet – a few years, eek! – and had kinda accepted the fact that it was part of my daily life.

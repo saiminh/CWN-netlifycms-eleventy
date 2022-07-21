@@ -55,6 +55,7 @@ instructions: "Bring a saucepan of water to the boil. Once boiling, add the pota
 
 
   Add all remaining ingredients to the bowl and top with the egg and some fresh dill if desired."
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0160-FINAL.jpg"
 ---
 
 Niçoise salad is one of my go-tos. It's quick, tasty and – apologies to the French – can easily be adapted to what’s in season. I may be stretching it a bit I know, but I feel as long as there’s some olives, eggs, greens, potatoes and a sour, oily dressing, it feels niçoisey enough for me.

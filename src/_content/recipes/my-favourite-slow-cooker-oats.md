@@ -1,9 +1,22 @@
 ---
-title: My favourite slow-cooker oats
-featuredImage: https://cookingwithnothing.com/wp-content/uploads/2022/02/DSC_0466.jpeg
-date: 2022-02-19
-ingredients: >-
-  ## My favourite slow-cooker oats
+title: "My favourite slow-cooker oats"
+date: "2022-02-19"
+description: "A warm, wintry, one-pot porridge that’s waiting for you when you wake up in the morning."
+categories: 
+  - cooking
+tags: 
+  - almond
+  - apple
+  - breakfast
+  - cinnamon
+  - oats
+  - porridge
+  - raisins
+  - slow-cooker
+  - vegan
+  - vegetarian
+  - winter
+ingredients: "## My favourite slow-cooker oats
 
 
   _Serves one_
@@ -25,19 +38,15 @@ ingredients: >-
   ## Toppings
 
 
-  s:209:"
+  s:209:\"
 
 
   *   1 tsp x [winter citrus spice blend](https://cookingwithnothing.com/winter-citrus-spice-blend/)
 
   *   1 TBSP x almond butter
 
-  *   Drizzle of maple syrup, optional
-instructions: >-
-  **Note: This preparation is for a single serving, using a medium-sized slow
-  cooker with an additional oven-proof dish insert (capacity 600 ml) that leaves
-  a few centimetres of space between both dishes. See note in introduction for
-  explanation, and for other serving sizes and dish dimensions.**
+  *   Drizzle of maple syrup, optional"
+instructions: "**Note: This preparation is for a single serving, using a medium-sized slow cooker with an additional oven-proof dish insert (capacity 600 ml) that leaves a few centimetres of space between both dishes. See note in introduction for explanation, and for other serving sizes and dish dimensions.**
 
 
   Combine the oat groats, almond milk, water, ghee, raisins and salt in the smaller oven-proof insert.
@@ -46,23 +55,7 @@ instructions: >-
   Quarter the apple and remove the core. Place the smaller oven-proof dish inside the standard slow-cooker insert. Slip the apple quarters in the gap between the dishes. Set the slow cooker to low and leave overnight.
 
 
-  In the morning, remove the smaller insert and stir the oats, adding more almond milk or water if necessary to reach your desired consistency. Scoop out the apples and spoon them on top. Sprinkle over the spice blend and finish with almond butter and maple syrup, if you like.
-tags:
-  - almond
-  - apple
-  - breakfast
-  - cinnamon
-  - oats
-  - porridge
-  - raisins
-  - slow-cooker
-  - vegan
-  - vegetarian
-  - winter
-categories:
-  - cooking
-description: A warm, wintry, one-pot porridge that’s waiting for you when you
-  wake up in the morning.
+  In the morning, remove the smaller insert and stir the oats, adding more almond milk or water if necessary to reach your desired consistency. Scoop out the apples and spoon them on top. Sprinkle over the spice blend and finish with almond butter and maple syrup, if you like."
 ---
 
 There’s something extremely satisfying about having a warm breakfast ready and waiting for you when you wake up. On days when I have to go into the office, using the slow cooker the night before to make the next day’s breakfast (or lunch, which I pop into a thermos to take along) is also a great way to save a bit of food prep time.

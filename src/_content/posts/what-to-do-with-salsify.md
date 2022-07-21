@@ -9,6 +9,7 @@ tags:
   - seasonal-food
 ingredients: ""
 instructions: ""
+featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0220-3.jpg"
 ---
 
 The best thing about getting a seasonal vege bag is that I’m dealt out things I’d probably never look at in the grocery store – often because I have no freakin’ clue what they are, let alone what to do with them. One such vegetable was salsify. It’s that thing that looks like a dirty stick. I know, not super appealing from that apt description. But when it turned up in my vege bag, my reaction was one of intrigue rather than aversion.
