@@ -3,8 +3,6 @@
 @use '_components/image.scss';
 @use '_components/post-preview-desktop.scss';
 @use '_components/tags-desktop.scss';
-@use '_components/cookmode-desktop.scss';
-@use '_components/footer-desktop.scss';
 @use '_components/tooltip.scss';
-@use '_components/pagination.scss';
+@use 'style-desktop-deferred.scss';
 @use 'post-desktop.scss';
