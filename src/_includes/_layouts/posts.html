@@ -44,7 +44,7 @@ description: "{{ description }}"
     </div>
     <div class="post-head-image">
       {% if featuredImage %}
-        {% image featuredImage, title, "(min-width: 768px) 60vw, 100vw" %}
+        {% image featuredImage, title, "(min-width: 768px) 60vw, 100vw", "eager" %}
       {% endif %}
     </div>
     <div class="post-body-intro">  

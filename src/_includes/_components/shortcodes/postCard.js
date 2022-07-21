@@ -9,11 +9,11 @@ function readableDate(dateObj) {
   );
 };
 
-module.exports = async function(post, sizes = "(max-width: 300px) 100vw, 100w") {
+module.exports = async function(post, sizes = "(max-width: 300px) 100vw, 100w", loading = "lazy") {
   
   let image = '';
   if (post.data.featuredImage) {
-    image = await imageShortcode(post.data.featuredImage, post.data.title, sizes);
+    image = await imageShortcode(post.data.featuredImage, post.data.title, sizes, loading);
   } 
 
   return `

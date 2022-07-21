@@ -1,7 +1,7 @@
 const Image = require("@11ty/eleventy-img");
 
 // Async Image Shortcode function
-module.exports = async function(src, alt, sizes) {
+module.exports = async function(src, alt, sizes, loading = "lazy") {
   let metadata = await Image(src, {
     widths: [300, 600, 900, 1200, 1500],
     formats: ["avif", "jpeg"],
@@ -12,7 +12,7 @@ module.exports = async function(src, alt, sizes) {
   let imageAttributes = {
     alt,
     sizes,
-    loading: "lazy",
+    loading: loading,
     decoding: "async",
   };
 
