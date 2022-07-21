@@ -28,14 +28,12 @@
     </main>
     {% include "src/_includes/_components/partials/footer.html" %}
     <div class="tooltip hide-on-mobile">Tooltip message!</div>
-    <script src="/static/js/alpine.js"></script>
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->
       <!-- Needed only if you are using Netlify Identity feature -->
       <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% endif %}
-    <script src="https://unpkg.com/@barba/core"></script>
     <script type="text/javascript" src="/static/js/main.js"></script>
   </body>
 </html>
