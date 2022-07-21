@@ -1,14 +1,22 @@
 {
   "scripts": {
-    "watch:sass": "sass --watch src/css/style.scss:src/static/css/style.css & sass --watch src/css/style-desktop.scss:src/static/css/style-desktop.css & sass --watch src/css/style-CMS.scss:src/static/css/style-CMS.css",
+    "watch:sass:mobile": "sass --style compressed --watch src/css/style.scss:src/static/css/style.css",
+    "watch:sass:mobiledefer": "sass --style compressed --watch src/css/style-deferred.scss:src/static/css/style-deferred.css",
+    "watch:sass:desktop": "sass --style compressed --watch src/css/style-desktop.scss:src/static/css/style-desktop.css",
+    "watch:sass:desktopdefer": "sass --style compressed --watch src/css/style-desktop-deferred.scss:src/static/css/style-desktop-deferred.css",
+    "watch:sass:cms": "sass --style compressed --watch src/css/style-CMS.scss:src/static/css/style-CMS.css",
     "watch:js": "webpack",
     "watch:eleventy": "eleventy --serve",
-    "build:sass": "sass --no-source-map src/css/style.scss:src/static/css/style.css & sass --no-source-map src/css/style-desktop.scss:src/static/css/style-desktop.css & sass --no-source-map src/css/style-CMS.scss:src/static/css/style-CMS.css",
+    "build:sass:mobile": "sass --no-source-map --style compressed src/css/style.scss:src/static/css/style.css",
+    "build:sass:mobiledefer": "sass --no-source-map --style compressed src/css/style-deferred.scss:src/static/css/style-deferred.css",
+    "build:sass:desktop": "sass --no-source-map --style compressed src/css/style-desktop.scss:src/static/css/style-desktop.css",
+    "build:sass:desktopdefer": "sass --no-source-map --style compressed src/css/style-desktop-deferred.scss:src/static/css/style-desktop-deferred.css",
+    "build:sass:cms": "sass --no-source-map --style compressed src/css/style-CMS.scss:src/static/css/style-CMS.css",
     "build:js": "webpack",
     "build:eleventy": "eleventy",
     "postbuild": "postcss src/static/css/*.css -u autoprefixer cssnano -r",
-    "start": "npm-run-all build:sass build:js --parallel watch:*",
-    "build": "npm-run-all build:sass build:js postbuild build:eleventy",
+    "start": "npm-run-all build:sass:* build:js --parallel watch:*",
+    "build": "npm-run-all build:sass:* build:js postbuild build:eleventy",
     "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
   },
   "devDependencies": {

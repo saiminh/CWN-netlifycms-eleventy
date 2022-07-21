@@ -2,6 +2,7 @@
   position: fixed;
   top: 0;
   left:0;
+  max-width: 400px;
   z-index: 100;
   background-color: var(--color-cwnbg);
   color: var(--color-cwnmain);
@@ -12,12 +13,13 @@
   padding: 1em;
   opacity: 0;
   visibility: hidden;
-  max-width: 400px;
 }
 .tooltip.tooltip--left {
   border-radius: 6px 0 6px 6px;
 }
-.tooltip.tooltip--visible {
-  opacity: 1;
-  visibility: visible;
+@media (hover: hover) {
+  .tooltip.tooltip--visible {
+    opacity: 1;
+    visibility: visible;
+  }
 }
