@@ -46,12 +46,25 @@
 .post-preview-text-content-excerpt {
   margin: 0.7rem 0;
 }
-.more-posts-header,
-.archive-header {
+.more-posts-header {
   font-family: var(--font-body);
   font-weight: 300;
   font-size: var(--fontsize-h3);
   padding: var(--space-outer);
+  margin: 0;
+}
+.archive-header {
+  padding: var(--space-outer);
+  display: flex;
+  gap: var(--space-outer);
+  & .tags {
+    margin: 0;
+  }
+}
+.archive-header-title {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: var(--fontsize-h3);
   margin: 0;
 }
 .archive-header-amount {

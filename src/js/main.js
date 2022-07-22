@@ -45,7 +45,6 @@ document.body.addEventListener('mousemove', function(e) {
 function initTooltip() {
   const tipelements = document.querySelectorAll('[data-tooltip]');
   const tipelementsArray = Array.from(tipelements);
-  console.log(tipelementsArray);
   tipelementsArray.map(element => {
     let tiptext = element.getAttribute('data-tooltip');
     element.addEventListener('mouseover', function() {

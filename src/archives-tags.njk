@@ -8,7 +8,9 @@ permalink: /tags/{{ tag }}/
 ---
 {% set taglist = collections[ tag ] %}
 
-<h1 class="archive-header">All things “{{ tag }}” <span class="archive-header-amount">({{ taglist.length }} posts)</span></h1>
+<header class="archive-header">
+  <h1 class="archive-header-title">All things “{{ tag }}” <span class="archive-header-amount">({{ taglist.length }})</span></h1>
+</header>
 
 <section class="feed feed--tag">
 {% for post in taglist | reverse %}

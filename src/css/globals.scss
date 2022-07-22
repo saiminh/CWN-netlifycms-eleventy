@@ -1,5 +1,21 @@
 @use './_utils/mixins.scss' as mixins;
 
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 1 900;
+  font-display: swap;
+  src: url('/static/fonts/Inter-VariableFont_slnt,wght-subset.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/static/fonts/SpaceGrotesk-Bold-subset.woff2') format('woff2');
+}
+
 :root {
   --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;

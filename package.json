@@ -1,11 +1,11 @@
 {
   "scripts": {
-    "watch:sass:mobile": "sass --style compressed --watch src/css/style.scss:src/static/css/style.css",
-    "watch:sass:mobiledefer": "sass --style compressed --watch src/css/style-deferred.scss:src/static/css/style-deferred.css",
-    "watch:sass:desktop": "sass --style compressed --watch src/css/style-desktop.scss:src/static/css/style-desktop.css",
-    "watch:sass:desktopdefer": "sass --style compressed --watch src/css/style-desktop-deferred.scss:src/static/css/style-desktop-deferred.css",
-    "watch:sass:cms": "sass --style compressed --watch src/css/style-CMS.scss:src/static/css/style-CMS.css",
-    "watch:js": "webpack",
+    "watch:sass:mobile": "sass --watch src/css/style.scss:src/static/css/style.css",
+    "watch:sass:mobiledefer": "sass --watch src/css/style-deferred.scss:src/static/css/style-deferred.css",
+    "watch:sass:desktop": "sass --watch src/css/style-desktop.scss:src/static/css/style-desktop.css",
+    "watch:sass:desktopdefer": "sass --watch src/css/style-desktop-deferred.scss:src/static/css/style-desktop-deferred.css",
+    "watch:sass:cms": "sass --watch src/css/style-CMS.scss:src/static/css/style-CMS.css",
+    "watch:js": "webpack --watch",
     "watch:eleventy": "eleventy --serve",
     "build:sass:mobile": "sass --no-source-map --style compressed src/css/style.scss:src/static/css/style.css",
     "build:sass:mobiledefer": "sass --no-source-map --style compressed src/css/style-deferred.scss:src/static/css/style-deferred.css",
@@ -15,7 +15,7 @@
     "build:js": "webpack",
     "build:eleventy": "eleventy",
     "postbuild": "postcss src/static/css/*.css -u autoprefixer cssnano -r",
-    "start": "npm-run-all build:sass:* build:js --parallel watch:*",
+    "start": "npm-run-all build:sass:* build:js --parallel watch:sass:* watch:js watch:eleventy",
     "build": "npm-run-all build:sass:* build:js postbuild build:eleventy",
     "browsersync": "browser-sync start --server _site --files _site --port 8080 --no-notify --no-open"
   },

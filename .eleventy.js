@@ -57,6 +57,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/css/style-desktop.css");
   eleventyConfig.addPassthroughCopy("./src/static/css/style-desktop-deferred.css");
   eleventyConfig.addPassthroughCopy("./src/static/css/style-CMS.css");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/Inter-VariableFont_slnt,wght-subset.ttf");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/Inter-VariableFont_slnt,wght-subset.woff2");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/Inter-VariableFont_slnt,wght-subset.zopfli.woff");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/SpaceGrotesk-Bold-subset.ttf");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/SpaceGrotesk-Bold-subset.woff2");
+  eleventyConfig.addPassthroughCopy("./src/static/fonts/SpaceGrotesk-Bold-subset.zopfli.woff");
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/static/js/main.js");
 

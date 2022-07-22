@@ -45,7 +45,7 @@
     }
   }
   & a.active {
-    font-weight: 600;
+    font-weight: 700;
     z-index: 98;
   }
 }
@@ -56,7 +56,7 @@
   color: var(--color-cwnbg);
   padding: .5em .75em;
   float: right;
-  font-family: var(--font-headline);
+  font-family: var(--font-body);
   position: sticky;
   top: var(--space-outer);
   z-index: 100;
