@@ -60,12 +60,11 @@
 }
 
 .navigation-menu-list-item-link {
-  // text-ml inline-block no-underline hover:text-sky-500 py-2 px-4
-  text-align: center;
   display: block;
   text-decoration: none;
   font-family: var(--font-body);
   font-size: 2rem;
-  padding: 1em 0;
+  padding: .75em 0;
   color: var(--color-cwnmain);
+  border-bottom: 1px solid rgba(255,255,255,0.5);
 }

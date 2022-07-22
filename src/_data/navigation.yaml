@@ -5,3 +5,6 @@ items:
   - text: Recipes
     url: /category/cooking
     tooltip: Show only recipes
+  - text: About me
+    url: /about-me
+    tooltip: Learn more about Tracey Ingram

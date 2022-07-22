@@ -1,5 +1,5 @@
 ---
-title: Palak Paneers
+title: Palak Paneer
 featuredImage: https://cwn-static.netlify.app/static/img/wp-images/dsc_0468.jpeg
 date: 2022-06-04
 ingredients: |-
