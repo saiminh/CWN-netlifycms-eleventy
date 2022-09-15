@@ -114,3 +114,15 @@ body pre[class*="language-"] {
     display: none!important;
   }
 }
+
+.post-preview-img, .post-head-image {
+  background-color: var(--color-cwnmain-muted);
+}
+img {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+img.fade-in {
+  opacity: 1;
+}

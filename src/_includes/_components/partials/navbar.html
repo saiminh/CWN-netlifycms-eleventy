@@ -7,6 +7,8 @@
             </a>
         </div>
 
+        {% include "src/_includes/_components/partials/search.html" %}
+
         <!--Toggle button (hidden on large screens)-->
         <button @click="isOpen = !isOpen" type="button" class="navigation-toggle" :class="{ 'transition transform-180': isOpen }" aria-label="Menu">
           <svg class="navigation-toggle-hamburger" width="37" height="38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -25,9 +27,12 @@
                             <a data-tooltip="{{ item.tooltip }}" @click="isOpen = false" class="navigation-menu-list-item-link" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
-                </ul>
-
-            {% endif %}
-        </div>
-    </nav>
-</div>
+                    <li>
+                    </li>
+                  </ul>
+                  
+                  {% endif %}
+                </div>
+               
+              </nav>
+            </div>

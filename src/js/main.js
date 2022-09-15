@@ -1,5 +1,6 @@
 import barba from '@barba/core';
-import Alpine from 'alpinejs'
+import Alpine from 'alpinejs';
+import elasticlunr from './elasticlunr.min.js';
  
 window.Alpine = Alpine 
 Alpine.start()
@@ -13,6 +14,7 @@ barba.init({
     afterEnter() {
       enableCookmodeListChecking();
       initTooltip();
+      fadeInImages();
     }
   }]
 });
@@ -56,3 +58,72 @@ function initTooltip() {
     });
   });
 }
+
+function fadeInImages() {
+  let images = document.querySelectorAll('img');
+  let imagesArray = Array.from(images);
+  imagesArray.map(image => {
+    image.onload = function() {
+      image.classList.add('fade-in');
+    }
+  });
+}
+
+// Search functionality 
+(function (window, document) {
+  const search = (e) => {
+    const results = window.searchIndex.search(e.target.value, {
+      bool: "OR",
+      expand: true,
+    });
+    
+    const resEl = document.getElementById("searchResults");
+    const noResultsEl = document.getElementById("noResultsFound");
+    
+    resEl.innerHTML = "";
+    if (results) {
+      noResultsEl.style.visibility = "hidden";
+      results.map((r) => {
+        const { id, title, description, tags } = r.doc;
+        
+        const el = document.createElement("li");
+        resEl.appendChild(el);
+
+        const h3 = document.createElement("h3");
+        el.appendChild(h3);
+
+        const a = document.createElement("a");
+        a.setAttribute("href", id);
+        a.textContent = title;
+        h3.appendChild(a);
+        
+        const p = document.createElement("a");
+        p.setAttribute("href", id);
+        p.classList.add('search-result-description');
+        p.textContent = description;
+        el.appendChild(p);
+
+        if (tags) {
+          const tagsEl = document.createElement("div");
+          tagsEl.innerHTML = `<div class="tags">` + tags.map((tag) => {
+              return `<a class="tags-tag" href="/tags/${tag}">${tag}</a>`;
+            }).join(" ") + `</div>`;
+          el.appendChild(tagsEl);
+        }
+      });
+    } else {
+      noResultsEl.style.visibility = "visible";
+    }
+    if (resEl.innerHTML === "") {
+      noResultsEl.style.visibility = "visible";
+    }
+  };
+
+  fetch("/search-index.json").then((response) =>
+    response.json().then((rawIndex) => {
+      console.log(rawIndex);
+      window.searchIndex = elasticlunr.Index.load(rawIndex);
+      document.getElementById("searchField").addEventListener("input", search);
+    })
+  );
+})(window, document);

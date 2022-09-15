@@ -4,12 +4,21 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const markdown = require("markdown-it")({ html: true });
 const addShortcodes = require("./src/_includes/_components/shortcodes.js");
-
+const searchFilter = require('./src/_filters/searchFilter.js');
 
 
 module.exports = function (eleventyConfig) {
 
   addShortcodes(eleventyConfig);
+
+  eleventyConfig.addFilter("search", searchFilter);
+  
+  eleventyConfig.addCollection("allPosts", collection => {
+    return [...collection.getFilteredByGlob("./src/_content/**/*.md")];
+  });
+  // eleventyConfig.addCollection("recipes", collection => {
+  //   return [...collection.getFilteredByGlob("./src/_content/recipes/*.md")];
+  // });
 
   // adding markdown support to njk templates
   eleventyConfig.addShortcode("markdown", function (content = '') { 

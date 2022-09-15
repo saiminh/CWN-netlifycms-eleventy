@@ -39,7 +39,9 @@
     "@11ty/eleventy-img": "^2.0.1",
     "@barba/core": "^2.9.7",
     "autoprefixer": "^10.4.2",
+    "elasticlunr": "^0.9.5",
     "postcss": "^8.4.5",
-    "sass": "^1.53.0"
+    "sass": "^1.53.0",
+    "sharp": "^0.31.0"
   }
 }
