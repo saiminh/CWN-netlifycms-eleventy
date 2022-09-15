@@ -141,5 +141,16 @@ img.fade-in {
   }
   &::-webkit-scrollbar-thumb {
     background-color: var(--color-cwnmain);
+    border-radius: 5px;
+    border: 3px solid var(--color-cwnmain-muted); 
+  }
+}
+article.cookmode .post-section-recipe .post-body-ingredients, 
+article.cookmode .post-section-recipe .post-body-instructions {
+  &::-webkit-scrollbar-track {
+    background: #FFF;
+  }
+  &::-webkit-scrollbar-thumb {
+    border: 3px solid #FFF; 
   }
 }
