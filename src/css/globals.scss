@@ -115,6 +115,7 @@ body pre[class*="language-"] {
   }
 }
 
+// Image fade in
 .post-preview-img, .post-head-image {
   background-color: var(--color-cwnmain-muted);
 }
@@ -125,4 +126,20 @@ img {
 
 img.fade-in {
   opacity: 1;
+}
+
+//Scrollbars
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-cwnmain) var(--color-cwnbg);
+  &::-webkit-scrollbar{
+    width: 10px;
+  }
+  &::-webkit-scrollbar-track {
+    background: var(--color-cwnmain-muted);
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--color-cwnmain);
+  }
 }

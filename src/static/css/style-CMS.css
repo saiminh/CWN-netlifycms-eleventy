@@ -135,6 +135,20 @@ img.fade-in {
   opacity: 1;
 }
 
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-cwnmain) var(--color-cwnbg);
+}
+*::-webkit-scrollbar {
+  width: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: var(--color-cwnmain-muted);
+}
+*::-webkit-scrollbar-thumb {
+  background-color: var(--color-cwnmain);
+}
+
 .tags-label {
   border-top: 1px solid var(--color-cwnmain);
   padding-top: 1em;
