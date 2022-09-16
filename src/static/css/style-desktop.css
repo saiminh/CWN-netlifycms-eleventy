@@ -16,6 +16,8 @@
   --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
   --color-cwnmain-muted: #ffd0ca;
+  --color-recipe: rgb(98, 132, 93);
+  --color-blog: rgb(128, 172, 211);
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: clamp(16px, 4.3vw, 40px);
@@ -223,7 +225,18 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
   font-size: var(--fontsize-body);
   color: var(--color-cwnmain);
   text-align: left;
-  padding: 0 0.5em;
+  padding: 0 0 0.25em 0;
+  margin: 2px 0.5em 0 0.5em;
+  border-bottom: 2px solid transparent;
+}
+.navigation-menu-list-item-link:hover {
+  border-bottom: 2px solid var(--color-cwnmain-muted);
+}
+
+.isAbout .about-link,
+.isBlog .blog-link,
+.isRecipes .recipes-link {
+  border-bottom: 2px solid var(--color-cwnmain);
 }
 
 .search {
@@ -254,6 +267,7 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
 .searchLabel {
   position: relative;
   top: 4px;
+  cursor: pointer;
 }
 
 #searchField {
@@ -350,7 +364,7 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
 .post-preview-text {
   padding: 0 1em 1em 1em;
 }
-.post-preview-text :last-child, .post-preview-text > :last-child > :last-child {
+.post-preview-text > :last-child, .post-preview-text > :last-child > :last-child {
   margin-bottom: 0.25em;
 }
 
@@ -366,6 +380,18 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
 .post-preview-text-meta-category {
   text-decoration: none;
   font-weight: 300;
+}
+
+.post-preview--recipe .post-preview-text-meta-category, .post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-recipe);
+  padding: 5px;
+  margin-top: 0px;
+  color: #FFF;
+  border-radius: 3px;
+}
+
+.post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-blog);
 }
 
 .post-preview-text-content {

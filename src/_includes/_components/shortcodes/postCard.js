@@ -17,7 +17,7 @@ module.exports = async function(post, sizes = "(max-width: 300px) 100vw, 100w", 
   } 
 
   return `
-    <div class="post-preview">
+    <div class="post-preview ${ (post.data.categories == 'news') ? 'post-preview--blog' : 'post-preview--recipe' }">
       <a href="${ post.url }" class="post-preview-img">
         ${ image }
       </a>

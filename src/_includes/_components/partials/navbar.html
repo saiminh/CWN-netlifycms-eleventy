@@ -24,7 +24,7 @@
                 <ul class="navigation-menu-list">
                     {% for item in navigation.items %}
                         <li class="navigation-menu-list-item">
-                            <a data-tooltip="{{ item.tooltip }}" @click="isOpen = false" class="navigation-menu-list-item-link" href="{{ item.url }}">{{ item.text }}</a>
+                            <a data-tooltip="{{ item.tooltip }}" @click="isOpen = false" class="navigation-menu-list-item-link {{ item.text | lower | replace(' ', '-') }}-link" href="{{ item.url }}">{{ item.text }}</a>
                         </li>
                     {% endfor %}
                     <li>

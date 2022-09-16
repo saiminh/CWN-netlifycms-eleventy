@@ -5,7 +5,7 @@
   @click.away="searchActive = false" 
   :class="{ 'searchActive': searchActive }"
 >
-  <label for="searchField" @click="searchActive = !searchActive" class="searchLabel">
+  <label for="searchField" @click="searchActive = !searchActive" class="searchLabel" data-tooltip="Search">
     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30" xml:space="preserve"><path d="M11.8 1c6 0 10.8 4.8 10.8 10.8s-4.8 10.8-10.8 10.8S1 17.7 1 11.8 5.8 1 11.8 1m0-1C5.3 0 0 5.3 0 11.8s5.3 11.8 11.8 11.8 11.8-5.3 11.8-11.8S18.3 0 11.8 0z" style="fill:var(--color-cwnmain)"/><path style="fill:none;stroke:var(--color-cwnmain);stroke-width:2;stroke-linecap:round;stroke-miterlimit:10" d="m28.9 28.9-8.1-8.1"/></svg>
   </label>
   <div class="search-interface">

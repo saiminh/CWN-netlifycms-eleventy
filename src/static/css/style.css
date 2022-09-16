@@ -16,6 +16,8 @@
   --color-cwnbg: #ffe5dc;
   --color-cwnmain: #D4776B;
   --color-cwnmain-muted: #ffd0ca;
+  --color-recipe: rgb(98, 132, 93);
+  --color-blog: rgb(128, 172, 211);
   --font-headline: "Space Grotesk", sans-serif;
   --font-body: "Inter", sans-serif;
   --fontsize-body: clamp(16px, 4.3vw, 40px);
@@ -204,12 +206,29 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
 .navigation-menu {
   width: 100%;
   flex-grow: 1;
+  overflow: hidden;
 }
 .navigation-menu.--open {
-  display: block;
+  height: auto;
+}
+.navigation-menu.--open .navigation-menu-list-item {
+  opacity: 1;
+  transform: translateY(0%);
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.navigation-menu.--open .navigation-menu-list-item:nth-child(2) {
+  transition-delay: 0.025s;
+}
+.navigation-menu.--open .navigation-menu-list-item:nth-child(3) {
+  transition-delay: 0.05s;
 }
 .navigation-menu.--hidden {
-  display: none;
+  height: 0;
+}
+.navigation-menu.--hidden .navigation-menu-list-item {
+  opacity: 0;
+  transform: translateY(-100%);
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
 .navigation-menu-list {
@@ -227,7 +246,7 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
   font-size: 2rem;
   padding: 0.75em 0;
   color: var(--color-cwnmain);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid var(--color-cwnmain-muted);
 }
 
 .search {
@@ -339,6 +358,18 @@ article.cookmode .post-section-recipe .post-body-instructions::-webkit-scrollbar
 .post-preview-text-meta-category {
   text-decoration: none;
   font-weight: 300;
+}
+
+.post-preview--recipe .post-preview-text-meta-category, .post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-recipe);
+  padding: 5px;
+  margin-top: 0px;
+  color: #FFF;
+  border-radius: 3px;
+}
+
+.post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-blog);
 }
 
 .post-preview-text-content a {

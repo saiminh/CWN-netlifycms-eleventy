@@ -7,9 +7,14 @@ pagination:
 permalink: /tags/{{ tag }}/
 ---
 {% set taglist = collections[ tag ] %}
+{% if taglist.length === 1 %}
+  {% set amount = "1 article" %}
+{% else %}
+  {% set amount = [taglist.length, " articles"] | join %}
+{% endif %}
 
 <header class="archive-header">
-  <h1 class="archive-header-title">All things “{{ tag }}” <span class="archive-header-amount">({{ taglist.length }})</span></h1>
+  <h1 class="archive-header-title">All things “{{ tag }}” <span class="archive-header-amount">({{ amount }})</span></h1>
 </header>
 
 <section class="feed feed--tag">

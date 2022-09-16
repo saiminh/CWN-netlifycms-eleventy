@@ -61,7 +61,7 @@
 }
 .post-preview-text {
   padding: 0 1em 1em 1em;
-  & :last-child,
+  & > :last-child,
   & > :last-child > :last-child {
     margin-bottom: 0.25em;
   }
@@ -78,6 +78,20 @@
   text-decoration: none;
   font-weight: 300;
 }
+.post-preview--recipe, .post-preview--blog {
+
+  & .post-preview-text-meta-category {
+   background: var(--color-recipe);
+   padding: 5px;
+   margin-top: 0px;
+   color: #FFF;
+   border-radius: 3px;
+ }
+}
+.post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-blog);
+}
+
 .post-preview-text-content {
   height: 100%;
   display: flex;

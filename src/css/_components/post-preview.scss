@@ -24,8 +24,22 @@
   text-decoration: none;
   font-weight: 300;
 }
+.post-preview--recipe, .post-preview--blog {
+
+  & .post-preview-text-meta-category {
+   background: var(--color-recipe);
+   padding: 5px;
+   margin-top: 0px;
+   color: #FFF;
+   border-radius: 3px;
+ }
+}
+.post-preview--blog .post-preview-text-meta-category {
+  background: var(--color-blog);
+}
 .post-preview-text-content a {
   text-decoration: none;
+  
   &.post-preview-text-content-read-more {
     font-family: var(--font-headline);
     text-decoration: underline;

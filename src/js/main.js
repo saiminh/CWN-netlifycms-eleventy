@@ -6,6 +6,13 @@ window.Alpine = Alpine
 Alpine.start()
 
 barba.init({
+  transitions: [{
+    leave(data) {
+    },
+    after(data) {
+      updateBodyClass();
+    }
+  }],
   views: [{
     namespace: 'home',
     beforeEnter() {
@@ -15,9 +22,31 @@ barba.init({
       enableCookmodeListChecking();
       initTooltip();
       fadeInImages();
-    }
+    },
   }]
 });
+
+function updateBodyClass() {
+  
+  
+  console.log('update body class');
+  document.body.classList.remove('isHome', 'isBlog', 'isRecipes', 'isAbout');
+  
+  if ( document.querySelector('.feed--home') ) {
+    document.body.classList.add('isHome');
+  }
+  if ( document.querySelector('.feed--news, .post--news') ) {
+    document.body.classList.add('isBlog');
+  }
+  if ( document.querySelector('.feed--cooking, .post--cooking') ) {
+    document.body.classList.add('isRecipes');
+  }
+  if ( document.querySelector('.page.about-me') ) {
+    document.body.classList.add('isAbout');
+  }
+}
+
+updateBodyClass();
 
 function enableCookmodeListChecking() { 
   let listItems = document.querySelectorAll('.post-body-instructions p, .post-body-ingredients li');
@@ -121,7 +150,6 @@ function fadeInImages() {
 
   fetch("/search-index.json").then((response) =>
     response.json().then((rawIndex) => {
-      console.log(rawIndex);
       window.searchIndex = elasticlunr.Index.load(rawIndex);
       document.getElementById("searchField").addEventListener("input", search);
     })
