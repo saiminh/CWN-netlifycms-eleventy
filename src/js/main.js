@@ -92,9 +92,9 @@ function fadeInImages() {
   let images = document.querySelectorAll('img');
   let imagesArray = Array.from(images);
   imagesArray.map(image => {
-    image.onload = function() {
-      image.classList.add('fade-in');
-    }
+    image.complete ? 
+    image.classList.add('fade-in') :
+    image.onload = () => image.classList.add('fade-in');
   });
 }
 
