@@ -5,8 +5,7 @@ date: 2015-06-15
 ingredients: |-
   ## Choco mint smoothie
 
-  * 1/2 cup x coconut milk 
-  * 1/2 cup x coconut yoghurt 
+  * 1 cup x coconut milk (or use 1/2 cup x coconut yoghurt, 1/2 cup x water) 
   * 1/4 x avocado
   * 2 x medjool dates 
   * Handful x spinach leaves
@@ -31,4 +30,4 @@ categories:
 description: A refreshing summer smoothie, complete with leafy greens, for the
   chocolate-mint fans out there.
 ---
-I’ve probably talked about my love of peppermint choc chip ice cream on this blog before, but obviously making a diet-friendly version takes time. This little gem, however, is a breeze to blend up. It’s not exactly the same as the real deal, but it’s still damn good.
+I’ve probably talked about my love of peppermint choc chip ice cream on this blog before, but obviously making a diet-friendly version takes time. This little gem, however, is a breeze to blend up. It’s not exactly the same as the real deal, but it’s still damn good. Save this one for the summer, the appropriate time to eat raw veggies.
