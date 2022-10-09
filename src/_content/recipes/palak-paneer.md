@@ -43,6 +43,7 @@ tags:
   - dinner
   - lunch
   - vegetarian
+  - ayurveda
 categories:
   - cooking
 description: A switch from the all-spinach variety, this take on palak paneer
