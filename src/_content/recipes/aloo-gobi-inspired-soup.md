@@ -27,7 +27,7 @@ ingredients: >-
 
   * ½ x cauliflower (the other half is for the ‘crouton’ recipe below), chopped up a bit larger than the potatoes
 
-  * 1 x 400-g jar x chopped tomatoes
+  * 1 x 400-g jar chopped tomatoes
 
   * Dried chillies, crushed, or chilli powder to taste (start with ½ tsp if you’re not sure; you can add more later if you like)
 
