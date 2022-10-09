@@ -7,7 +7,7 @@ ingredients: |-
 
   * 1 cup x coconut milk (or use 1/2 cup x coconut yoghurt, 1/2 cup x water) 
   * 1/4 x avocado
-  * 2 x medjool dates 
+  * 2 x medjool dates, pitted 
   * Handful x spinach leaves
   * 6 x mint leaves
   * A few drops x peppermint extract
