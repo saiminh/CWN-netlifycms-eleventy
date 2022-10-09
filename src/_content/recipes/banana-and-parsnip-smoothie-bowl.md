@@ -11,7 +11,7 @@ ingredients: >-
 
   * 1 x parsnip, peeled, chopped and boiled until soft
 
-  * 2 x medjool dates 
+  * 2 x medjool dates, pitted
 
   * 1 cup x coconut milk or non-dairy milk of choice (or water, if you've got nothing else)
 
