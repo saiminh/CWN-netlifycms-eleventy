@@ -24,9 +24,15 @@ ingredients: >-
   * 1 tsp x raw honey 
 
   * Optional add-ins: freshly ground flaxseed or chia seeds (these will both thicken the smoothie so extra water might be necessary, depending on your desired thickness), maca powder
-instructions: Add smoothie ingredients to a blender (or use a stick/staff
-  blender). Blend until smooth, adding extra coconut milk or water to achieve
-  desired consistency.
+instructions: >-
+  Add smoothie ingredients (except the honey) to a blender (or use a stick/staff
+  blender). 
+
+
+  Blend until smooth, adding extra coconut milk or water to achieve desired consistency.
+
+
+  The smoothie should now be around room temperature, even if your beetroot was warm to begin with. If not, wait until it is before adding the honey, which shouldn’t be heated. When ready, add the honey, blend again, then serve.
 tags:
   - beetroot
   - breakfast
@@ -45,5 +51,7 @@ description: " Here’s another sneaky veggie smoothie to add to your morning or
   snack repertoire."
 ---
 I love the combination of beetroot and chocolate: the basis of one of my [favourite cakes](https://www.houseandgarden.co.uk/recipe/flour-free-chocolate-beetroot-cake), by Amber Rose. I cook the beetroot to make it easier to digest (and to help make the smoothie a bit creamier), but feel free to go raw if that’s your thing (and only in the warmer months). 
+
+Beetroot is also great for those menstruating during that time of the month. It’s also a time we often turn to chocolate for comfort (and magnesium), so a dose of raw cacao can satisfy the craving without the processed sugar. 
 
 Feel like a smoothie bowl instead? Use a full cup of coconut yoghurt without thinning it with water, then top with your favourite goodies: cacao nibs (unsuitable for the hypoallergenic diet), coconut, puffed quinoa, buckwheat flakes, pomegranate seeds, toasted and chopped almonds . . .
