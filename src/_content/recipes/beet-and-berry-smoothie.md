@@ -1,12 +1,34 @@
 ---
-title: "Beet and berry smoothie"
-date: "2019-05-27"
-description: "Here’s another sneaky veggie smoothie to add to your morning repertoire."
-categories: 
-  - cooking
-tags: 
+title: Sweet choco-beet smoothie
+featuredImage: https://cwn-static.netlify.app/static/img/wp-images/DSC_0276-1-copy-1.jpg
+date: 2022-10-15T13:57:22.168Z
+ingredients: >-
+  ## Sweet choco-beet smoothie 
+
+
+  *Serves one*
+
+
+  * 1 x small-medium beetroot, freshly cooked and allowed to cool slightly, then peeled 
+
+  * 1 cup x coconut milk or 1/2 cup each of coconut yoghurt and water
+
+  * 1 TBSP carob (to reduce the stimulants and/or keep it hypoallergenic) or raw cacao
+
+  * 1 TBSP x almond butter
+
+  * 1 tsp x extra virgin olive oil 
+
+  * 1 tsp x vanilla extract 
+
+  * 1 tsp x raw honey 
+
+  * Optional add-ins: freshly ground flaxseed or chia seeds (these will both thicken the smoothie so extra water might be necessary, depending on your desired thickness), maca powder
+instructions: Add smoothie ingredients to a blender (or use a stick/staff
+  blender). Blend until smooth, adding extra coconut milk or water to achieve
+  desired consistency.
+tags:
   - beetroot
-  - berries
   - breakfast
   - cacao
   - carob
@@ -16,29 +38,12 @@ tags:
   - spring
   - summer
   - sweet
-ingredients: "## d berry smoothie
-
-
-  _Makes one large portion_
-
-
-  *   1 x small-medium cooked beetroot
-
-  *   1 cup x berries (I used half blackberries and half raspberries here)
-
-  *   1/2-1 cup x coconut milk, depending on your thickness preference
-
-  *   2 tsp x carob (to keep it hypoallergenic) or raw cacao
-
-  *   1 TBSP x almond butter
-
-  *   1/2 tsp x cinnamon powder
-
-  *   Optional add-ins: freshly ground flaxseed, chia seeds, maca powder"
-instructions: "Add smoothie ingredients to a blender (or use a stick blender). Blend until smooth, adding extra milk or water if necessary to achieve desired consistency."
-featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/DSC_0276-1-copy-1.jpg"
+  - ayurveda
+categories:
+  - cooking
+description: " Here’s another sneaky veggie smoothie to add to your morning or
+  snack repertoire."
 ---
+I love the combination of beetroot and chocolate: the basis of one of my [favourite cakes](https://www.houseandgarden.co.uk/recipe/flour-free-chocolate-beetroot-cake), by Amber Rose. I cook the beetroot to make it easier to digest (and to help make the smoothie a bit creamier), but feel free to go raw if that’s your thing (and only in the warmer months). 
 
-I like the beetroot-berry combo: two purple foods that taste great together. Plus, adding beetroot sneaks a vegetable into what would otherwise be a fruit-filled smoothie, increasing fibre and nutrition. I cook the beetroot to make it easier to digest (and to help make the smoothie a bit creamier), but feel free to go raw if that’s your thing. See my [beetroot and raspberry soaked oats](https://cookingwithnothing.com/beetroot-and-raspberry-soaked-oats/) for another spin on the pairing.
-
-Feel like a smoothie bowl instead? Use (coconut) yoghurt instead of milk, then top with your favourite goodies: cacao nibs (unsuitable for the hypoallergenic diet), coconut, puffed quinoa, buckwheat flakes, fresh berries, pomegranate seeds, toasted and chopped almonds . . .
+Feel like a smoothie bowl instead? Use a full cup of coconut yoghurt without thinning it with water, then top with your favourite goodies: cacao nibs (unsuitable for the hypoallergenic diet), coconut, puffed quinoa, buckwheat flakes, pomegranate seeds, toasted and chopped almonds . . .
