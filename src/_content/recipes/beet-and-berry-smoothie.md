@@ -45,6 +45,7 @@ tags:
   - summer
   - sweet
   - ayurveda
+  - snack
 categories:
   - cooking
 description: " Here’s another sneaky veggie smoothie to add to your morning or
