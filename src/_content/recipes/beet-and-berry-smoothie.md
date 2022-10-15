@@ -51,8 +51,10 @@ categories:
 description: " Here’s another sneaky veggie smoothie to add to your morning or
   snack repertoire."
 ---
-I love the combination of beetroot and chocolate: the basis of one of my [favourite cakes](https://www.houseandgarden.co.uk/recipe/flour-free-chocolate-beetroot-cake), by Amber Rose. I cook the beetroot to make it easier to digest (and to help make the smoothie a bit creamier), but feel free to go raw if that’s your thing (and only in the warmer months). 
+I love the combination of beetroot and chocolate: the basis of one of my [favourite cakes](https://www.houseandgarden.co.uk/recipe/flour-free-chocolate-beetroot-cake), by Amber Rose. 
 
-Beetroot is also great for those menstruating during that time of the month. It’s also a time we often turn to chocolate for comfort (and magnesium), so a dose of raw cacao can satisfy the craving without the processed sugar. 
+Here, I cook the beetroot to make it easier to digest (and to help make the smoothie a bit creamier), but feel free to go raw if that’s your thing (and only in the warmer months). 
 
-Feel like a smoothie bowl instead? Use a full cup of coconut yoghurt without thinning it with water, then top with your favourite goodies: cacao nibs (unsuitable for the hypoallergenic diet), coconut, puffed quinoa, buckwheat flakes, pomegranate seeds, toasted and chopped almonds . . .
+Beetroot is also great for menstruating individuals during that time of the month. It’s also a time we often turn to chocolate for comfort (and magnesium), so a dose of raw cacao can satisfy the craving without the processed sugar. 
+
+Feel like a smoothie bowl instead? Use coconut cream or a full cup of coconut yoghurt without thinning it with water, then top with your favourite goodies: cacao nibs (unsuitable for the hypoallergenic diet), coconut, puffed quinoa, buckwheat flakes, pomegranate seeds, toasted and chopped almonds . . .
