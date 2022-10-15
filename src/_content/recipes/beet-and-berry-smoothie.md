@@ -3,7 +3,7 @@ title: Sweet choco-beet smoothie
 featuredImage: https://cwn-static.netlify.app/static/img/wp-images/DSC_0276-1-copy-1.jpg
 date: 2022-10-15T13:57:22.168Z
 ingredients: >-
-  ## Sweet choco-beet smoothie 
+  ## Sweet choco-beet smoothie
 
 
   *Serves one*
@@ -13,7 +13,7 @@ ingredients: >-
 
   * 1 cup x coconut milk or 1/2 cup each of coconut yoghurt and water
 
-  * 1 TBSP carob (to reduce the stimulants and/or keep it hypoallergenic) or raw cacao
+  * 1 TBSP x carob (to reduce the stimulants and/or keep it hypoallergenic) or raw cacao
 
   * 1 TBSP x almond butter
 
