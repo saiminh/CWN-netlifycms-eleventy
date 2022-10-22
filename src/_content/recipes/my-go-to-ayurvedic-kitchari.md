@@ -1,6 +1,6 @@
 ---
 title: "My go-to Ayurvedic kitchari "
-featuredImage: /static/img/dsc_0511.jpeg
+featuredImage: src/static/img/dsc_0511.jpeg
 description: You’ll find many variations out there for kitchari – an
   Indian-spiced savoury porridge that’s considered a balancing, healing meal in
   Ayurveda. Here’s mine.
