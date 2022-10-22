@@ -4,5 +4,6 @@
         "blog",
         "news",
         "article"
-    ]
+    ],
+    "categories": ["news"]
 }
