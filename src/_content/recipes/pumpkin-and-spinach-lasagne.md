@@ -2,8 +2,7 @@
 title: "Pumpkin and spinach lasagne"
 date: "2019-02-06"
 description: "Replacing béchamel sauce with feta and lactose-free yoghurt is the secret to this low-FODMAP vegetarian lasagne."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - cheese

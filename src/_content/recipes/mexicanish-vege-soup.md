@@ -2,8 +2,7 @@
 title: "Mexican-inpsired veggie soup"
 date: "2017-11-25"
 description: "This spice-filled soup is warming and super fresh – and can easily be made vegan."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - black-beans

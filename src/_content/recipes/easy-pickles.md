@@ -2,8 +2,7 @@
 title: "Easy pickles"
 date: "2017-03-30"
 description: "Pickles can help get gut bacteria back on track, and are one of the easiest fermented foods to make."
-categories: 
-  - cooking
+
 tags: 
   - cucumber
   - dill

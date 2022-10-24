@@ -2,8 +2,7 @@
 title: "Why healing can be harder than being sick"
 date: "2017-06-24"
 description: "The road to overcoming a chronic condition can be much longer than anticipated."
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - fmt

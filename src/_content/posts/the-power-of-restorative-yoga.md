@@ -2,8 +2,7 @@
 title: "The power of Rest(orative Yoga)"
 date: "2019-04-19"
 description: "Conscious relaxation puts our bodies into rest-and-digest mode. Which is invaluable for much more than just your gut."
-categories: 
-  - news
+
 tags: 
   - digestion
   - gut-health

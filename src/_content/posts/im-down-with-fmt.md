@@ -2,8 +2,7 @@
 title: "I'm down with FMT"
 date: "2016-10-13"
 description: "After eight months on a strict diet and probiotics for gut dysbiosis, it's time to try a Faecal Microbiota Transplant."
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - fmt

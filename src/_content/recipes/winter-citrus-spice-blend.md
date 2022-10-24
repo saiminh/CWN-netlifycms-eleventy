@@ -2,8 +2,7 @@
 title: "Winter citrus spice blend"
 date: "2022-01-07"
 description: "This is my favourite way to use up orange or mandarin peels: it’s a wintry yet energizing addition to a morning bowl of porridge."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - cinnamon

@@ -2,8 +2,7 @@
 title: "Wintry niçoiseish salad"
 date: "2018-01-03"
 description: "A classic salad gets a drastic makeover – all in the name of eating with the seasons and for good gut health."
-categories: 
-  - cooking
+
 tags: 
   - broccoli
   - dairy-free

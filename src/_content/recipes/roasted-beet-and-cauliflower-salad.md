@@ -2,8 +2,7 @@
 title: "Roasted beet and cauliflower salad"
 date: "2019-07-17"
 description: "This salad is best served fresh from the oven. Feel free to rotate the roast veggies with whatever is in season."
-categories: 
-  - cooking
+
 tags: 
   - beetroot
   - cauliflower

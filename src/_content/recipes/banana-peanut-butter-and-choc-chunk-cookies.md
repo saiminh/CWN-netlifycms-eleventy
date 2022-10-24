@@ -2,8 +2,7 @@
 title: "Banana, peanut butter and choc chunk cookies"
 date: "2019-06-05"
 description: "A gluten- and dairy-free sweet treat without the sugar rush."
-categories: 
-  - cooking
+
 tags: 
   - baking
   - banana

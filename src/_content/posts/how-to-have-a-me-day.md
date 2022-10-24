@@ -2,8 +2,7 @@
 title: "How to have a me day"
 date: "2022-01-23"
 description: "I recently dedicated an entire Sunday to self-care. What did I need to plan in advance, what did I do on the day and what did I discover about myself in the process?"
-categories: 
-  - news
+
 tags: 
   - ayurveda
   - meditation

@@ -67,8 +67,7 @@ tags:
   - sneaky-veggie-smoothie
   - vegan
   - ayurveda
-categories:
-  - cooking
+
 description: Smoothies that start with a veggie mean extra nutrition and reduced fructose.
 ---
 My smoothies often start with a vegetable – but they never taste like that’s the case. That’s why I’m creating a recipe series called [\#Sneaky Veggie Smoothies](https://www.cookingwithnothing.com/tags/sneaky-veggie-smoothie/). This way I make sure my breakfast (or snack) contains a vegetable, and that I don’t OD on fruit sugars in one fell swoop. I also use cooked vegetables in mine (they’re easier on a weak digestive system), particularly during the colder winter months. My insides immediately freeze when I see someone toting around a green smoothie – which is often filled with summery raw ingredients – in colder periods. As my doc says: ‘There is such a thing as trying to be *too* healthy.’

@@ -2,8 +2,7 @@
 title: "Finding your (own) way to gut health"
 date: "2015-07-15"
 description: "The biggest lesson I’ve learned through this process is that no two journeys to healing are the same."
-categories: 
-  - news
+
 tags: 
   - gut-health
   - ibs

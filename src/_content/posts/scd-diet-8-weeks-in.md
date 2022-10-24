@@ -2,8 +2,7 @@
 title: "SCD diet: 8 weeks in"
 date: "2015-03-01"
 description: "I’ve been following the Specific Carbohydrate Diet for two months, and it’s actually starting to go well."
-categories: 
-  - news
+
 tags: 
   - fodmaps
   - gut-health

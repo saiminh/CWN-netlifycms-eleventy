@@ -2,8 +2,7 @@
 title: "Beetroot and raspberry soaked oats"
 date: "2018-12-21"
 description: "This recipe sneaks a veggie into soaked oats, and the beetroot-raspberry combo is a winner."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - beetroot

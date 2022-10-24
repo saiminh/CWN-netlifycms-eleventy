@@ -2,8 +2,7 @@
 title: "Fermented garlic"
 date: "2018-09-27"
 description: "Treating garlic in this way makes it much easier on the gut – and ready to roll for recipes."
-categories: 
-  - cooking
+
 tags: 
   - fermented
   - garlic

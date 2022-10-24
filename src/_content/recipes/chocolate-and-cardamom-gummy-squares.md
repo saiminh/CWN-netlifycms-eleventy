@@ -2,8 +2,7 @@
 title: "Chocolate and cardamom gummy squares"
 date: "2018-03-10"
 description: "A guilt-free gut-healing treat flavoured with (surprise, surprise) chocolate."
-categories: 
-  - cooking
+
 tags: 
   - chocolate
   - coconut

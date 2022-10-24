@@ -2,8 +2,7 @@
 title: "Cauliflower rice kedgeree"
 date: "2019-02-13"
 description: "Brunch, lunch or dinner? Kedgeree works for all three. And replacing the rice with cauliflower beefs up the nutrition."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - cauliflower

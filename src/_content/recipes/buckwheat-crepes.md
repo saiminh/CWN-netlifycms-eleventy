@@ -2,8 +2,7 @@
 title: "Buckwheat crepes"
 date: "2015-05-20"
 description: "These versatile crepes can be filled with different goodies and served for breakfast, lunch or dinner."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - buckwheat

@@ -2,8 +2,7 @@
 title: "Sauerkraut"
 date: "2019-03-21"
 description: "Known to many as the holy grail of fermented foods, sauerkraut can be made simple."
-categories: 
-  - cooking
+
 tags: 
   - apple
   - beetroot

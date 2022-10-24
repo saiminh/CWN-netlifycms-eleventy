@@ -57,8 +57,7 @@ tags:
   - vegetarian
   - winter
   - ayurveda
-categories:
-  - cooking
+
 description: A warm, wintry, one-pot porridge that’s waiting for you when you
   wake up in the morning.
 ---

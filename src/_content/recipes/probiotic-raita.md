@@ -2,8 +2,7 @@
 title: "Probiotic raita"
 date: "2019-07-09"
 description: "Raita is perfect for dolloping over a curry or Middle Eastern dish, or using as a dip with your favourite veggie sticks."
-categories: 
-  - cooking
+
 tags: 
   - cucumber
   - dip

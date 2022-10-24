@@ -2,8 +2,7 @@
 title: "No-fuss sweet treats"
 date: "2020-04-08"
 description: "Looking for something short and sweet that hits the spot? Here are some of my go-tos."
-categories: 
-  - cooking
+
 tags: 
   - chocolate
   - dessert

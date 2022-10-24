@@ -2,8 +2,7 @@
 title: "Probiotic yoghurt"
 date: "2018-10-02"
 description: "From an initial batch of yoghurt, keep reusing the dregs to make batch after batch."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - dairy

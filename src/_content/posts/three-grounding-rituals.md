@@ -2,8 +2,7 @@
 title: "Three grounding rituals"
 date: "2020-03-31"
 description: "Like those of many others in the world right now, my daily reality is very different to what it was just a short while ago. Here's how I'm trying to stay balanced."
-categories: 
-  - news
+
 tags: 
   - covid19
   - grounding

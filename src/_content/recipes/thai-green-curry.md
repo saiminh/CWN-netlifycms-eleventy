@@ -2,8 +2,7 @@
 title: "Thai green curry"
 date: "2015-04-27"
 description: "Most of the prep-work for this low-FODMAP curry is in the paste. Once that's done, the rest is a cinch."
-categories: 
-  - cooking
+
 tags: 
   - asian
   - coconut

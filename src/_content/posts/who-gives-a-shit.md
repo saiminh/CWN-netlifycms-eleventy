@@ -2,8 +2,7 @@
 title: "Who gives a shit?"
 date: "2017-05-19"
 description: "Well, my boyfriend for one. Literally. He was my poop donor."
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - fmt

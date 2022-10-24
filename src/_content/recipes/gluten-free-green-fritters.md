@@ -2,8 +2,7 @@
 title: "Gluten-free green fritters"
 date: "2019-06-27"
 description: "Packed with zucchini and broccoli, these fritters feature teff as a gluten-free alternative to wheat flour."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - broccoli

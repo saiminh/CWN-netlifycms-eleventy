@@ -2,8 +2,7 @@
 title: "No-grain nutty apple porridge"
 date: "2015-12-23"
 description: "Warm and wintry, this spiced porridge is made without an oat in sight."
-categories: 
-  - cooking
+
 tags: 
   - apple
   - autumn

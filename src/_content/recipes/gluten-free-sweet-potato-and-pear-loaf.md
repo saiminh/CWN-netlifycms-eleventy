@@ -2,8 +2,7 @@
 title: "Gluten-free sweet potato and pear loaf"
 date: "2018-10-07"
 description: "Spiced with wintry warmers like cinnamon and nutmeg, this sweet loaf makes a nutritious breakfast or snack."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - breakfast

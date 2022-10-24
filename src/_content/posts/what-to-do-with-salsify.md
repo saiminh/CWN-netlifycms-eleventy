@@ -2,8 +2,7 @@
 title: "What to do with salsify?"
 date: "2015-12-16"
 description: "It’s that thing that looks like a dirty stick, and its reported benefits include improved digestive health."
-categories: 
-  - news
+
 tags: 
   - salsify
   - seasonal-food

@@ -25,8 +25,7 @@ tags:
   - spinach
   - summer
   - sneaky-veggie-smoothie
-categories:
-  - cooking
+
 description: A refreshing summer smoothie, complete with leafy greens, for the
   chocolate-mint fans out there.
 ---

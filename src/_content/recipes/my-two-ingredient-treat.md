@@ -2,8 +2,7 @@
 title: "My two-ingredient treat"
 date: "2018-08-18"
 description: "Not only does this delicious moussey treat comprise just two ingredients; it also takes two minutes to make."
-categories: 
-  - cooking
+
 tags: 
   - chocolate
   - coconut

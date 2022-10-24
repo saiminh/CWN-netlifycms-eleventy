@@ -2,8 +2,7 @@
 title: "Sprouts"
 date: "2018-10-21"
 description: "Little skill needed, just a bit of patience: make grains, seeds and legumes more digestible."
-categories: 
-  - cooking
+
 tags: 
   - digestion
   - fodmaps

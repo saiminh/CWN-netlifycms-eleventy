@@ -2,8 +2,7 @@
 title: "Seasonal water kefir"
 date: "2018-07-07"
 description: "Homemade probiotic soda that you can flavour according to the seasons? Yes, please."
-categories: 
-  - cooking
+
 tags: 
   - drink
   - fermented

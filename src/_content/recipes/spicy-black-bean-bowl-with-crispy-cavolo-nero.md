@@ -2,8 +2,7 @@
 title: "Spicy bean and crispy cavolo nero bowl"
 date: "2019-01-25"
 description: "Roasting most of the vegetables together in the oven for this meal in a bowl keeps the fuss factor to a minimum."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - beans

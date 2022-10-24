@@ -2,8 +2,7 @@
 title: "IBS and SCD"
 date: "2015-01-04"
 description: "After spending a few months trying some different methods, it was time for plan B."
-categories: 
-  - news
+
 tags: 
   - gut-health
   - ibs

@@ -2,8 +2,7 @@
 title: "Sprouted chickpea hummus"
 date: "2018-10-28"
 description: "Once you've sprouted some chickpeas, you can quickly whip up this easier-to-digest hummus."
-categories: 
-  - cooking
+
 tags: 
   - dairy-free
   - gluten-free

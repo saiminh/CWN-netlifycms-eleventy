@@ -36,8 +36,7 @@ tags:
   - sneaky-veggie-smoothie
   - vegan
   - ayurveda
-categories:
-  - cooking
+
 description: This is an incredibly sneaky veggie smoothie; you won't even taste
   the parsnip, promise.
 ---

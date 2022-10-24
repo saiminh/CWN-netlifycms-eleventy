@@ -63,8 +63,7 @@ tags:
   - vegetarian
   - winter
   - ayurveda
-categories:
-  - cooking
+
 description: This simple, veggie-packed soup gets a dose of umami by adding a
   prune to the broth.
 ---

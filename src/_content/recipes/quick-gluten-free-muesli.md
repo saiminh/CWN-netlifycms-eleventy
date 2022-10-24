@@ -2,8 +2,7 @@
 title: "Quick gluten-free muesli"
 date: "2018-08-13"
 description: "Breakfast can be tricky on a low-FODMAP protocol. Here's a quick solution (that's not only for those on the diet)."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - buckwheat

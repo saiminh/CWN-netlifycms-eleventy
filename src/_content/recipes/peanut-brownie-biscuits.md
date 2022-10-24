@@ -2,8 +2,7 @@
 title: "Peanut brownie biscuits"
 date: "2019-10-13"
 description: "This grain-free cookie recipe sneaks in a dose of grass-fed gelatin, which can help to repair damaged gut linings. How’s that for a guilt-free treat?"
-categories: 
-  - cooking
+
 tags: 
   - baking
   - chocolate

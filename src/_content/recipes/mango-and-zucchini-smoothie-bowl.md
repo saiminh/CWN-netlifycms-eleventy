@@ -48,8 +48,7 @@ tags:
   - vegetarian
   - zucchini
   - ayurveda
-categories:
-  - cooking
+
 description: Creamy and subtle, zucchini makes a great base for this summery
   sneaky veggie smoothie.
 ---

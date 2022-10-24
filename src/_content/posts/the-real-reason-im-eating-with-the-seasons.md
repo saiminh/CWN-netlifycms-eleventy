@@ -2,8 +2,7 @@
 title: "The real reason I'm eating with the seasons"
 date: "2015-11-16"
 description: "Why sufferers of digestive disorders should be in sync with seasonal food."
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - seasonal-food

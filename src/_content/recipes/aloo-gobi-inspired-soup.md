@@ -100,8 +100,7 @@ tags:
   - vegan
   - vegetarian
   - winter
-categories:
-  - cooking
+
 description: "Here's my less laborious spin on aloo gobi: the Indian
   potato-and-cauliflower dish."
 ---

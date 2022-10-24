@@ -2,8 +2,7 @@
 title: "Intolerance test results"
 date: "2015-06-13"
 description: "My IgG intolerance test showed strong reactions to yeast and cow’s dairy. So what does that really mean?"
-categories: 
-  - news
+
 tags: 
   - ibs
   - intolerances

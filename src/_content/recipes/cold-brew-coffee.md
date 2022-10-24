@@ -2,8 +2,7 @@
 title: "Cold brew coffee"
 date: "2015-10-18"
 description: "Ground coffee + water + time = a less acidic version of the favourite caffeinated drink."
-categories: 
-  - cooking
+
 tags: 
   - coffee
   - drink

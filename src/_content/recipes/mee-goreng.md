@@ -2,8 +2,7 @@
 title: "Mee Goreng"
 date: "2019-03-28"
 description: "A typically oil-laden wheat-filled Malaysian dish gets a low-FODMAP makeover."
-categories: 
-  - cooking
+
 tags: 
   - asian
   - dairy-free

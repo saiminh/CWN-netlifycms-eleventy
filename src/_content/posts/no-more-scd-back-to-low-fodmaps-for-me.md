@@ -2,8 +2,7 @@
 title: "No more SCD"
 date: "2015-04-08"
 description: "Why, after three months on the Specific Carbohydrate Diet, I switched back to low-FODMAPs."
-categories: 
-  - news
+
 tags: 
   - fodmaps
   - gut-health

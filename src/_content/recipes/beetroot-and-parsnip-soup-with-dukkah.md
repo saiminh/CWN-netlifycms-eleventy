@@ -2,8 +2,7 @@
 title: "Beetroot and parsnip soup with dukkah"
 date: "2016-01-06"
 description: "An earthy soup that pairs two seasonal stars with an Egyptian flavour bomb."
-categories: 
-  - cooking
+
 tags: 
   - autumn
   - beetroot

@@ -2,8 +2,7 @@
 title: "Why I can't eat cold stuff"
 date: "2019-07-31"
 description: "Here’s one for the ladies: what does food temperature have to do with period pain?"
-categories: 
-  - news
+
 tags: 
   - acupuncture
   - dysmenorrhea

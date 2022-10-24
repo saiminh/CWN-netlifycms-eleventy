@@ -2,8 +2,7 @@
 title: "I feel so much better. Now what?"
 date: "2017-10-05"
 description: "My symptoms have stabilized month upon month, and I’m now at a point where I have to wonder: what is my new normal?"
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - gut-health

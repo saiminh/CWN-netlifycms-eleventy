@@ -2,8 +2,7 @@
 title: "A note to the low-FODMAP folk"
 date: "2016-01-10"
 description: "I’m curious how many people are unnecessarily restricting their diets when they could be healing."
-categories: 
-  - news
+
 tags: 
   - dysbiosis
   - fodmaps

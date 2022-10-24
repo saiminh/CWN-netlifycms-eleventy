@@ -2,8 +2,7 @@
 title: "Making Cooking with Nothing my own"
 date: "2018-10-01"
 description: "Same concept, new look: welcome to Cooking with Nothing's redesign."
-categories: 
-  - news
+
 ingredients: ""
 instructions: ""
 featuredImage: "https://cwn-static.netlify.app/static/img/wp-images/CWN_facebook_profile_for-blog.png"

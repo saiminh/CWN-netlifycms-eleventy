@@ -2,8 +2,7 @@
 title: "My new regime"
 date: "2014-10-31"
 description: "I spent years on a low-FODMAP diet before I discovered there may be a chance to actually heal my gut."
-categories: 
-  - news
+
 tags: 
   - fodmaps
   - gut-health

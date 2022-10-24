@@ -2,8 +2,7 @@
 title: "Mint chocolate marshmallow slice"
 date: "2017-09-06"
 description: "A sweet treat that uses grass-fed gelatin, which can help heal damaged gut linings."
-categories: 
-  - cooking
+
 tags: 
   - buckwheat
   - cashews

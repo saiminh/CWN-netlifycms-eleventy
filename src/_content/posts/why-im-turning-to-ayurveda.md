@@ -2,8 +2,7 @@
 title: "Why I'm turning to Ayurveda"
 date: "2021-02-02"
 description: "Well, I’ve always said healing gut health is a journey. And recently I took another step on the long and winding road by starting to work with an Ayurvedic doctor."
-categories: 
-  - news
+
 tags: 
   - ayurveda
   - fmt

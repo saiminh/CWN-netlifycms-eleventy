@@ -2,8 +2,7 @@
 title: "Seed cycling and tinctures to balance female hormones"
 date: "2018-11-19"
 description: "Suffering from oestrogen dominance? How four common seeds and a natural tonic can help."
-categories: 
-  - news
+
 tags: 
   - bitters
   - hormones

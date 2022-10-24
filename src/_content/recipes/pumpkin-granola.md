@@ -2,8 +2,7 @@
 title: "Pumpkin pie granola"
 date: "2017-12-10"
 description: "Squeezing a vegetable into a sweet yet nutritious breakfast can be as easy as (pumpkin) pie."
-categories: 
-  - cooking
+
 tags: 
   - breakfast
   - cereal

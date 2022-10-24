@@ -2,8 +2,7 @@
 title: "SCD diet: 2 weeks in"
 date: "2015-01-21"
 description: "My progress after two weeks on the Specific Carbohydrate Diet. Hint: it's pretty damn tough!"
-categories: 
-  - news
+
 tags: 
   - gut-health
   - ibs

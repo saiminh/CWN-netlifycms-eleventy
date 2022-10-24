@@ -2,8 +2,7 @@
 title: "Japanese soba salad with pickled mushrooms"
 date: "2018-06-26"
 description: "Buckwheat is a protein- and fibre-rich seed – and the star of this summery dish."
-categories: 
-  - cooking
+
 tags: 
   - buckwheat
   - cucumber

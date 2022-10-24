@@ -31,8 +31,7 @@ tags:
   - refined-sugar-free
   - sweet
   - topping
-categories:
-  - cooking
+
 description: This (refined) sugar-free jam offers a good dose of essential omega
   3 fatty acids.
 ---
