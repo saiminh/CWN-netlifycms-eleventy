@@ -59,6 +59,9 @@ module.exports = function (eleventyConfig) {
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
+  eleventyConfig.addPassthroughCopy("./src/favicon-16x16.png");
+  eleventyConfig.addPassthroughCopy("./src/favicon-32x32.png");
+  eleventyConfig.addPassthroughCopy("./src/favicon-96x96.png");
   
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/static/css/style.css");
