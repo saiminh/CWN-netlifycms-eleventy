@@ -41,5 +41,6 @@ tags:
   - coconut
   - vegan
   - vegetarian
+  - oats
 ---
 Somehow I never get sick of porridge, but I do change it up from season to season. Here’s an earthy autumnal flavour profile sweetened with coconut, maple syrup and rosewater that will get your cooler days off to a cosy, grounded start.
