@@ -5,7 +5,7 @@ module.exports = async function(src, alt, sizes, loading = "lazy") {
   let metadata = await Image(src, {
     widths: [300, 600, 900, 1200, 1500],
     formats: ["avif", "jpeg"],
-    urlPath: "static/img/optimized",
+    urlPath: "/static/img/optimized",
     outputDir: "src/static/img/optimized"
   });
 
