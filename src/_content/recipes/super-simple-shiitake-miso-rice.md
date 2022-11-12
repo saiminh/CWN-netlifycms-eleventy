@@ -2,7 +2,7 @@
 title: "Super-simple shiitake miso rice "
 featuredImage: /static/img/dsc_0514.jpeg
 description: A fuss-free method of cooking rice and an almost empty fridge were
-  the inspiration for this Japanesey rice bowl that’s now on my list of comfort
+  the inspiration for this Japanesey bowl that’s now on my list of comfort
   foods.
 date: 2022-11-12T12:59:01.183Z
 ingredients: |-
