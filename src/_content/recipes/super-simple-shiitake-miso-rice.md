@@ -48,4 +48,4 @@ tags:
   - bowl
   - quick
 ---
-This recipe came about one night when I wasn’t feeling overly hungry or well and didn’t have many ingredients in the house. I knew I felt like rice, but not just plain rice. I’ve been cooking my rice using a similar method to the one below for a while now, adding ghee instead of sesame oil and using 2.5 times the amount of water than rice. That – and spotting a bag of dried shiitakes – was the inspiration for this dish, a Japanesey rice bowl that’s now on my list of comfort foods.
+This recipe came about one night when I wasn’t feeling overly hungry or well and didn’t have many ingredients in the house. I knew I felt like having rice, but not just plain rice. I’ve been cooking my rice using a similar method to the one below for a while now, adding ghee instead of sesame oil and using 2.5 times the amount of water than rice. That – and spotting a bag of dried shiitakes – was the inspiration for this dish, a Japanesey rice bowl that’s now on my list of comfort foods.
