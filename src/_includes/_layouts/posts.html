@@ -28,7 +28,9 @@ description: "{{ description }}"
       </a>
       <h1 class="post-head-title" @click="cookmode = ! cookmode">{{title}}</h1>
       <p class="post-head-excerpt">
-        {{ description }}
+        {% if description != '{{ description }}' %}
+          {{ description }}
+        {% endif %}
       </p>
       {% if tags %}
       <span class="tags-label hide-on-mobile">Tagged as:</span>

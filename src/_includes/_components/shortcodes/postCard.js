@@ -37,7 +37,7 @@ module.exports = async function(post, sizes = "(max-width: 300px) 100vw, 100w", 
                   ${ post.data.title ? post.data.title : 'Untitled' }
               </a>
           </h2>
-          ${ post.data.description ? `<a href="${ post.url }"><p class="post-preview-text-content-excerpt">${ post.data.description }</p></a>` : '' }
+          ${ post.data.description != '{{ description }}' ? `<a href="${ post.url }"><p class="post-preview-text-content-excerpt">${ post.data.description }</p></a>` : '' }
           <a href="${ post.url }" class="post-preview-text-content-read-more">
             ${ (post.data.categories == 'news') ? 'Read article' : 'Full Recipe' }
           </a>
