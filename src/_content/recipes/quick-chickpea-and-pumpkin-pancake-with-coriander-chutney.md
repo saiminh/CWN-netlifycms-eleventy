@@ -74,4 +74,4 @@ tags:
   - pumpkin
   - quick
 ---
-I’m always looking for quick lunch ideas to whip up while working from home, and this chickpea pancake fits the bill perfectly – especially if you have the chutney already on hand. The pumpkin can be replaced with any root veggie of choice, and the dish can easily be made vegan too.
+This recipe makes a great working-from-home lunch or quick dinner – especially if you have the chutney already on hand. The pumpkin can be replaced with any root veggie of choice, and the dish can easily be made vegan too.
