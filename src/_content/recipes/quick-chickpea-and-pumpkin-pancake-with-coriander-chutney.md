@@ -2,7 +2,7 @@
 title: Quick chickpea and pumpkin pancake with coriander chutney
 featuredImage: /static/img/dsc_0517.jpeg
 description: Looking for quick lunch idea to whip up while working from home?
-  This chickpea pancake fits the bill perfectly.
+  This chickpea pancake fits the bill perfectly!
 date: 2023-01-24T12:02:21.233Z
 ingredients: >-
   *Serves 1*
