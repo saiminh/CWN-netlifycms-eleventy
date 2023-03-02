@@ -18,6 +18,7 @@ module.exports = async function(src, alt, sizes, loading = "lazy") {
     sizes,
     loading: loading,
     decoding: "async",
+    lemmesee: src
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)

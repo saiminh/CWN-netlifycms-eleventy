@@ -7,9 +7,11 @@ backend:
   # repo: surjithctly/neat-starter
 media_folder: "src/static/img"
 public_folder: "/static/img"
-
+site_url: "https://cookingwithnothing.com"
+display_url: "https://cookingwithnothing.com"
+logo_url: "https://cookingwithnothing.com/static/img/cwn-logo.svg"
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
+local_backend: false
 # publish_mode: editorial_workflow
 collections:
   - name: "meta"
