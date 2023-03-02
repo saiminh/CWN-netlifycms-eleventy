@@ -45,7 +45,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Feature Image", name: "featuredImage", widget: "image", required: false }
-      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what whows up on a google result", required: false }
+      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what shows up on a google result", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Blog"
     name: "blog"
@@ -56,7 +56,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Feature Image", name: "featuredImage", widget: "image", required: false }
-      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what whows up on a google result", required: true }
+      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what shows up on a google result", required: true }
       - { label: "Author", name: "author", widget: "string", required: false  }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -85,7 +85,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Feature Image", name: "featuredImage", widget: "image" }
-      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what whows up on a google result", required: true }
+      - { label: "Description", name: "description", widget: "string", description: "SEO stuff, also what shows up on a google result", required: true }
       - { label: "Author", name: "author", widget: "string", required: false  }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
