@@ -1,10 +1,10 @@
 const Image = require("@11ty/eleventy-img");
 
 // Async Image Shortcode function
-module.exports = async function(src, alt, sizes, loading = "lazy") {
+let asyncImageHTML = async function(src, alt, sizes, loading = "lazy") {
   let filePath = src;
   if ( src.toString().startsWith('/static') ) {
-    filePath = src.toString().replace('/static', 'src/static');
+    filePath = src.toString().replace('/static', 'https://www.cookingwithnothing.com/static');
   }
   let metadata = await Image(filePath, {
     widths: [300, 600, 900, 1200, 1500],
@@ -17,7 +17,8 @@ module.exports = async function(src, alt, sizes, loading = "lazy") {
     alt,
     sizes,
     loading: loading,
-    decoding: "async"
+    decoding: "async",
+    origsrc: src
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
@@ -25,3 +26,6 @@ module.exports = async function(src, alt, sizes, loading = "lazy") {
     whitespaceMode: "inline"
   });
 }
+
+module.exports = asyncImageHTML;
+
