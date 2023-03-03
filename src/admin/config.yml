@@ -6,7 +6,7 @@ backend:
   name: github
   repo: saiminh/CWN-netlifycms-eleventy
 media_folder: "src/static/img"
-public_folder: "/static/img"
+public_folder: "/img"
 # site_url: "https://www.cookingwithnothing.com"
 # display_url: "https://www.cookingwithnothing.com"
 logo_url: "https://cookingwithnothing.com/static/img/cwn-logo.svg"
