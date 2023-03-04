@@ -28,8 +28,6 @@ barba.init({
 
 function updateBodyClass() {
   
-  
-  console.log('update body class');
   document.body.classList.remove('isHome', 'isBlog', 'isRecipes', 'isAbout');
   
   if ( document.querySelector('.feed--home') ) {
