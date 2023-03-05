@@ -9,8 +9,8 @@ let asyncImageHTML = async function(src, alt, sizes, loading = "lazy") {
   let metadata = await Image(filePath, {
     widths: [300, 600, 900, 1200, 1500],
     formats: ["avif", "jpeg"],
-    urlPath: "/static/img/optimized",
-    outputDir: "src/static/img/optimized"
+    urlPath: "/img/optimized",
+    outputDir: "_site/img/optimized"
   });
 
   let imageAttributes = {
