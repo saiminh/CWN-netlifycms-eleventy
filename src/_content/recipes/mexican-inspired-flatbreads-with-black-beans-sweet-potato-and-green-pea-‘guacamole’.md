@@ -102,6 +102,7 @@ tags:
   - sweet-potato
   - beans
   - black-beans
+  - vegan
 ---
 I absolutely love guacamole, but after reading about the environmental impact of avocados lately I’ve been looking for other ways to get my hit. Green peas may not taste quite as good as the real deal in my opinion, but they definitely make a decent substitute. 
 
