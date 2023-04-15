@@ -11,33 +11,9 @@ public_folder: "/static/img"
 # display_url: "https://www.cookingwithnothing.com"
 logo_url: "https://cookingwithnothing.com/static/img/cwn-logo.svg"
 # Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: false
-# publish_mode: editorial_workflow
+local_backend: true
+publish_mode: editorial_workflow
 collections:
-  - name: "meta"
-    label: "Meta"
-    delete: false
-    editor:
-      preview: false
-    files:
-      - name: "tags"
-        label: "Tags"
-        file: "src/_data/mytags.yaml"
-        description: "List of tags"
-        fields:
-          - name: tags
-            label: Tags
-            label_singular: "Tag"
-            widget: list
-            fields:
-              - label: "Slug"
-                name: "slug"
-                widget: "string"
-                hint: "The part of a URL identifies the tag"
-              - label: "Display Name"
-                name: "name"
-                widget: "string"
-                hint: "Tag name for displaying on the site"
   - label: "Pages"
     name: "pages"
     folder: "src/_content/pages"
@@ -78,6 +54,7 @@ collections:
           displayFields:
             - "tags.*.name"
           valueField: "tags.*.slug"
+          multiple: true
   - label: "Recipes"
     name: "recipes"
     folder: "src/_content/recipes"
@@ -109,6 +86,31 @@ collections:
           displayFields:
             - "tags.*.name"
           valueField: "tags.*.slug"
+          multiple: true
+  - name: "meta"
+    label: "Meta"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "tags"
+        label: "Tags"
+        file: "src/_data/mytags.yaml"
+        description: "List of tags"
+        fields:
+          - name: tags
+            label: Tags
+            label_singular: "Tag"
+            widget: list
+            fields:
+              - label: "Slug"
+                name: "slug"
+                widget: "string"
+                hint: "The part of a URL identifies the tag"
+              - label: "Display Name"
+                name: "name"
+                widget: "string"
+                hint: "Tag name for displaying on the site"
   - label: "Settings"
     name: "settings"
     editor:
@@ -127,22 +129,3 @@ collections:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
               - { label: Tooltip, name: tooltip, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
