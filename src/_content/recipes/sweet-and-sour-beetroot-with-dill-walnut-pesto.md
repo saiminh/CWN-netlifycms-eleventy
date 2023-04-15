@@ -1,6 +1,6 @@
 ---
 title: "Sweet and sour beetroot with dill-walnut pesto "
-featuredImage: /static/img/dsc_0468.jpeg
+featuredImage: /static/img/dsc_0523.jpeg
 description: "This dish welcomes spring with the freshness of dill, while
   staying grounded thanks to the beetroot. "
 date: 2023-04-16T08:32:32.182Z
@@ -64,5 +64,11 @@ instructions: >
 
 
   Layer on plates, first the couscous or grain, then the beets, finishing with a dollop of pesto.
+tags:
+  - spring
+  - lunch
+  - dinner
+  - beetroot
+  - vegetarian
 ---
 With the arrival of (slightly) warmer weather, I start to crave dill. To me, the herb has such a spring flavour. Maybe it has something to do with how well it pairs with asparagus, my ultimate spring food. But spring is a time to slowly introduce lighter foods, so here I’ve paired them with a root vegetable and a grain of choice. A very moreish dish. 
