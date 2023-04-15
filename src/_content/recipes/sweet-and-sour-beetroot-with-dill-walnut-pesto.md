@@ -1,5 +1,5 @@
 ---
-title: "Sweet and sour beetroot with dill-walnut pesto "
+title: "Crispy sweet and sour beetroot with dill-walnut pesto "
 featuredImage: /static/img/dsc_0523.jpeg
 description: "This dish welcomes spring with the freshness of dill, while
   staying grounded thanks to the beetroot. "
@@ -8,7 +8,7 @@ ingredients: >-
   _Serves two_
 
 
-  ## Sweet and sour beetroot
+  ## Crispy sweet and sour beetroot
 
   * 3 x beetroot
 
