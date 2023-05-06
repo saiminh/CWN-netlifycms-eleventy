@@ -36,7 +36,11 @@ description: "{{ description }}"
       <span class="tags-label hide-on-mobile">Tagged as:</span>
       <div class="tags hide-on-mobile">
           {% for tag in tags %}
-            {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+            {% if tag | isArray %}
+              {% for t in tag %}
+                <a class="tags-tag" href="/tags/{{t}}">{{t}}</a>
+              {% endfor %}
+            {% elseif tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
             <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
             {% endif %}
           {% endfor %}

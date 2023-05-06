@@ -39,6 +39,11 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  // check if array
+  eleventyConfig.addFilter("isArray", (arr) => {
+    return Array.isArray(arr);
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 
