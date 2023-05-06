@@ -1,8 +1,8 @@
 ---
 title: "Quick sweet beet porridge "
 featuredImage: /static/img/dsc_0522.jpeg
-description: "This is a much faster version of my Sweet Beet and Rose Porridge
-  for less-leisurely mornings. "
+description: This is a much faster version of my Sweet Beet and Rose Porridge
+  for less-leisurely mornings.
 date: 2023-05-06T10:57:33.450Z
 ingredients: |-
   * 1 tsp x ghee (or coconut oil to make it vegan)
