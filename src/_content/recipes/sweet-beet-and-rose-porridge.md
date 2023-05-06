@@ -1,19 +1,21 @@
 ---
 title: Sweet beet and rose porridge
-featuredImage: src/static/img/dsc_0512.jpeg
-description: Pretty and pink, this earthy porridge is perfect for grounding during autumn.
+featuredImage: /static/img/dsc_0522.jpeg
+description: Pretty and pink, this earthy porridge is perfect for grounding
+  during autumn and spring.
 date: 2022-10-30T13:20:51.841Z
 ingredients: |-
   * 1 TBSP x ghee (or coconut oil to make it vegan) 
   * 1 x small or ½ large x beetroot, grated (around ½ cup)
-  * ¼ cup x oats 
+  * ¼ cup x rolled oats 
   * 30 g x coconut cream + ¾ cup water (or equivalent of coconut milk)
   * 2 x cardamom pods
   * Handful of sultanas 
   * 1 TBSP x maple syrup 
   * 1 tsp x rose water
-  * Handful of toasted almonds, to serve 
+  * Handful of toasted almonds or drizzle of almond butter, to serve 
   * Drizzle of coconut cream or coconut yoghurt, to serve
+  * Sprinkling of cacao nibs, to serve
 instructions: >-
   In a small-medium pot or cast-iron skillet, sauté the ghee and grated beetroot
   over a low-medium heat for 5 mins, stirring occasionally. 
@@ -31,7 +33,7 @@ instructions: >-
   Remove from the heat and taste, adding more sweetener or rosewater if necessary. 
 
 
-  Drizzle with coconut cream or coconut yoghurt, sprinkle with toasted almonds and serve immediately.
+  Top with coconut cream or coconut yoghurt, toasted almonds or almond butter, and cacao nibs, and serve immediately.
 tags:
   - ayurveda
   - breakfast
@@ -42,5 +44,7 @@ tags:
   - vegan
   - vegetarian
   - oats
+  - - spring
+  - - porridge
 ---
-Somehow I never get sick of porridge, but I do change it up from season to season. Here’s an earthy autumnal flavour profile sweetened with coconut, maple syrup and rosewater that will get your cooler days off to a cosy, grounded start.
+Somehow I never get sick of porridge, but I do change it up from season to season. Here’s an earthy autumnal flavour profile sweetened with coconut, maple syrup and rosewater that will get your cooler days off to a cosy, grounded start. That said, it’s just as enjoyable in spring as well.
