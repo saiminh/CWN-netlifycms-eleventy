@@ -1,7 +1,8 @@
 ---
 title: Sweet beet and rose porridge
 featuredImage: /static/img/dsc_0512.jpeg
-description: Pretty and pink, this earthy porridge is perfect for grounding during autumn.
+description: Pretty and pink, this earthy porridge is perfect for grounding
+  during autumn and spring.
 date: 2022-10-30T13:20:51.841Z
 ingredients: |-
   * 1 TBSP x ghee (or coconut oil to make it vegan) 
@@ -44,4 +45,4 @@ tags:
   - vegetarian
   - oats
 ---
-Somehow I never get sick of porridge, but I do change it up from season to season. Here’s an earthy autumnal flavour profile sweetened with coconut, maple syrup and rosewater that will get your cooler days off to a cosy, grounded start.
+Somehow I never get sick of porridge, but I do change it up from season to season. Here’s an earthy autumnal flavour profile sweetened with coconut, maple syrup and rosewater that will get your cooler days off to a cosy, grounded start. That said, it’s just as enjoyable in spring as well.
