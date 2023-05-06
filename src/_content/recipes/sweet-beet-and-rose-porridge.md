@@ -1,12 +1,12 @@
 ---
 title: Sweet beet and rose porridge
-featuredImage: /static/img/dsc_0522.jpeg
+featuredImage: /static/img/dsc_0512.jpeg
 description: Pretty and pink, this earthy porridge is perfect for grounding during autumn.
 date: 2022-10-30T13:20:51.841Z
 ingredients: |-
   * 1 TBSP x ghee (or coconut oil to make it vegan) 
   * 1 x small or ½ large x beetroot, grated (around ½ cup)
-  * ¼ cup x oats 
+  * ¼ cup x rolled oats 
   * 30 g x coconut cream + ¾ cup water (or equivalent of coconut milk)
   * 2 x cardamom pods
   * Handful of sultanas 
