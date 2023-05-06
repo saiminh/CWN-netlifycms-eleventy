@@ -1,6 +1,6 @@
 ---
 title: Sweet beet and rose porridge
-featuredImage: src/static/img/dsc_0512.jpeg
+featuredImage: /static/img/dsc_0512.jpeg
 description: Pretty and pink, this earthy porridge is perfect for grounding during autumn.
 date: 2022-10-30T13:20:51.841Z
 ingredients: |-
@@ -12,8 +12,9 @@ ingredients: |-
   * Handful of sultanas 
   * 1 TBSP x maple syrup 
   * 1 tsp x rose water
-  * Handful of toasted almonds, to serve 
+  * Handful of toasted almonds or drizzle of almond butter, to serve 
   * Drizzle of coconut cream or coconut yoghurt, to serve
+  * Sprinkling of cacao nibs, to serve
 instructions: >-
   In a small-medium pot or cast-iron skillet, sauté the ghee and grated beetroot
   over a low-medium heat for 5 mins, stirring occasionally. 
@@ -31,7 +32,7 @@ instructions: >-
   Remove from the heat and taste, adding more sweetener or rosewater if necessary. 
 
 
-  Drizzle with coconut cream or coconut yoghurt, sprinkle with toasted almonds and serve immediately.
+  Top with coconut cream or coconut yoghurt, toasted almonds or almond butter, and cacao nibs, and serve immediately.
 tags:
   - ayurveda
   - breakfast
