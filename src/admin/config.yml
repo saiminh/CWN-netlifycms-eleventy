@@ -49,11 +49,11 @@ collections:
           widget: relation
           collection: "meta"
           file: "tags"
-          searchFields:
+          search_fields:
             - "tags.*.name"
-          displayFields:
+          display_fields:
             - "tags.*.name"
-          valueField: "tags.*.slug"
+          value_field: "tags.*.slug"
           multiple: true
   - label: "Recipes"
     name: "recipes"
@@ -81,11 +81,11 @@ collections:
           widget: relation
           collection: "meta"
           file: "tags"
-          searchFields:
+          search_fields:
             - "tags.*.name"
-          displayFields:
+          display_fields:
             - "tags.*.name"
-          valueField: "tags.*.slug"
+          value_field: "tags.*.slug"
           multiple: true
   - name: "meta"
     label: "Meta"
