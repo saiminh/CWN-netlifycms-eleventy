@@ -1,6 +1,6 @@
 ---
 title: Sweet beet and rose porridge
-featuredImage: /static/img/dsc_0512.jpeg
+featuredImage: /static/img/dsc_0522.jpeg
 description: Pretty and pink, this earthy porridge is perfect for grounding
   during autumn and spring.
 date: 2022-10-30T13:20:51.841Z
