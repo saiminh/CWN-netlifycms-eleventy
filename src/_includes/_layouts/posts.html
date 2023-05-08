@@ -40,7 +40,7 @@ description: "{{ description }}"
               {% for t in tag %}
                 <a class="tags-tag" href="/tags/{{t}}">{{t}}</a>
               {% endfor %}
-            {% elseif tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+            {% elif tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
             <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
             {% endif %}
           {% endfor %}
@@ -76,7 +76,11 @@ description: "{{ description }}"
 <div class="tags hide-on-wide">
   {% if tags %}
     {% for tag in tags %}
-      {% if tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
+      {% if tag | isArray %}
+      {% for t in tag %}
+        <a class="tags-tag" href="/tags/{{t}}">{{t}}</a>
+      {% endfor %}
+      {% elif tag != 'article' and tag != 'blog' and tag != 'cooking' and tag != 'recipe' and tag != 'news' %}
       <a class="tags-tag" href="/tags/{{tag}}">{{tag}}</a>
       {% endif %}
     {% endfor %}
