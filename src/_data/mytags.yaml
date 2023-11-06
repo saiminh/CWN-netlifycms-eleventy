@@ -13,6 +13,8 @@ tags:
     name: Avocado
   - slug: ayurveda
     name: Ayurveda
+  - slug: ayurvedic
+    name: Ayurvedic
   - slug: baking
     name: Baking
   - slug: banana
@@ -285,5 +287,3 @@ tags:
     name: Yoghurt
   - slug: zucchini
     name: Zucchini
-  - slug: ayurvedic
-    name: Ayurvedic
